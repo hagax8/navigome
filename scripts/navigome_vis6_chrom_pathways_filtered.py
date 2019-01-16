@@ -1,6 +1,7 @@
 import altair as alt
 import pandas as pd
 from sys import argv
+import sys
 import numpy as np
 
 df = pd.read_csv(argv[1])
@@ -176,19 +177,12 @@ def label_filter(row):
             result = True
     return result
 
-def label_filter_category(row):
+def label_filter_any(row):
     result = False
     for i in mycolall:
         if abs(row[i]) >= 4.70813:
             result = True
-    return result
-
-def label_filter_any(row):
-    result = False
-    for i in mycolall:
-        if abs(row[i]) >= 5.157701:
-            result = True
-    if row['association'] >= 2.30103:
+    if row['association'] >= 5.60206:
         result = True
     return result
 
@@ -196,6 +190,17 @@ df['any_filter'] = df.apply(lambda row: label_filter_any(row), axis=1)
 print(df.count)
 df = df.loc[df['any_filter'] == True]
 print(df.count)
+
+
+
+if df.isnull().values.all():
+    chartfinal = alt.Chart(df).mark_point().encode(
+        x=alt.X('name',axis=alt.Axis(title='')),
+        ).properties(title="There is no significant gene for this phenotype (yet).")
+    chartfinal.save(argv[3]+'.html')
+    sys.exit()
+
+
 df['predixcan_sig'] = df.apply(lambda row: label_filter(row), axis=1)
 
 def label_sig(row):
@@ -255,9 +260,6 @@ chart = alt.Chart().mark_point(
 ).encode(
     shape=alt.Shape(
         'significant in tissue:N',
-        #legend=alt.Legend(
-        #    orient='right',
-        #    title='Significant in:'),
         legend=None,
         scale=alt.Scale(
             domain=sigArray)),
@@ -336,10 +338,6 @@ infine2 = alt.vconcat(legend, infine)
 
 infine2 = alt.hconcat(legendfilter, infine2, data=df).properties(
 title='Gene associations: ' + str(argv[2])
-#).configure_axis(
-#labelPadding=20
-#).configure(
-#padding=20
 ).configure_title(
 offset=30
 )
