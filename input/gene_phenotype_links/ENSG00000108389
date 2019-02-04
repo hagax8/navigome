@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"MTMR4",ENSG00000108389,20.176526,,,,,,,,,,,,,,,,,,-2.05527828744,,,,,,0.670686808807,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO06,"MTMR4",ENSG00000108389,9.202518,,,,,,,,,,,,,,,,,,1.17900694646,,,,,,-0.573062322373,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO09,"MTMR4",ENSG00000108389,6.349858,,,,,,,,,,,,,,,,,,0.991540680331,,,,,,-0.551791679855,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO10,"MTMR4",ENSG00000108389,6.756392,,,,,,,,,,,,,,,,,,0.692754761864,,,,,,-0.457269581747,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO13,"MTMR4",ENSG00000108389,7.907209,,,,,,,,,,,,,,,,,,1.16714496338,,,,,,-0.696752282335,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO19,"MTMR4",ENSG00000108389,25.720881,,,,,,,,,,,,,,,,,,2.5660165647,,,,,,-1.3512010728,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO27,"MTMR4",ENSG00000108389,6.100913,,,,,,,,,,,,,,,,,,0.173967581188,,,,,,-0.983172173612,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO28,"MTMR4",ENSG00000108389,31.095566,,,,,,,,,,,,,,,,,,-2.48826350477,,,,,,0.99861123976,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO30,"MTMR4",ENSG00000108389,6.828537,,,,,,,,,,,,,,,,,,0.96070765259,,,,,,-0.444719181317,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO32,"MTMR4",ENSG00000108389,7.242149,,,,,,,,,,,,,,,,,,1.55682708355,,,,,,-1.25479067178,,,,,,,,,,,,,,,,,,,,,,,,,

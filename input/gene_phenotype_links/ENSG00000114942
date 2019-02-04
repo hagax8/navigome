@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04F,"EEF1B2",ENSG00000114942,0.920059,,,,-0.855048282068,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.38582588271,,,,,,,,,,,,,,4.85590411719,,
+EDUC03,"EEF1B2",ENSG00000114942,6.738309,,,,2.94615196397,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.2861371576,,,,,,,,,,,,,,-1.12732651529,,
+LEAN04B,"EEF1B2",ENSG00000114942,8.181075,,,,-4.86984979587,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.831804393992,,,,,,,,,,,,,,-0.946053346504,,
+LEAN04,"EEF1B2",ENSG00000114942,7.906859,,,,-4.92860787134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.771757817586,,,,,,,,,,,,,,-1.59868670376,,
+LEAN05B,"EEF1B2",ENSG00000114942,7.253016,,,,-4.69936567822,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.826518510706,,,,,,,,,,,,,,-0.903157998964,,
+LEAN05,"EEF1B2",ENSG00000114942,7.463214,,,,-4.84015958187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.780498079833,,,,,,,,,,,,,,-1.59290665559,,
+LEAN06B,"EEF1B2",ENSG00000114942,8.348218,,,,-4.85121582022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.28076115544,,,,,,,,,,,,,,1.29918100698,,
+LEAN06F,"EEF1B2",ENSG00000114942,5.804045,,,,-4.13768061515,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.59659827864,,,,,,,,,,,,,,1.95307487763,,
+LEAN06,"EEF1B2",ENSG00000114942,7.890793,,,,-4.55728699501,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.25893621786,,,,,,,,,,,,,,0.623969427781,,

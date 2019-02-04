@@ -1,0 +1,15 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO29,"CS",ENSG00000062485,11.171785,,,,,,,,,,,,,,,,,,,-1.42056603894,,,,1.57479778292,,,,,,,,,,,,,,,,,,,,,,,,,,0.367798837231
+BLOO33,"CS",ENSG00000062485,1.039938,,,,,,,,,,,,,,,,,,,-1.39056684321,,,,4.81622065213,,,,,,,,,,,,,,,,,,,,,,,,,,1.26244778977
+HEIG03,"CS",ENSG00000062485,14.016829,,,,,,,,,,,,,,,,,,,4.8827882547,,,,-3.23741433322,,,,,,,,,,,,,,,,,,,,,,,,,,-1.38907345732
+HEIG04F,"CS",ENSG00000062485,8.257016,,,,,,,,,,,,,,,,,,,3.59509136812,,,,-2.03148888101,,,,,,,,,,,,,,,,,,,,,,,,,,-1.59366903072
+LEAN04B,"CS",ENSG00000062485,3.124111,,,,,,,,,,,,,,,,,,,3.09492215669,,,,-4.96556334837,,,,,,,,,,,,,,,,,,,,,,,,,,-3.15438011902
+LEAN04M,"CS",ENSG00000062485,4.706991,,,,,,,,,,,,,,,,,,,3.88062054052,,,,-5.28176082995,,,,,,,,,,,,,,,,,,,,,,,,,,-2.41686114217
+LEAN04,"CS",ENSG00000062485,4.593801,,,,,,,,,,,,,,,,,,,3.69933519372,,,,-5.79499496106,,,,,,,,,,,,,,,,,,,,,,,,,,-3.22717599828
+LEAN05B,"CS",ENSG00000062485,3.124181,,,,,,,,,,,,,,,,,,,3.07863972256,,,,-4.95806095197,,,,,,,,,,,,,,,,,,,,,,,,,,-3.08362819902
+LEAN05M,"CS",ENSG00000062485,4.832683,,,,,,,,,,,,,,,,,,,3.86904818548,,,,-5.29967107361,,,,,,,,,,,,,,,,,,,,,,,,,,-2.46476672402
+LEAN05,"CS",ENSG00000062485,4.163917,,,,,,,,,,,,,,,,,,,3.69853689997,,,,-5.80781687455,,,,,,,,,,,,,,,,,,,,,,,,,,-3.21052328837
+LEAN06B,"CS",ENSG00000062485,8.444349,,,,,,,,,,,,,,,,,,,3.40557373333,,,,-5.39840519817,,,,,,,,,,,,,,,,,,,,,,,,,,-2.66067365616
+LEAN06M,"CS",ENSG00000062485,7.338841,,,,,,,,,,,,,,,,,,,3.87565204665,,,,-4.26464024487,,,,,,,,,,,,,,,,,,,,,,,,,,-2.27062567794
+LEAN06,"CS",ENSG00000062485,9.292174,,,,,,,,,,,,,,,,,,,3.85221995471,,,,-5.60196539061,,,,,,,,,,,,,,,,,,,,,,,,,,-2.94292806265
+MENO01F,"CS",ENSG00000062485,0.451684,,,,,,,,,,,,,,,,,,,0.967110162723,,,,-8.02537897172,,,,,,,,,,,,,,,,,,,,,,,,,,-3.69863736477

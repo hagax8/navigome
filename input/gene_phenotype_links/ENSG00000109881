@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BALD01,"CCDC34",ENSG00000109881,7.160541,,,,,0.1189468948298565,,,,,,,,,,,,,,,,,,0.426579470958,,,,,,,,,,,,,,,,,,1.09584061068,,,,,,,,
+BFPC04B,"CCDC34",ENSG00000109881,9.112934,,,,,-0.5792268869470198,,,,,,,,,,,,,,,,,,-0.745484458234,,,,,,,,,,,,,,,,,,1.56438071189,,,,,,,,
+BFPC04,"CCDC34",ENSG00000109881,9.380093,,,,,-0.7612315885695035,,,,,,,,,,,,,,,,,,-0.715659219703,,,,,,,,,,,,,,,,,,1.82642653938,,,,,,,,
+BODY08B,"CCDC34",ENSG00000109881,8.680748,,,,,0.6743406010144571,,,,,,,,,,,,,,,,,,-1.49981317647,,,,,,,,,,,,,,,,,,1.16406115809,,,,,,,,
+BODY08M,"CCDC34",ENSG00000109881,6.681624,,,,,0.8277395055927862,,,,,,,,,,,,,,,,,,-1.13966104673,,,,,,,,,,,,,,,,,,0.137935488416,,,,,,,,
+BODY08,"CCDC34",ENSG00000109881,8.610869,,,,,0.5241525379318165,,,,,,,,,,,,,,,,,,-1.62549496804,,,,,,,,,,,,,,,,,,1.39140973672,,,,,,,,
+FATM04B,"CCDC34",ENSG00000109881,9.117401,,,,,0.10900153446293184,,,,,,,,,,,,,,,,,,-0.957016168358,,,,,,,,,,,,,,,,,,1.25463493248,,,,,,,,
+FATM04M,"CCDC34",ENSG00000109881,6.274644,,,,,0.5356124909348619,,,,,,,,,,,,,,,,,,-0.964448016392,,,,,,,,,,,,,,,,,,0.363059054754,,,,,,,,
+FATM04,"CCDC34",ENSG00000109881,9.503001,,,,,-0.044998302477225485,,,,,,,,,,,,,,,,,,-0.991909500892,,,,,,,,,,,,,,,,,,1.42076408305,,,,,,,,
+HIPC01,"CCDC34",ENSG00000109881,5.968794,,,,,-0.4457120193750555,,,,,,,,,,,,,,,,,,-1.80667684351,,,,,,,,,,,,,,,,,,1.56858750434,,,,,,,,
+HIPC02,"CCDC34",ENSG00000109881,6.459858,,,,,-0.4335082710876136,,,,,,,,,,,,,,,,,,-1.63135501553,,,,,,,,,,,,,,,,,,1.43184464847,,,,,,,,
+OSTE04,"CCDC34",ENSG00000109881,19.495692,,,,,3.014379319355405,,,,,,,,,,,,,,,,,,-0.63676970578,,,,,,,,,,,,,,,,,,-1.16663895403,,,,,,,,

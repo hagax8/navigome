@@ -1,0 +1,9 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"KRTAP10-6",ENSG00000188155,0.020301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.239762862203,,,-6.00719296021,
+BFPC04F,"KRTAP10-6",ENSG00000188155,0.053911,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.464511773869,,,-4.71603307547,
+BFPC04,"KRTAP10-6",ENSG00000188155,0.016329,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.34279596724,,,-6.11307501869,
+BODY08B,"KRTAP10-6",ENSG00000188155,0.502338,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.170528533175,,,-6.36849590371,
+BODY08M,"KRTAP10-6",ENSG00000188155,0.162008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.058775040196,,,-4.94778400189,
+BODY08,"KRTAP10-6",ENSG00000188155,0.375646,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.252744002226,,,-6.38649152666,
+FATM04B,"KRTAP10-6",ENSG00000188155,0.071133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.00196473320958,,,-5.9852704791,
+FATM04,"KRTAP10-6",ENSG00000188155,0.027025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.062354259045,,,-6.08971546899,

@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+HEIG02,"CATSPER3",ENSG00000152705,7.553789,,,,,,,,,,,,,,,,,,,,-0.0627478941793,,,,,,,,,,,,-1.02262239587,,,,,,,,0.0264617279172,,,,,,,,,
+HEIG03,"CATSPER3",ENSG00000152705,16.703357,,,,,,,,,,,,,,,,,,,,-1.00503599542,,,,,,,,,,,,-1.4248646812,,,,,,,,-0.599611461163,,,,,,,,,
+HEIG04F,"CATSPER3",ENSG00000152705,9.190743,,,,,,,,,,,,,,,,,,,,0.689448032989,,,,,,,,,,,,-0.421459486467,,,,,,,,-0.573535084724,,,,,,,,,
+HIPC03,"CATSPER3",ENSG00000152705,7.116151,,,,,,,,,,,,,,,,,,,,-0.0733705084532,,,,,,,,,,,,0.368628761538,,,,,,,,1.92162764072,,,,,,,,,
+HIPC04,"CATSPER3",ENSG00000152705,7.631843,,,,,,,,,,,,,,,,,,,,-0.0715407299817,,,,,,,,,,,,0.35943564345,,,,,,,,1.87370479107,,,,,,,,,
+LEAN04,"CATSPER3",ENSG00000152705,5.831061,,,,,,,,,,,,,,,,,,,,0.465799382401,,,,,,,,,,,,-0.382748622345,,,,,,,,-0.272769153118,,,,,,,,,
+LEAN06B,"CATSPER3",ENSG00000152705,11.385936,,,,,,,,,,,,,,,,,,,,1.13551426374,,,,,,,,,,,,1.94982394825,,,,,,,,0.976690411568,,,,,,,,,
+LEAN06M,"CATSPER3",ENSG00000152705,6.716247,,,,,,,,,,,,,,,,,,,,0.145486779022,,,,,,,,,,,,0.684749213458,,,,,,,,0.0620862357318,,,,,,,,,
+LEAN06,"CATSPER3",ENSG00000152705,12.393963,,,,,,,,,,,,,,,,,,,,0.841253586565,,,,,,,,,,,,1.49203657718,,,,,,,,0.547956228256,,,,,,,,,
+MENA02F,"CATSPER3",ENSG00000152705,8.182302,,,,,,,,,,,,,,,,,,,,0.242327042325,,,,,,,,,,,,-3.40009103018,,,,,,,,-5.10860824585,,,,,,,,,

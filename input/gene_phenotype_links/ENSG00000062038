@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO04,"CDH3",ENSG00000062038,19.148204,,,,,,,,,,,,,,,,,,,,,-1.85434525408,,,,,,,,,,,,,,,,,,-4.49232691667,,,,-0.174850854591,,,,,,
+BLOO21,"CDH3",ENSG00000062038,19.827601,,,,,,,,,,,,,,,,,,,,,-2.77685180972,,,,,,,,,,,,,,,,,,-4.270985594,,,,-0.25136229033,,,,,,
+BLOO22,"CDH3",ENSG00000062038,18.000778,,,,,,,,,,,,,,,,,,,,,-2.26193755407,,,,,,,,,,,,,,,,,,-4.12426639559,,,,-0.0672242441579,,,,,,
+BLOO23,"CDH3",ENSG00000062038,6.230283,,,,,,,,,,,,,,,,,,,,,-1.84916275066,,,,,,,,,,,,,,,,,,-1.69184675779,,,,-0.00361727805163,,,,,,
+BLOO26,"CDH3",ENSG00000062038,15.966616,,,,,,,,,,,,,,,,,,,,,-3.08959405732,,,,,,,,,,,,,,,,,,-4.55291428565,,,,0.268154416139,,,,,,
+BLOO27,"CDH3",ENSG00000062038,14.290594,,,,,,,,,,,,,,,,,,,,,-3.07448970024,,,,,,,,,,,,,,,,,,-4.42996549518,,,,0.136349858377,,,,,,
+BLOO33,"CDH3",ENSG00000062038,9.305518,,,,,,,,,,,,,,,,,,,,,3.47933941892,,,,,,,,,,,,,,,,,,2.87033672876,,,,-0.663718931615,,,,,,
+BLOO35,"CDH3",ENSG00000062038,22.561695,,,,,,,,,,,,,,,,,,,,,3.04826399384,,,,,,,,,,,,,,,,,,6.68682028432,,,,1.46151556144,,,,,,
+BLOO36,"CDH3",ENSG00000062038,23.467386,,,,,,,,,,,,,,,,,,,,,-2.57637500146,,,,,,,,,,,,,,,,,,-4.7399198541,,,,-0.367278841831,,,,,,
+HEIG03,"CDH3",ENSG00000062038,1.389659,,,,,,,,,,,,,,,,,,,,,-2.49283112889,,,,,,,,,,,,,,,,,,0.246323775187,,,,-5.18955759657,,,,,,
+MENA01F,"CDH3",ENSG00000062038,1.507687,,,,,,,,,,,,,,,,,,,,,-1.79133947257,,,,,,,,,,,,,,,,,,1.12232017145,,,,-6.04820536025,,,,,,
+MENA02F,"CDH3",ENSG00000062038,0.163397,,,,,,,,,,,,,,,,,,,,,-1.91546789026,,,,,,,,,,,,,,,,,,0.388158811096,,,,-8.21383117485,,,,,,

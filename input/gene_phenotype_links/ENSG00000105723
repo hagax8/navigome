@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"GSK3A",ENSG00000105723,12.196761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.54210894041,,,,,,,,,,,,,,,,,,,,
+BLOO07,"GSK3A",ENSG00000105723,6.410989,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.09881941496,,,,,,,,,,,,,,,,,,,,
+BLOO09,"GSK3A",ENSG00000105723,5.855115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.63683394133,,,,,,,,,,,,,,,,,,,,
+BLOO10,"GSK3A",ENSG00000105723,7.027316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.376066582298,,,,,,,,,,,,,,,,,,,,
+BLOO12,"GSK3A",ENSG00000105723,8.511421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.454847882349,,,,,,,,,,,,,,,,,,,,
+BLOO16,"GSK3A",ENSG00000105723,6.260372,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.84235022828,,,,,,,,,,,,,,,,,,,,
+BLOO30,"GSK3A",ENSG00000105723,5.685775,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.716561309479,,,,,,,,,,,,,,,,,,,,
+HEIG03,"GSK3A",ENSG00000105723,8.488170,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.2566755811,,,,,,,,,,,,,,,,,,,,
+WEIG02,"GSK3A",ENSG00000105723,6.783649,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.15956198787,,,,,,,,,,,,,,,,,,,,
+WEIG03,"GSK3A",ENSG00000105723,5.875040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.99896664601,,,,,,,,,,,,,,,,,,,,

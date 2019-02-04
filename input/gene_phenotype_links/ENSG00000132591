@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"ERAL1",ENSG00000132591,12.677760,,,,-5.86404125456,5.704365145899148,,0.322714952428,,,,,3.9387901521,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO03,"ERAL1",ENSG00000132591,8.038380,,,,3.84742338574,-4.0355287190927855,,1.25885962738,,,,,-4.37231650677,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO04,"ERAL1",ENSG00000132591,9.096335,,,,-3.26135554672,3.6872148553458386,,1.49608309785,,,,,3.58931217525,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO21,"ERAL1",ENSG00000132591,27.443324,,,,-7.45694944857,8.044920263019442,,1.27149632961,,,,,7.03833125583,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO22,"ERAL1",ENSG00000132591,34.348945,,,,-8.26457016951,8.777778370598941,,1.28577319202,,,,,7.54115374124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO23,"ERAL1",ENSG00000132591,62.857673,,,,-11.6900973225,12.717261660578055,,0.973096324547,,,,,9.43274465336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO25,"ERAL1",ENSG00000132591,52.695919,,,,10.5571094079,-10.928384782429598,,-0.417724918496,,,,,-8.866659975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO26,"ERAL1",ENSG00000132591,48.567191,,,,13.7190233746,-12.283145277852588,,1.71454728909,,,,,-11.6481902071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO27,"ERAL1",ENSG00000132591,34.445547,,,,10.1746095468,-8.501711304310724,,2.13150035283,,,,,-8.67108410994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO29,"ERAL1",ENSG00000132591,10.132438,,,,4.58031328143,-4.182872127547841,,-1.87434014123,,,,,3.24098071088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO35,"ERAL1",ENSG00000132591,65.158090,,,,-13.6682544864,14.183380909497892,,-0.825710122696,,,,,11.2230974372,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC22,"ERAL1",ENSG00000132591,9.757881,,,,-3.57102168226,4.760174454188806,,-1.66620710458,,,,,3.44408897107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -2,12 +2,14 @@ import subprocess
 from bs4 import BeautifulSoup as Soup
 import os
 import pandas as pd
+from sys import argv
 
-f_reference = "gwas_reference_toadd"
-csvfile = pd.read_csv(f_reference)
+workdir = str(argv[1])
+f_reference = workdir + '/input/' + "gwas_reference_toadd"
+csvfile = pd.read_csv(f_reference, keep_default_na=False)
 codes = csvfile['code']
 
-outdir = 'genes_chromosomes'
+outdir = workdir + '/output/' + 'genes_chromosomes'
 if not os.path.exists(outdir):
     os.makedirs(outdir)
 
@@ -37,54 +39,67 @@ newheader = '<style>' \
             '<script src="https://phenviz.navigome.com/js/jquery.min.js"></script>' \
             '<script src="https://phenviz.navigome.com/js/bootstrap.js"></script>'
 
-
-adddiv = ('<div class="col-lg-12 col-md-12 content-item content-item-1">' +
-          '<p>This is a chromosome view to visualize gene-wise associations ' +
-          'for a selected phenotype. ' +
-          'Gene-wise associations ' +
-          'were derived from SNP-phenotype association statistics '
-          'obtained from genome-wide ' +
-          'association studies ' +
-          '(GWAS) using ' +
-          '<a href="https://ctg.cncr.nl/software/magma">MAGMA</a>; ' +
-          'associations in tissues were computed using ' +
-          '<a href="https://github.com/hakyimlab/MetaXcan">S-PrediXcan</a>. '
-          'Only genes with p-value &le; 0.005 in MAGMA or S-PrediXcan ' +
-          'are shown on this plot. '
-          'Gene associations are significant if p-value &le; 0.05/20000. ' +
-          'Clicking on a specific gene will lead to its tissue profile. ' +
-          'If a chromosome is "empty", it has no gene with '
-          'p-value &le; 0.005 in MAGMA or S-PrediXcan, or the GWAS did not ' +
-          'include the chromosome (the latter can only happen for X and Y).' +
-          'Clicking on MAGMA sig. and S-PrediXcan sig. options will show ' +
-          'or hide genes significant in MAGMA and S-PrediXcan. ' +
-          '<br><br>The following symbols indicate in which analyses ' +
-          'genes were found to be significant:<br>' +
-          '&#9679;: significant in MAGMA and S-PrediXcan analyses<br>' +
-	      '&#9632;: significant in S-PrediXcan analyses only<br>' +
-          '&#9650;: significant in MAGMA only <br>'+
-          '&#10010;: not significant <br>' +
-          '</p>' +
-          '</div>')
+adddiv = (
+    '<div class="col-lg-12 col-md-12 content-item content-item-1">' +
+    '<p>This is a chromosome view to visualize gene-wise associations ' +
+    'for a selected phenotype. ' +
+    'Gene-wise associations ' +
+    'were derived from SNP-phenotype association statistics '
+    'obtained from genome-wide ' +
+    'association studies ' +
+    '(GWAS) using ' +
+    '<a href="https://ctg.cncr.nl/software/magma">MAGMA</a>; ' +
+    'associations in tissues were computed using ' +
+    '<a href="https://github.com/hakyimlab/MetaXcan">S-PrediXcan</a>. '
+    'Only significant genes are shown on this plot (p-value &le; 0.05/20000). ' +
+    'Clicking on a specific gene will lead to its tissue profile. ' +
+    'If a chromosome is "empty", it has no significant gene ' +
+    'or the GWAS did not ' +
+    'include the chromosome (can only happen for X and Y). ' +
+    'Clicking on MAGMA sig. and S-PrediXcan sig. options will show ' +
+    'or hide genes significant in MAGMA and S-PrediXcan. ' +
+    '<br><br>The following symbols indicate in which analyses ' +
+    'genes were found to be significant:<br>' +
+    '&#9679;: significant in MAGMA and S-PrediXcan analyses<br>' +
+    '&#9632;: significant in S-PrediXcan analyses only<br>' +
+    '&#9650;: significant in MAGMA only <br>' +
+    '</p>' +
+    '</div>')
 
 for i in codes:
-    phenotype = csvfile[csvfile['code']==i]['phenotype'].iloc[0]
-    cmd = ['python', 'navigome_vis6_chrom_pathways_filtered.py',
-           'genes_chromosomes_data/'+str(i)+'_fusion_targetor',
-           phenotype + ' (' + str(i) + ')',
-           'genes_chromosomes/'+str(i)+'.geneschromosomes']
+    phenotype = csvfile[csvfile['code'] == i]['phenotype'].iloc[0]
+    cmd = [
+        'python',
+        workdir +
+        '/scripts/' +
+        'navigome_vis6_chrom_pathways_filtered.py',
+        workdir +
+        '/input/' +
+        'genes_chromosomes_data/' +
+        str(i) +
+        '_fusion_targetor',
+        phenotype +
+        ' (' +
+        str(i) +
+        ')',
+        workdir +
+        '/output/' +
+        'genes_chromosomes/' +
+        str(i) +
+        '.geneschromosomes']
     process = subprocess.Popen(cmd, stdout=subprocess.PIPE)
     (output, err) = process.communicate()
     p_status = process.wait()
     head = newheader + '<title>' + "Genes: " + str(i) + '</title>'
     print(str(i))
-    with open('genes_chromosomes/'+str(i)+'.geneschromosomes'+'.html','r') as f:
+    with open(workdir + '/output/' + 'genes_chromosomes/' + str(i) + '.geneschromosomes' + '.html', 'r') as f:
         html = f.read()
-        soup = Soup(html,features="html.parser")
+        soup = Soup(html, features="html.parser")
         soup.head.contents = Soup(head,
                                   features="html.parser")
-        soup.div.insert_after(Soup(adddiv,features="html.parser"))
-        soup = str(soup).replace('embedOpt = {"mode": "vega-lite"};',
-                                 'embedOpt = {"mode": "vega-lite", "loader": vega.loader({target: \'_blank\'})};')
-    with open('genes_chromosomes/'+str(i)+'.geneschromosomes'+'.html','w') as fout:
+        soup.div.insert_after(Soup(adddiv, features="html.parser"))
+        soup = str(soup).replace(
+            'embedOpt = {"mode": "vega-lite"};',
+            'embedOpt = {"mode": "vega-lite", "loader": vega.loader({target: \'_blank\'})};')
+    with open(workdir + '/output/' + 'genes_chromosomes/' + str(i) + '.geneschromosomes' + '.html', 'w') as fout:
         fout.write(str(soup))

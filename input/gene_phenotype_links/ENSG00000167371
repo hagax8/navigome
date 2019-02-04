@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO11,"PRRT2",ENSG00000167371,5.319538,,,,,,,,,,,,,,,,,,,,,,,,,,,6.68636930494,,,-3.41044164302,,,,,,,,,,,,,,,,,,2.52179445397,
+BLOO26,"PRRT2",ENSG00000167371,2.586717,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.86864054532,,,-1.66396709163,,,,,,,,,,,,,,,,,,-5.48758806133,
+BLOO27,"PRRT2",ENSG00000167371,1.891841,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.88605454753,,,-1.52570772355,,,,,,,,,,,,,,,,,,-4.87677069745,
+BLOO29,"PRRT2",ENSG00000167371,10.061891,,,,,,,,,,,,,,,,,,,,,,,,,,,1.90825058928,,,0.0472962132769,,,,,,,,,,,,,,,,,,1.34918669033,
+BODY08B,"PRRT2",ENSG00000167371,4.502352,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.76267294821,,,0.522684851205,,,,,,,,,,,,,,,,,,-4.99312810586,
+BODY08M,"PRRT2",ENSG00000167371,0.950976,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.71990347293,,,-0.513442975255,,,,,,,,,,,,,,,,,,-4.77112655514,
+FATM04,"PRRT2",ENSG00000167371,6.252246,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.98397596908,,,1.40534186982,,,,,,,,,,,,,,,,,,-4.31055770227,
+LEAN06B,"PRRT2",ENSG00000167371,7.691969,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.704657692083,,,3.35609026151,,,,,,,,,,,,,,,,,,-4.50331180305,
+LEAN06M,"PRRT2",ENSG00000167371,4.014291,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.11786578324,,,2.2222684395,,,,,,,,,,,,,,,,,,-5.67412455649,
+LEAN06,"PRRT2",ENSG00000167371,6.926282,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.41567945303,,,3.19422032266,,,,,,,,,,,,,,,,,,-5.63956370097,
+MENA02F,"PRRT2",ENSG00000167371,7.029872,,,,,,,,,,,,,,,,,,,,,,,,,,,1.49880933531,,,-4.19357080097,,,,,,,,,,,,,,,,,,4.7441764268,

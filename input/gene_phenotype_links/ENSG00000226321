@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+HEIG03,"ENSG00000226321",ENSG00000226321,8.722620,,,,,,,,,,,,2.12100742531,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.05125866555,,-1.17527719669,,,,,,,,
+HEIG04F,"ENSG00000226321",ENSG00000226321,7.863026,,,,,,,,,,,,2.02306298949,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.38822822355,,-0.805097114309,,,,,,,,
+HIPC02,"ENSG00000226321",ENSG00000226321,5.642199,,,,,,,,,,,,-1.95257178404,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.20588220438,,0.795967396715,,,,,,,,
+HIPC03F,"ENSG00000226321",ENSG00000226321,10.830032,,,,,,,,,,,,-1.1132815215,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.13746718387,,-0.0170819322602,,,,,,,,
+HIPC03,"ENSG00000226321",ENSG00000226321,9.440081,,,,,,,,,,,,-1.83116315423,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.96630683735,,0.0246538083309,,,,,,,,
+HIPC04F,"ENSG00000226321",ENSG00000226321,10.774872,,,,,,,,,,,,-1.11421696452,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.05239264254,,-0.016799071005,,,,,,,,
+HIPC04,"ENSG00000226321",ENSG00000226321,9.739023,,,,,,,,,,,,-1.80654529866,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.84245361392,,0.0240389573847,,,,,,,,
+LEAN04,"ENSG00000226321",ENSG00000226321,5.728646,,,,,,,,,,,,0.983586839896,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.69151892124,,0.475859909866,,,,,,,,
+WAIS02,"ENSG00000226321",ENSG00000226321,6.217785,,,,,,,,,,,,-0.281775263107,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.08528422121,,0.904053702204,,,,,,,,
+WAIS03,"ENSG00000226321",ENSG00000226321,7.142414,,,,,,,,,,,,1.64636219032,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.48219762251,,0.365421022673,,,,,,,,
+WAIS04,"ENSG00000226321",ENSG00000226321,7.374276,,,,,,,,,,,,1.5959325218,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.39801545373,,0.35658695663,,,,,,,,

@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"PI4KB",ENSG00000143393,7.657953,,,,,,,,,,0.814498923721,,,,,,,,,,,,,,,,,,-1.48411308459,,,,,,,,,-1.92343837895,,,,,,,,,,,,
+BLOO05,"PI4KB",ENSG00000143393,9.927934,,,,,,,,,,0.366374721517,,,,,,,,,,,,,,,,,,-0.892011256368,,,,,,,,,-5.70262645221,,,,,,,,,,,,
+BLOO11,"PI4KB",ENSG00000143393,8.172133,,,,,,,,,,-1.31258433429,,,,,,,,,,,,,,,,,,0.21313824002,,,,,,,,,-1.25236162423,,,,,,,,,,,,
+BLOO16,"PI4KB",ENSG00000143393,3.111545,,,,,,,,,,0.134068461576,,,,,,,,,,,,,,,,,,-0.528145521434,,,,,,,,,-4.74863405717,,,,,,,,,,,,
+BLOO19,"PI4KB",ENSG00000143393,6.109154,,,,,,,,,,1.15823964377,,,,,,,,,,,,,,,,,,0.987317162547,,,,,,,,,2.5768429757,,,,,,,,,,,,
+BLOO32,"PI4KB",ENSG00000143393,7.469288,,,,,,,,,,2.47909338945,,,,,,,,,,,,,,,,,,0.249618789331,,,,,,,,,-0.254560568198,,,,,,,,,,,,
+BLOO33,"PI4KB",ENSG00000143393,5.974899,,,,,,,,,,0.812958606641,,,,,,,,,,,,,,,,,,-1.77148980277,,,,,,,,,-2.50820835936,,,,,,,,,,,,
+CHOL27,"PI4KB",ENSG00000143393,1.254402,,,,,,,,,,-0.388484026476,,,,,,,,,,,,,,,,,,5.06806211093,,,,,,,,,1.36371588196,,,,,,,,,,,,
+CHRO01,"PI4KB",ENSG00000143393,1.275167,,,,,,,,,,1.76450414127,,,,,,,,,,,,,,,,,,-1.65540211632,,,,,,,,,-5.43463636092,,,,,,,,,,,,
+HEIG03,"PI4KB",ENSG00000143393,7.900492,,,,,,,,,,0.763605435975,,,,,,,,,,,,,,,,,,0.487460754747,,,,,,,,,-2.68506526954,,,,,,,,,,,,
+HIPC03,"PI4KB",ENSG00000143393,5.774639,,,,,,,,,,1.39095871548,,,,,,,,,,,,,,,,,,2.75207718868,,,,,,,,,-1.32314185901,,,,,,,,,,,,

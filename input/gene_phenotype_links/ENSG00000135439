@@ -1,0 +1,16 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"AGAP2",ENSG00000135439,1.242088,,,,,,,,,-0.247353327586,,,,,,,,0.270585859041,,,,,,,,,,,,,,,,,,,,,,,,,,5.10873916067,,,,,2.19282992041,-1.04383082069
+BFPC04M,"AGAP2",ENSG00000135439,1.632234,,,,,,,,,0.445070294498,,,,,,,,0.379938362955,,,,,,,,,,,,,,,,,,,,,,,,,,4.71410160368,,,,,2.30353789092,-0.341384097342
+BFPC04,"AGAP2",ENSG00000135439,0.997575,,,,,,,,,-0.319585789473,,,,,,,,0.193582870914,,,,,,,,,,,,,,,,,,,,,,,,,,4.93860720365,,,,,2.05789054629,-1.09094146759
+BLOO07,"AGAP2",ENSG00000135439,0.805597,,,,,,,,,3.94452807287,,,,,,,,-0.0984373489656,,,,,,,,,,,,,,,,,,,,,,,,,,5.28791073215,,,,,0.384241524251,0.902690854712
+BLOO16,"AGAP2",ENSG00000135439,0.919807,,,,,,,,,3.57119708823,,,,,,,,-0.0361030917397,,,,,,,,,,,,,,,,,,,,,,,,,,4.82720883111,,,,,0.197317701373,0.911954529043
+BLOO17,"AGAP2",ENSG00000135439,0.908896,,,,,,,,,4.30650705401,,,,,,,,-0.265139622133,,,,,,,,,,,,,,,,,,,,,,,,,,5.36913003049,,,,,0.840482452528,0.738738712164
+BLOO18,"AGAP2",ENSG00000135439,0.721887,,,,,,,,,4.30433697911,,,,,,,,-0.434636559342,,,,,,,,,,,,,,,,,,,,,,,,,,5.22733228401,,,,,1.08310240115,0.989333977409
+BLOO31,"AGAP2",ENSG00000135439,0.459696,,,,,,,,,-3.93700765404,,,,,,,,0.545869368357,,,,,,,,,,,,,,,,,,,,,,,,,,-4.80597217243,,,,,-0.571783527851,-0.901127869181
+BLOO34,"AGAP2",ENSG00000135439,9.676913,,,,,,,,,-1.69098905866,,,,,,,,-0.841506887896,,,,,,,,,,,,,,,,,,,,,,,,,,1.89055877302,,,,,-4.62694898333,-3.09243912207
+COAD02,"AGAP2",ENSG00000135439,0.551386,,,,,,,,,-1.02520567642,,,,,,,,-0.161745692731,,,,,,,,,,,,,,,,,,,,,,,,,,4.81732414513,,,,,-0.536894561702,0.63954262094
+EDUC03,"AGAP2",ENSG00000135439,8.262330,,,,,,,,,0.151780778216,,,,,,,,-1.77749347517,,,,,,,,,,,,,,,,,,,,,,,,,,-2.53643514577,,,,,-3.05935343223,-3.65467407309
+HEIG03,"AGAP2",ENSG00000135439,7.960348,,,,,,,,,1.55260030826,,,,,,,,1.25116404099,,,,,,,,,,,,,,,,,,,,,,,,,,-0.845570110563,,,,,-0.912651190037,-0.242534460396
+RHEU01,"AGAP2",ENSG00000135439,7.257463,,,,,,,,,0.26884939128,,,,,,,,1.9025105507,,,,,,,,,,,,,,,,,,,,,,,,,,0.978938627479,,,,,-0.866187394462,-1.85703186756
+RHEU02,"AGAP2",ENSG00000135439,7.251285,,,,,,,,,0.26884939128,,,,,,,,1.9025105507,,,,,,,,,,,,,,,,,,,,,,,,,,0.978938627479,,,,,-0.852314992118,-1.90512306025
+SCLE02,"AGAP2",ENSG00000135439,6.316413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.212690649364,-4.99449936236

@@ -2,7 +2,8 @@ import altair as alt
 import pandas as pd
 from sys import argv
 import numpy as np
-df = pd.read_csv(argv[1])
+df = pd.read_csv(argv[1], keep_default_na=False)
+
 
 def correctphen(x):
     x = x.replace('.', '')
@@ -38,7 +39,8 @@ df['urlgeneschromosomes'] = "https://phenviz.navigome.com/genes_chromosomes/" + 
     df['code'].astype(str) + '.geneschromosomes.html'
 df['urlgenestissues'] = "https://phenviz.navigome.com/genes_tissues/" + \
     df['code'].astype(str) + '.genestissues.html'
-df['urlpathways'] = "https://phenviz.navigome.com/pathways/" + df['code'].astype(str) + '.pathways.html'
+df['urlpathways'] = "https://phenviz.navigome.com/pathways/" + \
+    df['code'].astype(str) + '.pathways.html'
 df['urlphenmap'] = "https://phenviz.navigome.com/phenotype_map/" + \
     df['code'].astype(str) + '.phenotypemap.html'
 

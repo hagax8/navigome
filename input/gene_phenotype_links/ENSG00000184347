@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+HEIG03,"SLIT3",ENSG00000184347,17.009235,,,,,,,,,,,,,,,,,,,,,,,,,0.241834274974,1.6439397808,,,,,,,2.55983582593,,,,,,,,-0.265638111082,,,,,,,,
+HEIG04F,"SLIT3",ENSG00000184347,6.392009,,,,,,,,,,,,,,,,,,,,,,,,,0.345759485228,1.1844905652,,,,,,,0.292442872165,,,,,,,,0.501539234036,,,,,,,,
+LEAN04B,"SLIT3",ENSG00000184347,10.149899,,,,,,,,,,,,,,,,,,,,,,,,,-0.274363163548,1.29230592533,,,,,,,-0.483519394331,,,,,,,,0.39436534395,,,,,,,,
+LEAN04,"SLIT3",ENSG00000184347,11.049840,,,,,,,,,,,,,,,,,,,,,,,,,-0.239312098619,1.15120622408,,,,,,,-0.667827713349,,,,,,,,0.327705506299,,,,,,,,
+LEAN05B,"SLIT3",ENSG00000184347,8.788106,,,,,,,,,,,,,,,,,,,,,,,,,-0.299810758402,1.20912147198,,,,,,,-0.471096175523,,,,,,,,0.426532073414,,,,,,,,
+LEAN05,"SLIT3",ENSG00000184347,8.708099,,,,,,,,,,,,,,,,,,,,,,,,,-0.237410849006,1.09982778336,,,,,,,-0.662448987889,,,,,,,,0.333110790381,,,,,,,,
+LEAN06B,"SLIT3",ENSG00000184347,19.165427,,,,,,,,,,,,,,,,,,,,,,,,,-0.950563583655,1.55887717735,,,,,,,0.187401635951,,,,,,,,0.492326231507,,,,,,,,
+LEAN06F,"SLIT3",ENSG00000184347,11.314088,,,,,,,,,,,,,,,,,,,,,,,,,-0.727516842542,1.7989073119,,,,,,,0.841701005396,,,,,,,,0.324361496561,,,,,,,,
+LEAN06M,"SLIT3",ENSG00000184347,8.138179,,,,,,,,,,,,,,,,,,,,,,,,,-0.711783216673,0.22202124948,,,,,,,-0.964955615093,,,,,,,,0.454416491802,,,,,,,,
+LEAN06,"SLIT3",ENSG00000184347,18.582728,,,,,,,,,,,,,,,,,,,,,,,,,-0.983929103472,1.03882367928,,,,,,,-0.407827866934,,,,,,,,0.445568322397,,,,,,,,
+MENA02F,"SLIT3",ENSG00000184347,11.440596,,,,,,,,,,,,,,,,,,,,,,,,,2.59917033658,1.50718835331,,,,,,,2.43820253614,,,,,,,,-0.177903116573,,,,,,,,

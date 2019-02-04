@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY08B,"SIM1",ENSG00000112246,7.231362,,,,,,,,,,,,,,,,,,,,,,,,,,,4.23336655267,,,,,,,,,,,,,,,,,,,,,,
+BODY08,"SIM1",ENSG00000112246,7.600067,,,,,,,,,,,,,,,,,,,,,,,,,,,4.33800600504,,,,,,,,,,,,,,,,,,,,,,
+DEPR01,"SIM1",ENSG00000112246,7.694864,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.422905694368,,,,,,,,,,,,,,,,,,,,,,
+FATM04B,"SIM1",ENSG00000112246,3.589088,,,,,,,,,,,,,,,,,,,,,,,,,,,4.72073277921,,,,,,,,,,,,,,,,,,,,,,
+FATM04,"SIM1",ENSG00000112246,3.743066,,,,,,,,,,,,,,,,,,,,,,,,,,,5.00075430947,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"SIM1",ENSG00000112246,6.137988,,,,,,,,,,,,,,,,,,,,,,,,,,,3.88081614218,,,,,,,,,,,,,,,,,,,,,,
+LEAN06,"SIM1",ENSG00000112246,5.755748,,,,,,,,,,,,,,,,,,,,,,,,,,,3.49174604805,,,,,,,,,,,,,,,,,,,,,,
+MENA01F,"SIM1",ENSG00000112246,6.168034,,,,,,,,,,,,,,,,,,,,,,,,,,,0.250076385375,,,,,,,,,,,,,,,,,,,,,,
+MENA02F,"SIM1",ENSG00000112246,12.097187,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.39134239968,,,,,,,,,,,,,,,,,,,,,,
+NEUR02B,"SIM1",ENSG00000112246,6.133896,,,,,,,,,,,,,,,,,,,,,,,,,,,1.07802642521,,,,,,,,,,,,,,,,,,,,,,
+NEUR02M,"SIM1",ENSG00000112246,5.703708,,,,,,,,,,,,,,,,,,,,,,,,,,,0.28677969282,,,,,,,,,,,,,,,,,,,,,,
+NEUR03M,"SIM1",ENSG00000112246,7.660847,,,,,,,,,,,,,,,,,,,,,,,,,,,1.01607719551,,,,,,,,,,,,,,,,,,,,,,

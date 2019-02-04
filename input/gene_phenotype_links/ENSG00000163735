@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"CXCL5",ENSG00000163735,26.924782,,,,,0.012334638916612484,-0.422166110682,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO09,"CXCL5",ENSG00000163735,14.860971,,,,,-0.009584922524354542,-0.398875781271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO10,"CXCL5",ENSG00000163735,20.039344,,,,,0.0920314093941719,-0.281171294913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO12,"CXCL5",ENSG00000163735,17.466622,,,,,-0.17078276891033206,-0.0806418304752,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO13,"CXCL5",ENSG00000163735,17.501979,,,,,0.0848327834154982,-0.369006799221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO19,"CXCL5",ENSG00000163735,12.600447,,,,,0.21019862717024518,0.181330829803,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO24,"CXCL5",ENSG00000163735,11.651267,,,,,-0.31142251299105933,0.703035520647,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO28,"CXCL5",ENSG00000163735,7.468227,,,,,-0.2651437341878652,-0.609787490128,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO30,"CXCL5",ENSG00000163735,27.522098,,,,,-0.1340992926661799,-0.507067874776,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO32,"CXCL5",ENSG00000163735,14.763891,,,,,0.2020979086440255,-0.711686720698,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+URIN01,"CXCL5",ENSG00000163735,10.673336,,,,,0.22730083549794458,-0.0903510143482,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

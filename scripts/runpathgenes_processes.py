@@ -3,14 +3,19 @@ import re
 from bs4 import BeautifulSoup as Soup
 import os
 import pandas as pd
+from sys import argv
 
-f_reference = "gwas_reference_toadd"
-csvfile = pd.read_csv(f_reference)
+workdir = str(argv[1])
 
-f_pathways = "list_of_significant_pathways_toadd"
-csvfilep = pd.read_csv(f_pathways)
+f_reference = workdir + '/input/' + "gwas_reference_toadd"
+csvfile = pd.read_csv(f_reference, keep_default_na=False)
 
-outdir = 'gene_content_magma'
+f_pathways = workdir + '/input/' + 'list_of_significant_pathways'
+csvfilep = pd.read_csv(f_pathways, keep_default_na=False)
+
+csvfilep = csvfilep[csvfilep['code'].isin(list(csvfile['code']))]
+
+outdir = workdir + '/output/' + 'gene_content_magma'
 if not os.path.exists(outdir):
     os.makedirs(outdir)
 
@@ -60,31 +65,47 @@ adddiv = ('<div class="col-lg-12 col-md-12 content-item content-item-1">' +
           '<br><br>The following symbols indicate in which analyses ' +
           'genes were found to be significant:<br>' +
           '&#9679;: significant in MAGMA and S-PrediXcan analyses<br>' +
-	      '&#9632;: significant in S-PrediXcan analyses only<br>' +
-          '&#9650;: significant in MAGMA only <br>'+
+          '&#9632;: significant in S-PrediXcan analyses only<br>' +
+          '&#9650;: significant in MAGMA only <br>' +
           '&#10010;: not significant <br>' +
           '</p>' +
           '</div>')
 
 for index, row in csvfilep.iterrows():
-    phenotype = csvfile[csvfile['code']==row['code']]['phenotype'].iloc[0]
+    phenotype = csvfile[csvfile['code'] == row['code']]['phenotype'].iloc[0]
     #files = [f for f in os.listdir('gene_content_magma_data') if re.match(r'%s_*' % (i), f)]
-    cmd = ['python', 'navigome_vis6_chrom_pathways_all.py',
-           'gene_content_magma_data/'+row['code']+'_'+row['pathway'],
-           'phenotype: ' + phenotype + ' (' + str(row['code']) + '), pathway: ' + str(row['pathway']),
-           'gene_content_magma/'+str(row['code'])+'_'+str(row['pathway'])]
+    cmd = ['python', workdir +
+           '/scripts/' +
+           'navigome_vis6_chrom_pathways_all.py', workdir +
+           '/input/' +
+           'gene_content_magma_data/' +
+           row['code'] +
+           '_' +
+           row['pathway'], 'phenotype: ' +
+           phenotype +
+           ' (' +
+           str(row['code']) +
+           '), pathway: ' +
+           str(row['pathway']), workdir +
+           '/output/' +
+           'gene_content_magma/' +
+           str(row['code']) +
+           '_' +
+           str(row['pathway'])]
     process = subprocess.Popen(cmd, stdout=subprocess.PIPE)
     (output, err) = process.communicate()
     p_status = process.wait()
-    head = newheader + '<title>' + str(row['code'])+'_'+str(row['pathway']) + '</title>'
-    print(str(row['code']+'_'+row['pathway']))
-    with open('gene_content_magma/'+str(row['code'])+'_'+str(row['pathway'])+'.html','r') as f:
+    head = newheader + '<title>' + \
+        str(row['code']) + '_' + str(row['pathway']) + '</title>'
+    print(str(row['code'] + '_' + row['pathway']))
+    with open(workdir + '/output/' + 'gene_content_magma/' + str(row['code']) + '_' + str(row['pathway']) + '.html', 'r') as f:
         html = f.read()
-        soup = Soup(html,features="html.parser")
+        soup = Soup(html, features="html.parser")
         soup.head.contents = Soup(head,
                                   features="html.parser")
-        soup.div.insert_after(Soup(adddiv,features="html.parser"))
-        soup = str(soup).replace('embedOpt = {"mode": "vega-lite"};',
-                                 'embedOpt = {"mode": "vega-lite", "loader": vega.loader({target: \'_blank\'})};')
-    with open('gene_content_magma/'+str(row['code'])+'_'+str(row['pathway'])+'.html','w') as fout:
+        soup.div.insert_after(Soup(adddiv, features="html.parser"))
+        soup = str(soup).replace(
+            'embedOpt = {"mode": "vega-lite"};',
+            'embedOpt = {"mode": "vega-lite", "loader": vega.loader({target: \'_blank\'})};')
+    with open(workdir + '/output/' + 'gene_content_magma/' + str(row['code']) + '_' + str(row['pathway']) + '.html', 'w') as fout:
         fout.write(str(soup))

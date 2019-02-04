@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO07,"LPP",ENSG00000145012,17.246547,,,,0.815126359463,0.3423202905127041,-0.264813323346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.703666684967,,,,,,,,,,,,
+BLOO16,"LPP",ENSG00000145012,17.062718,,,,0.914032042027,0.5789970803775514,-0.470351115796,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.693476623225,,,,,,,,,,,,
+BLOO17,"LPP",ENSG00000145012,17.178624,,,,1.32732856274,-0.5483454737457636,-0.550964404166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.706941334783,,,,,,,,,,,,
+BLOO18,"LPP",ENSG00000145012,15.846490,,,,1.4416539669,-0.45377683935811586,-0.519440303752,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.624703196174,,,,,,,,,,,,
+BLOO19,"LPP",ENSG00000145012,8.958963,,,,0.356721907854,-0.36752574204140803,-0.615234493238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.129795954183,,,,,,,,,,,,
+BLOO28,"LPP",ENSG00000145012,15.271046,,,,0.074641443789,0.5978401755520929,0.944651052567,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.355456241047,,,,,,,,,,,,
+BLOO31,"LPP",ENSG00000145012,14.416303,,,,-1.61366546154,0.21286086329992798,0.606942656687,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.371496171714,,,,,,,,,,,,
+BODY08B,"LPP",ENSG00000145012,6.105291,,,,-0.874113738537,2.196973679564251,0.793306778469,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.31643101617,,,,,,,,,,,,
+BODY08,"LPP",ENSG00000145012,6.394587,,,,-0.784056782722,1.9219352427809893,0.705356183023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.140392851413,,,,,,,,,,,,
+CELI01,"LPP",ENSG00000145012,16.216804,,,,,0.352326911683094,-0.407011613929,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.544060798379,,,,,,,,,,,,
+INFB01,"LPP",ENSG00000145012,6.017087,,,,0.959112048149,-1.4952643346307255,-0.657276155752,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.177581987756,,,,,,,,,,,,
+ULCC01,"LPP",ENSG00000145012,5.872118,,,,1.66823041439,-1.5931018927078942,-0.607797075864,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.332043708941,,,,,,,,,,,,

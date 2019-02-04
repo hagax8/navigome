@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO35,"TLDC2",ENSG00000101342,6.571460,,,,,,,,-2.33894515498,,,,,,,,,,,0.017352809265,,,-1.79401208806,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HEIG03,"TLDC2",ENSG00000101342,9.370754,,,,,,,,0.987849314423,,,,,,,,,,,-3.31313463253,,,0.364156476665,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN04B,"TLDC2",ENSG00000101342,5.017516,,,,,,,,2.5064002334,,,,,,,,,,,-5.11116272071,,,-1.1382529759,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN04,"TLDC2",ENSG00000101342,6.148644,,,,,,,,2.75198455263,,,,,,,,,,,-5.37682190579,,,-0.647270932141,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN05B,"TLDC2",ENSG00000101342,4.879393,,,,,,,,2.59616948727,,,,,,,,,,,-4.96064694699,,,-1.23181996211,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN05,"TLDC2",ENSG00000101342,6.286703,,,,,,,,2.80447318931,,,,,,,,,,,-5.27466294192,,,-0.708399494507,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"TLDC2",ENSG00000101342,10.811128,,,,,,,,1.81726994508,,,,,,,,,,,-5.94403989416,,,-1.1028496694,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06F,"TLDC2",ENSG00000101342,6.235540,,,,,,,,1.25808465184,,,,,,,,,,,-3.72858487532,,,-1.2904458695,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06M,"TLDC2",ENSG00000101342,8.137475,,,,,,,,1.57074877639,,,,,,,,,,,-5.73884420482,,,-0.127489966953,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06,"TLDC2",ENSG00000101342,12.700188,,,,,,,,1.87319754812,,,,,,,,,,,-6.46784730872,,,-0.905357960966,,,,,,,,,,,,,,,,,,,,,,,,,,,

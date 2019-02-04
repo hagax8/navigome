@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+AMIN09,"ASGR1",ENSG00000141505,11.531579,,,,,-1.8153367213718503,,,,,,,,,,,,,,,,,,,,,,,,,-0.774360519866,,-1.38247387211,,,,,,,,,,,,,,,,0.3054780522,
+BFPC04B,"ASGR1",ENSG00000141505,6.326380,,,,,0.027295081828296482,,,,,,,,,,,,,,,,,,,,,,,,,0.692675809897,,-0.274368322337,,,,,,,,,,,,,,,,0.24297054721,
+BFPC04F,"ASGR1",ENSG00000141505,7.975145,,,,,0.3222796881760612,,,,,,,,,,,,,,,,,,,,,,,,,0.160268677506,,-1.53292719308,,,,,,,,,,,,,,,,-1.73499340583,
+BFPC04,"ASGR1",ENSG00000141505,7.284582,,,,,0.13121171250804603,,,,,,,,,,,,,,,,,,,,,,,,,0.728228130143,,-0.507620365804,,,,,,,,,,,,,,,,-0.192028245219,
+BODY08F,"ASGR1",ENSG00000141505,5.835231,,,,,-0.8938517823209554,,,,,,,,,,,,,,,,,,,,,,,,,-0.522125355859,,-2.12474658307,,,,,,,,,,,,,,,,-1.19581856482,
+CHOL21,"ASGR1",ENSG00000141505,6.560210,,,,,2.951078983661648,,,,,,,,,,,,,,,,,,,,,,,,,0.579951746586,,0.683985308522,,,,,,,,,,,,,,,,-1.83976033362,
+CHOL27,"ASGR1",ENSG00000141505,6.651384,,,,,2.305509364152307,,,,,,,,,,,,,,,,,,,,,,,,,1.02666635909,,1.10632953407,,,,,,,,,,,,,,,,-1.56452477697,
+FATM04B,"ASGR1",ENSG00000141505,5.956481,,,,,0.6884890969298613,,,,,,,,,,,,,,,,,,,,,,,,,0.359910066362,,-1.1621553043,,,,,,,,,,,,,,,,0.324620298529,
+FATM04F,"ASGR1",ENSG00000141505,7.008424,,,,,0.30871482702159436,,,,,,,,,,,,,,,,,,,,,,,,,-0.341737861873,,-2.21765181547,,,,,,,,,,,,,,,,-1.49301821408,
+FATM04,"ASGR1",ENSG00000141505,6.634475,,,,,0.6953362265394688,,,,,,,,,,,,,,,,,,,,,,,,,0.316014844161,,-1.40244961948,,,,,,,,,,,,,,,,-0.0748310091226,
+WEIG02,"ASGR1",ENSG00000141505,15.563996,,,,,-0.48697530253310833,,,,,,,,,,,,,,,,,,,,,,,,,-2.16862324332,,1.30995708729,,,,,,,,,,,,,,,,-3.30031778949,
+WEIG03,"ASGR1",ENSG00000141505,14.213227,,,,,-0.29431416765451535,,,,,,,,,,,,,,,,,,,,,,,,,-2.15051345033,,1.37833991965,,,,,,,,,,,,,,,,-3.23332990129,

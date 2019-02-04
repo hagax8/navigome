@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"C11orf31",ENSG00000211450,6.463985,,,,,-3.6965742111206055,,,,,,,,,,,,,,,,,,,,,,,,,0.559892417073,,,,,,,,,0.197898459187,,,,,,,,,,
+BFPC04,"C11orf31",ENSG00000211450,6.597687,,,,,-3.5815067291259766,,,,,,,,,,,,,,,,,,,,,,,,,0.553094524286,,,,,,,,,0.127265914444,,,,,,,,,,
+BLOO26,"C11orf31",ENSG00000211450,5.715953,,,,,1.0731585025787354,,,,,,,,,,,,,,,,,,,,,,,,,0.945700585696,,,,,,,,,-2.3835701566,,,,,,,,,,
+BLOO29,"C11orf31",ENSG00000211450,5.742321,,,,,3.124512434005737,,,,,,,,,,,,,,,,,,,,,,,,,1.06346536957,,,,,,,,,0.0734344480378,,,,,,,,,,
+DEPR01,"C11orf31",ENSG00000211450,6.831179,,,,,-3.5413401126861572,,,,,,,,,,,,,,,,,,,,,,,,,2.50371232633,,,,,,,,,0.253800732676,,,,,,,,,,
+EDUC03,"C11orf31",ENSG00000211450,11.265688,,,,,2.5866997241973877,,,,,,,,,,,,,,,,,,,,,,,,,-0.868443853261,,,,,,,,,1.62389314315,,,,,,,,,,
+NEUR02B,"C11orf31",ENSG00000211450,9.733839,,,,,-4.1115570068359375,,,,,,,,,,,,,,,,,,,,,,,,,1.84591403169,,,,,,,,,-0.786467858048,,,,,,,,,,
+NEUR02F,"C11orf31",ENSG00000211450,5.705313,,,,,-1.763149380683899,,,,,,,,,,,,,,,,,,,,,,,,,0.911666230346,,,,,,,,,-1.90840055374,,,,,,,,,,
+NEUR03B,"C11orf31",ENSG00000211450,6.042173,,,,,-3.7330167293548584,,,,,,,,,,,,,,,,,,,,,,,,,1.87097410956,,,,,,,,,-1.50832243757,,,,,,,,,,
+SCHI01,"C11orf31",ENSG00000211450,7.903890,,,,,-3.4294526576995854,,,,,,,,,,,,,,,,,,,,,,,,,-0.468140322703,,,,,,,,,-0.0585929767385,,,,,,,,,,
+SCHI02M,"C11orf31",ENSG00000211450,9.343222,,,,,-4.427209377288818,,,,,,,,,,,,,,,,,,,,,,,,,-0.369903648475,,,,,,,,,0.170587357592,,,,,,,,,,
+SCHI02,"C11orf31",ENSG00000211450,7.236617,,,,,-3.4294526576995854,,,,,,,,,,,,,,,,,,,,,,,,,-0.418647735133,,,,,,,,,0.216576746808,,,,,,,,,,

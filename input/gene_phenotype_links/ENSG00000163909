@@ -1,0 +1,8 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO25,"HEYL",ENSG00000163909,6.152872,,,,-0.963220454529,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.967628417134,,,,
+BLOO26,"HEYL",ENSG00000163909,12.459308,,,,-2.21546201086,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.67350535328,,,,
+BLOO35,"HEYL",ENSG00000163909,11.667461,,,,1.20705651406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.46753496688,,,,
+BODY08B,"HEYL",ENSG00000163909,6.371948,,,,0.922946628001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0860475927818,,,,
+BODY08,"HEYL",ENSG00000163909,5.654999,,,,1.26077678228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0395622812778,,,,
+LEAN06B,"HEYL",ENSG00000163909,5.788346,,,,2.54527638067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.631776976797,,,,
+LEAN06,"HEYL",ENSG00000163909,5.819559,,,,2.33199308481,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.830945071261,,,,

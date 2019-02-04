@@ -1,0 +1,11 @@
+pathway,source,association,pathway_size
+PGC_SCZ_P10-4,https://www.ncbi.nlm.nih.gov/pubmed/24463508,103.05,416
+CONSTRAINED,https://www.ncbi.nlm.nih.gov/pubmed/25086666,9.47707,969
+FMRP,https://www.ncbi.nlm.nih.gov/pubmed/21784246,7.64121,1236
+SCZ_COMPOSITE,https://www.ncbi.nlm.nih.gov/pubmed/24463508,7.08944,1777
+GO_CALCIUM_CHANNEL_COMPLEX,http://www.broadinstitute.org/gsea/msigdb/cards/GO_CALCIUM_CHANNEL_COMPLEX,5.98678,59
+GO_VOLTAGE_GATED_CALCIUM_CHANNEL_COMPLEX,http://www.broadinstitute.org/gsea/msigdb/cards/GO_VOLTAGE_GATED_CALCIUM_CHANNEL_COMPLEX,5.61094,39
+GO_MEMBRANE_BIOGENESIS,http://www.broadinstitute.org/gsea/msigdb/cards/GO_MEMBRANE_BIOGENESIS,5.25451,30
+GO_SUBPALLIUM_DEVELOPMENT,http://www.broadinstitute.org/gsea/msigdb/cards/GO_SUBPALLIUM_DEVELOPMENT,5.23913,22
+GO_HIGH_VOLTAGE_GATED_CALCIUM_CHANNEL_ACTIVITY,http://www.broadinstitute.org/gsea/msigdb/cards/GO_HIGH_VOLTAGE_GATED_CALCIUM_CHANNEL_ACTIVITY,5.19362,11
+GO_NEURON_PROJECTION,http://www.broadinstitute.org/gsea/msigdb/cards/GO_NEURON_PROJECTION,5.18436,918

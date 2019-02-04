@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"RARB",ENSG00000077092,8.755772,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.891672136432,,,,,,,,,,,2.97318146578,1.49282643535,,,,,,,,,,-0.416396516596
+BFPC04M,"RARB",ENSG00000077092,6.108006,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.463410445413,,,,,,,,,,,2.67786818877,1.75133928206,,,,,,,,,,-1.20194923397
+BFPC04,"RARB",ENSG00000077092,7.354254,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.980447637105,,,,,,,,,,,2.84533422019,1.31340466463,,,,,,,,,,-0.276450134889
+BODY08B,"RARB",ENSG00000077092,8.337781,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.704390101291,,,,,,,,,,,2.59754455188,1.13436720349,,,,,,,,,,-1.43348938047
+BODY08M,"RARB",ENSG00000077092,8.054398,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.497539452063,,,,,,,,,,,1.60382114273,1.41226451735,,,,,,,,,,-2.62680429452
+BODY08,"RARB",ENSG00000077092,6.681686,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.733395544843,,,,,,,,,,,2.63443738714,0.964986580623,,,,,,,,,,-1.10928136795
+FATM04B,"RARB",ENSG00000077092,13.571979,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.828312115477,,,,,,,,,,,2.25673060815,1.57623002909,,,,,,,,,,-1.19043507027
+FATM04M,"RARB",ENSG00000077092,9.186846,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.458304280919,,,,,,,,,,,1.87738969827,1.88484116652,,,,,,,,,,-2.0466397193
+FATM04,"RARB",ENSG00000077092,11.212419,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.898193993177,,,,,,,,,,,2.17302848049,1.39428096593,,,,,,,,,,-0.970987539151
+LEAN06B,"RARB",ENSG00000077092,11.762406,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.220731025512,,,,,,,,,,,-1.74977348942,0.111399209146,,,,,,,,,,-2.58592294065
+LEAN06M,"RARB",ENSG00000077092,7.757931,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.139993576242,,,,,,,,,,,-1.2214678006,0.527540451974,,,,,,,,,,-3.02507795868
+LEAN06,"RARB",ENSG00000077092,10.483147,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.207693934462,,,,,,,,,,,-1.73957807404,0.290997576288,,,,,,,,,,-3.1219300876

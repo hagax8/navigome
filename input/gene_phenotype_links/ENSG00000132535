@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+AMIN09,"DLG4",ENSG00000132535,10.293197,,,,4.56438214268,1.4790429918671415,,,,,,,,,,,,,,,,2.20606748655,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04B,"DLG4",ENSG00000132535,6.547615,,,,3.95045738583,0.7635822241301176,,,,,,,,,,,,,,,,0.130050390798,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04F,"DLG4",ENSG00000132535,8.611526,,,,5.57027270133,1.1781290758009058,,,,,,,,,,,,,,,,0.811833269872,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04,"DLG4",ENSG00000132535,7.840704,,,,4.56461144514,0.8346700844647519,,,,,,,,,,,,,,,,0.258309995594,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08F,"DLG4",ENSG00000132535,6.865695,,,,4.5554709885,1.3732150284041538,,,,,,,,,,,,,,,,1.28481533116,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08,"DLG4",ENSG00000132535,5.916605,,,,3.64763297448,1.012283620343465,,,,,,,,,,,,,,,,0.63632541266,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04B,"DLG4",ENSG00000132535,6.243615,,,,3.57841958575,0.7711213635077508,,,,,,,,,,,,,,,,-0.0384873538197,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04F,"DLG4",ENSG00000132535,7.441856,,,,5.07616764961,1.3104267996313856,,,,,,,,,,,,,,,,0.907809470292,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04,"DLG4",ENSG00000132535,7.276232,,,,4.16933692501,0.8587617461579543,,,,,,,,,,,,,,,,0.131066544508,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WEIG02,"DLG4",ENSG00000132535,20.057045,,,,7.98100057238,0.6426590742509509,,,,,,,,,,,,,,,,-0.211251849046,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WEIG03,"DLG4",ENSG00000132535,15.809949,,,,7.58547184312,0.5775787673654137,,,,,,,,,,,,,,,,-0.183483293482,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"CEBPD",ENSG00000221869,7.343260,,,,,1.9933361661291191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.62319509893,,,,,,,,,
+BLOO05,"CEBPD",ENSG00000221869,9.636858,,,,,-0.5778497730378811,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.28431589811,,,,,,,,,
+BLOO07,"CEBPD",ENSG00000221869,10.174262,,,,,1.3882641632648873,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.547742651863,,,,,,,,,
+BLOO16,"CEBPD",ENSG00000221869,10.586902,,,,,1.4453198853754126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.266344177201,,,,,,,,,
+BLOO17,"CEBPD",ENSG00000221869,11.687252,,,,,1.6569103113100336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.989053926896,,,,,,,,,
+BLOO18,"CEBPD",ENSG00000221869,13.113842,,,,,1.2770376426447676,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.852469092258,,,,,,,,,
+BLOO19,"CEBPD",ENSG00000221869,16.050234,,,,,0.44297566163027124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.22600282345,,,,,,,,,
+BLOO26,"CEBPD",ENSG00000221869,5.727323,,,,,-0.41823061318866767,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.283247979973,,,,,,,,,
+BLOO27,"CEBPD",ENSG00000221869,10.974080,,,,,-1.4391950379278498,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.742910266446,,,,,,,,,
+BLOO28,"CEBPD",ENSG00000221869,14.701431,,,,,-0.24693094158075984,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.54012778802,,,,,,,,,
+BLOO31,"CEBPD",ENSG00000221869,12.350101,,,,,-1.4151200676017672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.274291424355,,,,,,,,,
+BLOO32,"CEBPD",ENSG00000221869,9.730184,,,,,0.44609049936603157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.243686191269,,,,,,,,,

@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"TAGAP",ENSG00000164691,11.332043,,,,,-5.359989198204274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.8427487396,,,,,,,,,,,
+BLOO09,"TAGAP",ENSG00000164691,12.616167,,,,,-5.3562604866639,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.97028273782,,,,,,,,,,,
+BLOO10,"TAGAP",ENSG00000164691,11.938321,,,,,-5.422150451634453,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.06784929982,,,,,,,,,,,
+BLOO12,"TAGAP",ENSG00000164691,11.813948,,,,,-4.779114209517771,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.66901957096,,,,,,,,,,,
+BLOO13,"TAGAP",ENSG00000164691,10.744752,,,,,-5.4350117231078015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.89969489812,,,,,,,,,,,
+BLOO30,"TAGAP",ENSG00000164691,11.038546,,,,,-5.322695240293568,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.92112921531,,,,,,,,,,,
+CELI01,"TAGAP",ENSG00000164691,7.320481,,,,,1.4396026134490967,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.69401428113,,,,,,,,,,,
+RHEU01,"TAGAP",ENSG00000164691,8.138292,,,,,4.165147801240902,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.60459655528,,,,,,,,,,,
+RHEU02,"TAGAP",ENSG00000164691,7.680852,,,,,4.165147801240902,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.60459655528,,,,,,,,,,,
+SCLE02,"TAGAP",ENSG00000164691,10.443963,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.682611785166,,,,,,,,,,,

@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"OPLAH",ENSG00000178814,8.679563,,,,4.88663928402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.41042570034,,,,,,,1.92169347951,,,,,,,
+BLOO16,"OPLAH",ENSG00000178814,8.022629,,,,1.78220970949,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.34674713332,,,,,,,-0.0200284895057,,,,,,,
+BLOO17,"OPLAH",ENSG00000178814,10.412592,,,,1.73590281202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.66485477144,,,,,,,-0.668910573837,,,,,,,
+BLOO18,"OPLAH",ENSG00000178814,7.756763,,,,1.05215271271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.44578118915,,,,,,,-1.08207181376,,,,,,,
+BLOO26,"OPLAH",ENSG00000178814,10.065310,,,,5.42931991825,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.92790175121,,,,,,,2.05416878969,,,,,,,
+BLOO27,"OPLAH",ENSG00000178814,10.827631,,,,5.53488000552,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.94212544732,,,,,,,1.98867229536,,,,,,,
+BLOO29,"OPLAH",ENSG00000178814,7.683862,,,,-4.67385087853,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.14140699989,,,,,,,-1.88592187391,,,,,,,
+BLOO31,"OPLAH",ENSG00000178814,6.532940,,,,-0.23444968273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.08922377493,,,,,,,1.15305222088,,,,,,,
+BLOO34,"OPLAH",ENSG00000178814,17.884024,,,,-7.13029550357,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.70324057434,,,,,,,-2.53312719685,,,,,,,

@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO07,"BEND3",ENSG00000178409,12.205296,-0.563055155535,,,,0.8004588870359819,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.56877008161
+BLOO16,"BEND3",ENSG00000178409,19.310265,-0.485175963362,,,,6.250072588587884,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.7954936022
+BLOO17,"BEND3",ENSG00000178409,20.066209,-0.618680135759,,,,6.286948585526223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.2552918638
+BLOO18,"BEND3",ENSG00000178409,17.174210,-0.322070666788,,,,5.590471910747864,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.743455604
+BLOO19,"BEND3",ENSG00000178409,11.496223,-0.384270565397,,,,3.744102656593133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.58029693241
+BLOO28,"BEND3",ENSG00000178409,11.866589,-0.0468617366688,,,,-3.268006880664041,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.859189106436
+BLOO31,"BEND3",ENSG00000178409,16.897909,0.249380776948,,,,-5.568349998798105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.21512019162
+BLOO36,"BEND3",ENSG00000178409,6.651306,0.10840108989,,,,2.5831472439167857,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8367406676
+LONG01,"BEND3",ENSG00000178409,6.521001,0.116611416786,,,,3.2638561827650414,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.488220138408

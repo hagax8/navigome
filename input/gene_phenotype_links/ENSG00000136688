@@ -1,0 +1,9 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"IL36G",ENSG00000136688,5.724412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.61522703381,,,,,,,1.33757495977
+BLOO06,"IL36G",ENSG00000136688,10.337904,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.17041448464,,,,,,,1.37500510059
+BLOO09,"IL36G",ENSG00000136688,10.408802,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.23901024238,,,,,,,1.42407304716
+BLOO10,"IL36G",ENSG00000136688,9.184754,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.11300031769,,,,,,,1.30567809372
+BLOO12,"IL36G",ENSG00000136688,9.768148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.6844196369,,,,,,,1.14027406946
+BLOO13,"IL36G",ENSG00000136688,11.098585,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.18816027345,,,,,,,1.35521151822
+BLOO30,"IL36G",ENSG00000136688,10.828771,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.26866924234,,,,,,,1.38387595348
+BLOO32,"IL36G",ENSG00000136688,5.767080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.97136751215,,,,,,,1.0289426549

@@ -1,0 +1,16 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"PYCARD",ENSG00000103490,7.311678,,2.40500147943,,,,,,,,,,,,,,,,,,,,,,,,,1.42993630738,,,,,,,,,,,,,,,,,,,,,,0.253033121443
+BFPC04,"PYCARD",ENSG00000103490,7.311002,,2.67244994691,,,,,,,,,,,,,,,,,,,,,,,,,1.37727271704,,,,,,,,,,,,,,,,,,,,,,0.0501857284856
+BLOO02,"PYCARD",ENSG00000103490,9.337629,,-3.2266391498,,,,,,,,,,,,,,,,,,,,,,,,,-2.88878721858,,,,,,,,,,,,,,,,,,,,,,1.31048609826
+BLOO11,"PYCARD",ENSG00000103490,6.919121,,-1.38328600994,,,,,,,,,,,,,,,,,,,,,,,,,-0.0482014214373,,,,,,,,,,,,,,,,,,,,,,0.342679199823
+BLOO26,"PYCARD",ENSG00000103490,6.385377,,4.18772606735,,,,,,,,,,,,,,,,,,,,,,,,,3.27666517434,,,,,,,,,,,,,,,,,,,,,,0.652933622069
+BLOO27,"PYCARD",ENSG00000103490,6.341950,,3.21222172734,,,,,,,,,,,,,,,,,,,,,,,,,2.3128174075,,,,,,,,,,,,,,,,,,,,,,-0.332681349378
+BODY08B,"PYCARD",ENSG00000103490,11.776998,,2.47371231261,,,,,,,,,,,,,,,,,,,,,,,,,1.91014882795,,,,,,,,,,,,,,,,,,,,,,0.525308396196
+BODY08F,"PYCARD",ENSG00000103490,7.541121,,2.87884580974,,,,,,,,,,,,,,,,,,,,,,,,,0.832961052713,,,,,,,,,,,,,,,,,,,,,,-0.693824612867
+BODY08M,"PYCARD",ENSG00000103490,6.655745,,0.941592831133,,,,,,,,,,,,,,,,,,,,,,,,,1.91398787959,,,,,,,,,,,,,,,,,,,,,,1.31695378728
+BODY08,"PYCARD",ENSG00000103490,13.306018,,2.85924144337,,,,,,,,,,,,,,,,,,,,,,,,,1.84815284091,,,,,,,,,,,,,,,,,,,,,,0.254503365864
+FATM04B,"PYCARD",ENSG00000103490,10.325957,,3.15495990034,,,,,,,,,,,,,,,,,,,,,,,,,1.43265214673,,,,,,,,,,,,,,,,,,,,,,0.150971191421
+FATM04F,"PYCARD",ENSG00000103490,6.058548,,3.45247296647,,,,,,,,,,,,,,,,,,,,,,,,,0.691930157638,,,,,,,,,,,,,,,,,,,,,,-1.06205391938
+FATM04,"PYCARD",ENSG00000103490,11.236699,,3.53301292992,,,,,,,,,,,,,,,,,,,,,,,,,1.3942248478,,,,,,,,,,,,,,,,,,,,,,-0.119143511625
+LEAN06B,"PYCARD",ENSG00000103490,8.299850,,2.50350736026,,,,,,,,,,,,,,,,,,,,,,,,,1.11121480966,,,,,,,,,,,,,,,,,,,,,,-0.79907369355
+LEAN06,"PYCARD",ENSG00000103490,6.214891,,1.75977593563,,,,,,,,,,,,,,,,,,,,,,,,,1.16699518002,,,,,,,,,,,,,,,,,,,,,,-0.28200676569

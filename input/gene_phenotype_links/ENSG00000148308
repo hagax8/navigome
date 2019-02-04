@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO07,"GTF3C5",ENSG00000148308,13.145105,,,,,-0.9520865306396853,,,,,,,,,,,,,-0.695010617708,-1.57078055183,,,,,,,,,,,,,0.0335293970774,,,,,,,,,,,,,,,,,
+BLOO08,"GTF3C5",ENSG00000148308,8.558965,,,,,-1.5252415212444697,,,,,,,,,,,,,-1.97581590186,-1.81055587112,,,,,,,,,,,,,-0.638488885708,,,,,,,,,,,,,,,,,
+BLOO14,"GTF3C5",ENSG00000148308,8.561284,,,,,-1.2175633339089509,,,,,,,,,,,,,-2.52077314484,-2.50182713403,,,,,,,,,,,,,-1.3700963081,,,,,,,,,,,,,,,,,
+BLOO15,"GTF3C5",ENSG00000148308,7.300500,,,,,-1.0149002748905815,,,,,,,,,,,,,-2.2224386872,-2.25431346174,,,,,,,,,,,,,-1.58786107787,,,,,,,,,,,,,,,,,
+BLOO16,"GTF3C5",ENSG00000148308,11.906193,,,,,-0.9481988298595341,,,,,,,,,,,,,-1.00083435506,-1.76854155978,,,,,,,,,,,,,-0.287098135348,,,,,,,,,,,,,,,,,
+BLOO17,"GTF3C5",ENSG00000148308,14.357170,,,,,-0.557926028382911,,,,,,,,,,,,,-0.915584307872,-1.79198134083,,,,,,,,,,,,,-0.235910776952,,,,,,,,,,,,,,,,,
+BLOO18,"GTF3C5",ENSG00000148308,17.122473,,,,,-0.44472331084869127,,,,,,,,,,,,,-0.818235286673,-1.65741872429,,,,,,,,,,,,,-0.525027069618,,,,,,,,,,,,,,,,,
+BLOO21,"GTF3C5",ENSG00000148308,6.102263,,,,,0.4053083455301,,,,,,,,,,,,,2.07959219025,2.07530593437,,,,,,,,,,,,,1.62233454007,,,,,,,,,,,,,,,,,
+BLOO29,"GTF3C5",ENSG00000148308,14.870342,,,,,1.3408950640962896,,,,,,,,,,,,,-3.02610072253,-2.83536319847,,,,,,,,,,,,,-1.93596665766,,,,,,,,,,,,,,,,,
+BLOO31,"GTF3C5",ENSG00000148308,11.167670,,,,,0.28367667259593776,,,,,,,,,,,,,1.19999407192,1.96440241922,,,,,,,,,,,,,0.923293534929,,,,,,,,,,,,,,,,,
+BLOO33,"GTF3C5",ENSG00000148308,6.392888,,,,,-0.5964318900153845,,,,,,,,,,,,,0.756504203784,1.2255013331,,,,,,,,,,,,,0.342746218389,,,,,,,,,,,,,,,,,
+BLOO35,"GTF3C5",ENSG00000148308,6.428314,,,,,-0.12219418046487783,,,,,,,,,,,,,0.327488785299,-0.27448252041,,,,,,,,,,,,,-1.50068701506,,,,,,,,,,,,,,,,,

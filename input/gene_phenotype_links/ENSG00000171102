@@ -1,0 +1,15 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"OBP2B",ENSG00000171102,4.548766,,,,,,,,,,-0.099399347686,6.79576196872,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.95673847198,1.05596515524
+BLOO02,"OBP2B",ENSG00000171102,28.263747,,,,,,,,,,1.53571939806,-13.3160498121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-10.1375293732,0.445578170456
+BLOO03,"OBP2B",ENSG00000171102,17.130897,,,,,,,,,,2.1827550619,-9.41980912066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-6.57246208191,2.58724295683
+BLOO04,"OBP2B",ENSG00000171102,2.886491,,,,,,,,,,-0.608252564982,-5.73090978546,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.6622941494,-0.436725360262
+BLOO05,"OBP2B",ENSG00000171102,5.322987,,,,,,,,,,1.75637494928,5.10850194206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.49572491646,6.19277913565
+BLOO19,"OBP2B",ENSG00000171102,8.496237,,,,,,,,,,-3.2217792022,-5.57621566514,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.70264636808,-3.86767432493
+BLOO20,"OBP2B",ENSG00000171102,19.341178,,,,,,,,,,-1.10383498975,-6.0611475211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.09542785261,-3.29142322284
+BLOO25,"OBP2B",ENSG00000171102,13.221147,,,,,,,,,,-2.78169844967,-6.3022746122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.74724133594,-4.1977768802
+BLOO26,"OBP2B",ENSG00000171102,15.353498,,,,,,,,,,3.83338253837,8.29549840477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.60451400355,5.77414750543
+BLOO27,"OBP2B",ENSG00000171102,48.272719,,,,,,,,,,6.05330391331,13.3042527008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.55725112438,9.05083532577
+BLOO28,"OBP2B",ENSG00000171102,7.031134,,,,,,,,,,2.75438619318,5.35471902942,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.08252770837,3.59656883845
+BLOO33,"OBP2B",ENSG00000171102,5.959873,,,,,,,,,,2.40118552507,5.1654922824,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.91022494067,1.83913982486
+BLOO35,"OBP2B",ENSG00000171102,24.145858,,,,,,,,,,3.36198653789,9.29562539094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.10327137646,6.05601347077
+CHOL27,"OBP2B",ENSG00000171102,6.253000,,,,,,,,,,0.873188402218,3.26342999714,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.10118767117,0.882375309646

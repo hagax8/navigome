@@ -2,14 +2,16 @@ import subprocess
 from bs4 import BeautifulSoup as Soup
 import os
 import pandas as pd
+from sys import argv
 
-f_reference = "list_genes.csv"
-csvfile = pd.read_csv(f_reference)
+workdir = str(argv[1])
+f_reference = workdir + '/input/' + 'genes_to_update.csv'
+csvfile = pd.read_csv(f_reference, keep_default_na=False)
 codes = csvfile['ensembl']
-gwas_reference = "gwas_reference"
+gwas_reference = workdir + '/input/' + "gwas_reference"
 
 # create output directory if does not exist
-outdir = 'gene_phenotypes'
+outdir = workdir + '/output/' + 'gene_phenotypes'
 if not os.path.exists(outdir):
     os.makedirs(outdir)
 
@@ -68,21 +70,31 @@ adddiv = (
 for i in codes:
     ensembl = i
     name = csvfile[csvfile['ensembl'] == i]['name'].iloc[0]
-    if type(name) is str:
+    if isinstance(name, str):
         gene = ensembl + ' (' + name + ')'
     else:
         gene = ensembl
     print(gene)
-    cmd = ['python', 'navigome_vis2_profile.py',
-           'gene_phenotype_links/' + str(i), gwas_reference,
-           'gene_phenotypes/' + str(i)]
+    cmd = [
+        'python',
+        workdir +
+        '/scripts/' +
+        'navigome_vis2_profile.py',
+        workdir +
+        '/input/' +
+        'gene_phenotype_links/' +
+        str(i),
+        gwas_reference,
+        workdir +
+        '/output/' +
+        'gene_phenotypes/' +
+        str(i)]
     process = subprocess.Popen(cmd, stdout=subprocess.PIPE)
     (output, err) = process.communicate()
     p_status = process.wait()
-    print(output)
     head = newheader + '<title>' + \
         "Gene profile: " + str(i) + '</title>'
-    with open('gene_phenotypes/' + str(i) + '.html', 'r') as f:
+    with open(workdir + '/output/' + 'gene_phenotypes/' + str(i) + '.html', 'r') as f:
         html = f.read()
         soup = Soup(html, features="html.parser")
         soup.head.contents = Soup(head,
@@ -97,5 +109,5 @@ for i in codes:
         soup = str(soup).replace(
             'embedOpt = {"mode": "vega-lite"};',
             'embedOpt = {"mode": "vega-lite", "loader": vega.loader({target: \'_blank\'})};')
-    with open('gene_phenotypes/' + str(i) + '.html', 'w') as fout:
+    with open(workdir + '/output/' + 'gene_phenotypes/' + str(i) + '.html', 'w') as fout:
         fout.write(str(soup))

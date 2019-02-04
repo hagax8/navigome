@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"DUPD1",ENSG00000188716,9.849428,,,,-4.30688920374,,,,,,,-5.20909925574,,,,,,,,,,,,,,,,,,,,,,-2.67168630444,,,,,,,,,,,,,,,,
+BFPC04F,"DUPD1",ENSG00000188716,5.835439,,,,-3.82889755582,,,,,,,-4.41790490557,,,,,,,,,,,,,,,,,,,,,,-1.91588044276,,,,,,,,,,,,,,,,
+BFPC04,"DUPD1",ENSG00000188716,10.649423,,,,-4.52878926602,,,,,,,-5.40995970552,,,,,,,,,,,,,,,,,,,,,,-2.71256209456,,,,,,,,,,,,,,,,
+BODY08B,"DUPD1",ENSG00000188716,7.996281,,,,-2.55144784793,,,,,,,-4.37855988107,,,,,,,,,,,,,,,,,,,,,,-1.05484356503,,,,,,,,,,,,,,,,
+BODY08,"DUPD1",ENSG00000188716,7.001889,,,,-2.6282742057,,,,,,,-4.39242574295,,,,,,,,,,,,,,,,,,,,,,-1.08704365507,,,,,,,,,,,,,,,,
+FATM04B,"DUPD1",ENSG00000188716,11.275773,,,,-4.66045721085,,,,,,,-5.67144434388,,,,,,,,,,,,,,,,,,,,,,-2.37646120136,,,,,,,,,,,,,,,,
+FATM04F,"DUPD1",ENSG00000188716,6.722712,,,,-3.8431918948,,,,,,,-4.22416904649,,,,,,,,,,,,,,,,,,,,,,-1.73285525826,,,,,,,,,,,,,,,,
+FATM04M,"DUPD1",ENSG00000188716,5.625325,,,,-3.15892369506,,,,,,,-4.22865461051,,,,,,,,,,,,,,,,,,,,,,-1.80541788394,,,,,,,,,,,,,,,,
+FATM04,"DUPD1",ENSG00000188716,11.489777,,,,-4.7810310761,,,,,,,-5.70718219618,,,,,,,,,,,,,,,,,,,,,,-2.37213707614,,,,,,,,,,,,,,,,

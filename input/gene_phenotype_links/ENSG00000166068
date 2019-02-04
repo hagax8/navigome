@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+HEIG03,"SPRED1",ENSG00000166068,7.450776,,,,,-2.060472743101879,,,,,,,,,,,,,,,,,,,2.44931294172,,,,,,,,1.72062869326,,,,,,,,,,,,,,,,,
+LEAN04B,"SPRED1",ENSG00000166068,8.807488,,,,,-2.3952499321761374,,,,,,,,,,,,,,,,,,,1.58828654937,,,,,,,,1.47854850651,,,,,,,,,,,,,,,,,
+LEAN04F,"SPRED1",ENSG00000166068,5.934271,,,,,-1.8955065159596556,,,,,,,,,,,,,,,,,,,2.27927647726,,,,,,,,0.912018921468,,,,,,,,,,,,,,,,,
+LEAN04,"SPRED1",ENSG00000166068,8.005366,,,,,-2.189656941263084,,,,,,,,,,,,,,,,,,,0.903884998072,,,,,,,,1.49338453266,,,,,,,,,,,,,,,,,
+LEAN05B,"SPRED1",ENSG00000166068,10.312302,,,,,-2.313915173330441,,,,,,,,,,,,,,,,,,,1.5877424013,,,,,,,,1.62248602452,,,,,,,,,,,,,,,,,
+LEAN05F,"SPRED1",ENSG00000166068,7.306898,,,,,-1.8394408749999278,,,,,,,,,,,,,,,,,,,2.23554852673,,,,,,,,1.07381043508,,,,,,,,,,,,,,,,,
+LEAN05,"SPRED1",ENSG00000166068,8.454408,,,,,-2.11295946430698,,,,,,,,,,,,,,,,,,,0.925935278441,,,,,,,,1.60120414383,,,,,,,,,,,,,,,,,
+LEAN06B,"SPRED1",ENSG00000166068,9.755031,,,,,-2.5331979175985055,,,,,,,,,,,,,,,,,,,-0.399546828717,,,,,,,,2.85064479055,,,,,,,,,,,,,,,,,
+LEAN06F,"SPRED1",ENSG00000166068,6.521708,,,,,-2.0436595902485744,,,,,,,,,,,,,,,,,,,0.14512004441,,,,,,,,2.43746794935,,,,,,,,,,,,,,,,,
+LEAN06,"SPRED1",ENSG00000166068,7.892654,,,,,-2.406375587170213,,,,,,,,,,,,,,,,,,,-0.53790830777,,,,,,,,2.59782406081,,,,,,,,,,,,,,,,,

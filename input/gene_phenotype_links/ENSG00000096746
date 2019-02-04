@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"HNRNPH3",ENSG00000096746,1.329541,,,,,,1.69365965625,,,,,,,,,,,,,,,,,,,,,,,,,,0.0926891428363,,,,,,,,,-5.16797667981,,,,,,,,
+BLOO03,"HNRNPH3",ENSG00000096746,1.171430,,,,,,2.76636612145,,,,,,,,,,,,,,,,,,,,,,,,,,-0.824504751781,,,,,,,,,-8.58565183241,,,,,,,,
+BLOO20,"HNRNPH3",ENSG00000096746,1.742273,,,,,,2.91073329521,,,,,,,,,,,,,,,,,,,,,,,,,,-0.698559779819,,,,,,,,,-7.8813725438,,,,,,,,
+HEIG03,"HNRNPH3",ENSG00000096746,6.425529,,,,,,-0.326313644072,,,,,,,,,,,,,,,,,,,,,,,,,,-1.54252950314,,,,,,,,,-3.15746192798,,,,,,,,
+LEAN06B,"HNRNPH3",ENSG00000096746,9.581682,,,,,,-1.06519772927,,,,,,,,,,,,,,,,,,,,,,,,,,-2.7059705668,,,,,,,,,-2.05828601248,,,,,,,,
+LEAN06F,"HNRNPH3",ENSG00000096746,5.761051,,,,,,-1.3990088579,,,,,,,,,,,,,,,,,,,,,,,,,,-1.04729226903,,,,,,,,,-2.6084899323,,,,,,,,
+LEAN06M,"HNRNPH3",ENSG00000096746,5.782858,,,,,,0.114405268433,,,,,,,,,,,,,,,,,,,,,,,,,,-3.65031303717,,,,,,,,,0.0722868222286,,,,,,,,
+LEAN06,"HNRNPH3",ENSG00000096746,11.260167,,,,,,-0.633571782514,,,,,,,,,,,,,,,,,,,,,,,,,,-3.38799451509,,,,,,,,,-1.34967179699,,,,,,,,
+URAT01,"HNRNPH3",ENSG00000096746,1.038531,,,,,,0.307265813641,,,,,,,,,,,,,,,,,,,,,,,,,,1.97735557518,,,,,,,,,4.89926434868,,,,,,,,

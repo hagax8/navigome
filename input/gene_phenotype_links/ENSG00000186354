@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"C9orf47",ENSG00000186354,9.552904,,,,,2.1480505108864403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.26501132882,,,,2.72651481732,,,,,,,,
+BLOO04,"C9orf47",ENSG00000186354,8.662461,,,,,-1.9184201592102328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.27495961973,,,,1.94315024665,,,,,,,,
+BLOO05,"C9orf47",ENSG00000186354,13.896162,,,,,10.633041715464433,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.5652502455,,,,7.54194145926,,,,,,,,
+BLOO11,"C9orf47",ENSG00000186354,8.831061,,,,,3.275208861368333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.59830017067,,,,2.41256149307,,,,,,,,
+BLOO19,"C9orf47",ENSG00000186354,8.791559,,,,,-9.46533823509896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1490356629,,,,-6.0944323674,,,,,,,,
+BLOO21,"C9orf47",ENSG00000186354,5.636463,,,,,-2.22791239209273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.379621239898,,,,1.49445506966,,,,,,,,
+BLOO22,"C9orf47",ENSG00000186354,6.372081,,,,,-2.1223648318001858,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.413222221786,,,,1.54513552843,,,,,,,,
+BLOO28,"C9orf47",ENSG00000186354,7.804903,,,,,9.79295649308664,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.33092427739,,,,6.61613409658,,,,,,,,
+BLOO32,"C9orf47",ENSG00000186354,7.085324,,,,,-3.755904739000063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.84148780212,,,,-1.61485595974,,,,,,,,
+BLOO33,"C9orf47",ENSG00000186354,18.646757,,,,,2.9653178588017903,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.99559964314,,,,2.8722166609,,,,,,,,
+BLOO36,"C9orf47",ENSG00000186354,8.623551,,,,,-2.0703708765790165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.426264322991,,,,1.77007407356,,,,,,,,

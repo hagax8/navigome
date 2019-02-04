@@ -1,0 +1,8 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+LEAN04M,"HOXB13",ENSG00000159184,6.142836,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.97639303698,,,,,,,,,,,,,,,,,,,,,,-1.25222640615
+LEAN04,"HOXB13",ENSG00000159184,6.502103,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.07042183,,,,,,,,,,,,,,,,,,,,,,-1.2240719435
+LEAN05M,"HOXB13",ENSG00000159184,5.919554,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.977163555,,,,,,,,,,,,,,,,,,,,,,-1.22258556531
+LEAN05,"HOXB13",ENSG00000159184,6.708764,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.1039071675,,,,,,,,,,,,,,,,,,,,,,-1.23162638473
+LEAN06B,"HOXB13",ENSG00000159184,5.914924,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.75991188782,,,,,,,,,,,,,,,,,,,,,,-0.46926017659
+LEAN06M,"HOXB13",ENSG00000159184,7.082269,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.30359363704,,,,,,,,,,,,,,,,,,,,,,-1.73782569277
+LEAN06,"HOXB13",ENSG00000159184,7.844634,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.23057175281,,,,,,,,,,,,,,,,,,,,,,-1.12660935887

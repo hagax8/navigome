@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO07,"IDI2",ENSG00000148377,13.600257,,,,5.45008292322,-5.018348575536349,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.941111351692,,,,,,,,,,,,,,,,
+BLOO08,"IDI2",ENSG00000148377,13.301291,,,,4.95005566434,-4.503574913824084,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.03381944823,,,,,,,,,,,,,,,,
+BLOO14,"IDI2",ENSG00000148377,12.518099,,,,4.76870910661,-4.307578378714657,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.25071007161,,,,,,,,,,,,,,,,
+BLOO15,"IDI2",ENSG00000148377,10.579533,,,,4.4348965558,-4.101202052328436,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.966259895183,,,,,,,,,,,,,,,,
+BLOO16,"IDI2",ENSG00000148377,19.338320,,,,6.2847230997,-5.455996560942632,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.00315453037,,,,,,,,,,,,,,,,
+BLOO17,"IDI2",ENSG00000148377,11.901841,,,,4.79597555526,-4.5403622528095235,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.89924364791,,,,,,,,,,,,,,,,
+BLOO18,"IDI2",ENSG00000148377,9.524896,,,,4.38788399703,-4.190143945482992,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.811689054386,,,,,,,,,,,,,,,,
+BLOO31,"IDI2",ENSG00000148377,14.317638,,,,-5.29992746025,4.876759977582147,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.07701497594,,,,,,,,,,,,,,,,
+URIN07,"IDI2",ENSG00000148377,6.815053,,,,5.12291514206,-3.5316579032974107,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.575016605062,,,,,,,,,,,,,,,,
+URIN09,"IDI2",ENSG00000148377,6.472151,,,,4.60863186998,-3.4370429877724624,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.633571587855,,,,,,,,,,,,,,,,

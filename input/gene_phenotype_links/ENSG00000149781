@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04F,"FERMT3",ENSG00000149781,6.864708,,,,,2.640387322131206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.955037532535,,,,,,
+BFPC04,"FERMT3",ENSG00000149781,5.898769,,,,,2.8769578301004812,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0068469219304,,,,,,
+BLOO01,"FERMT3",ENSG00000149781,10.596348,,,,,5.199319490347241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.731343969295,,,,,,
+BLOO19,"FERMT3",ENSG00000149781,5.669363,,,,,3.5433369323057953,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.911352225595,,,,,,
+BLOO21,"FERMT3",ENSG00000149781,15.577476,,,,,-4.3457993509851205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.5512208945,,,,,,
+BLOO22,"FERMT3",ENSG00000149781,15.854897,,,,,-4.4781685101507085,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6232032836,,,,,,
+BLOO23,"FERMT3",ENSG00000149781,23.854928,,,,,-5.901885871608782,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.23288625935,,,,,,
+BLOO33,"FERMT3",ENSG00000149781,10.507072,,,,,4.036843288863125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.244537149174,,,,,,
+FATM04F,"FERMT3",ENSG00000149781,5.626169,,,,,2.048244455344612,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.47005510304,,,,,,
+FATM04,"FERMT3",ENSG00000149781,5.810005,,,,,2.766925746954139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.307701475608,,,,,,

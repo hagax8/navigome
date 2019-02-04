@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"SPAG5",ENSG00000076382,5.254964,,-1.53144171181,,,-6.154543651809183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.05811776342,,,,,,,,
+BLOO02,"SPAG5",ENSG00000076382,7.310904,,-4.59231320342,,,-5.629854639180717,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.61742087802,,,,,,,,
+BLOO04,"SPAG5",ENSG00000076382,8.794769,,-4.21556698312,,,-3.573426622364143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.93823215496,,,,,,,,
+BLOO21,"SPAG5",ENSG00000076382,17.079371,,-7.81559145766,,,-7.269287602538726,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.95929500961,,,,,,,,
+BLOO22,"SPAG5",ENSG00000076382,18.209504,,-8.50893911777,,,-7.993290494217401,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.16648095133,,,,,,,,
+BLOO23,"SPAG5",ENSG00000076382,32.623697,,-10.9366325457,,,-10.93688098707956,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.37531247827,,,,,,,,
+BLOO25,"SPAG5",ENSG00000076382,33.027806,,8.68114473585,,,8.189882494571084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.805395004169,,,,,,,,
+BLOO26,"SPAG5",ENSG00000076382,30.609030,,10.6203571627,,,10.43876914817504,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.10617023101,,,,,,,,
+BLOO27,"SPAG5",ENSG00000076382,19.113194,,7.66310918545,,,7.529105804178051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.34545653666,,,,,,,,
+BLOO29,"SPAG5",ENSG00000076382,12.438767,,3.89722632682,,,11.57477593332691,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.79977898886,,,,,,,,
+BLOO35,"SPAG5",ENSG00000076382,51.476904,,-11.2335305534,,,-9.002769095822211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.659604126647,,,,,,,,
+BLOO36,"SPAG5",ENSG00000076382,6.477621,,-3.16651764787,,,-2.2820381074820317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.56910195874,,,,,,,,

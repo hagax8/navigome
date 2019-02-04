@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO04,"HYAL2",ENSG00000068001,25.931740,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.33808655525,,,,,,,,,,,,,,,
+BLOO21,"HYAL2",ENSG00000068001,49.305342,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.90115678209,,,,,,,,,,,,,,,
+BLOO22,"HYAL2",ENSG00000068001,50.447368,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.92010546459,,,,,,,,,,,,,,,
+BLOO23,"HYAL2",ENSG00000068001,38.166318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.04176992703,,,,,,,,,,,,,,,
+BLOO36,"HYAL2",ENSG00000068001,45.377485,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.911622466704,,,,,,,,,,,,,,,
+BODY08M,"HYAL2",ENSG00000068001,5.687125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.67831035555,,,,,,,,,,,,,,,
+EDUC03,"HYAL2",ENSG00000068001,7.679688,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.539217758918,,,,,,,,,,,,,,,
+NEUR02B,"HYAL2",ENSG00000068001,9.127774,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.108745608218,,,,,,,,,,,,,,,
+NEUR02F,"HYAL2",ENSG00000068001,11.288800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.46184898433,,,,,,,,,,,,,,,

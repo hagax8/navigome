@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO03,"PCK1",ENSG00000124253,10.236086,,,,,,,,,-0.801981573445,,,,,,,,,,,,,,,,,,,,0.529129659181,,,5.37179301807,,,,,,,,,,,,,-3.90642061259,,,,
+BLOO20,"PCK1",ENSG00000124253,9.231821,,,,,,,,,-1.61962523512,,,,,,,,,,,,,,,,,,,,0.542952540479,,,4.93082387975,,,,,,,,,,,,,-3.74034643819,,,,
+BLOO26,"PCK1",ENSG00000124253,6.320018,,,,,,,,,3.93771952916,,,,,,,,,,,,,,,,,,,,1.38666065631,,,3.18671986717,,,,,,,,,,,,,-1.4906424962,,,,
+BLOO27,"PCK1",ENSG00000124253,7.196215,,,,,,,,,3.63242055109,,,,,,,,,,,,,,,,,,,,1.75390005752,,,3.02572488288,,,,,,,,,,,,,-1.21345732641,,,,
+WAIS03F,"PCK1",ENSG00000124253,7.721544,,,,,,,,,-0.169017012549,,,,,,,,,,,,,,,,,,,,-0.560159879254,,,3.04623296589,,,,,,,,,,,,,-3.05078133318,,,,
+WAIS03,"PCK1",ENSG00000124253,7.816559,,,,,,,,,-0.237531501362,,,,,,,,,,,,,,,,,,,,0.338467219502,,,3.08331900908,,,,,,,,,,,,,-2.4683518762,,,,
+WAIS04F,"PCK1",ENSG00000124253,7.598289,,,,,,,,,-0.16656592581,,,,,,,,,,,,,,,,,,,,-0.552036313461,,,3.00205583442,,,,,,,,,,,,,-3.00052367168,,,,
+WAIS04,"PCK1",ENSG00000124253,7.034380,,,,,,,,,-0.231789197652,,,,,,,,,,,,,,,,,,,,0.33028474592,,,3.00877972403,,,,,,,,,,,,,-2.40719550614,,,,
+WHIP05,"PCK1",ENSG00000124253,6.063707,,,,,,,,,-0.931621536178,,,,,,,,,,,,,,,,,,,,1.32968215557,,,2.92282685779,,,,,,,,,,,,,-3.15510751735,,,,
+WHIP06F,"PCK1",ENSG00000124253,5.878145,,,,,,,,,-1.30493175105,,,,,,,,,,,,,,,,,,,,0.16035140442,,,2.88192471728,,,,,,,,,,,,,-2.86622886849,,,,
+WHIP06,"PCK1",ENSG00000124253,6.158634,,,,,,,,,-0.913757978369,,,,,,,,,,,,,,,,,,,,1.30418588805,,,2.86678252142,,,,,,,,,,,,,-3.0993787109,,,,

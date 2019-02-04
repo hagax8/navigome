@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+HIPC03M,"PARPBP",ENSG00000185480,6.797512,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.890186088868,,,,,,,,,,,,,,,,-0.382194569443,4.14775784277,,,0.982132523601,
+HIPC04M,"PARPBP",ENSG00000185480,6.420011,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.01403174016,,,,,,,,,,,,,,,,-0.333081456932,3.92184875052,,,1.05963074666,
+LEAN04B,"PARPBP",ENSG00000185480,7.278676,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.09471285001,,,,,,,,,,,,,,,,-1.32877176641,4.44437121905,,,-2.0645098263,
+LEAN04M,"PARPBP",ENSG00000185480,10.607813,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3948507019,,,,,,,,,,,,,,,,-1.32781895688,4.81160900389,,,-1.07819190007,
+LEAN04,"PARPBP",ENSG00000185480,13.542754,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.40126256731,,,,,,,,,,,,,,,,-1.38669410546,5.21112914443,,,-1.91593424717,
+LEAN05B,"PARPBP",ENSG00000185480,8.118838,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.05641462547,,,,,,,,,,,,,,,,-1.35534015813,4.42095143133,,,-2.06047089026,
+LEAN05M,"PARPBP",ENSG00000185480,11.506835,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.34947044193,,,,,,,,,,,,,,,,-1.30070888558,4.78231387814,,,-1.03155476207,
+LEAN05,"PARPBP",ENSG00000185480,11.206454,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.34944367976,,,,,,,,,,,,,,,,-1.3914175429,5.1886679221,,,-1.89309023188,
+LEAN06B,"PARPBP",ENSG00000185480,12.078085,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.815543967932,,,,,,,,,,,,,,,,0.176287648273,4.97875072201,,,-2.76794630748,
+LEAN06M,"PARPBP",ENSG00000185480,13.842241,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.12836392278,,,,,,,,,,,,,,,,-0.216175907106,5.54113020606,,,-1.81992533973,
+LEAN06,"PARPBP",ENSG00000185480,13.729950,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.07746167327,,,,,,,,,,,,,,,,0.0358004768799,5.96071189705,,,-2.73633064685,

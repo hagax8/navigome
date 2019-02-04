@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+HEIG03,"DTL",ENSG00000143476,6.580028,,,,,-2.4932363033294678,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.64843384716,,,-0.445172438203,
+HIPC03M,"DTL",ENSG00000143476,8.334794,,,,,-1.463855862617493,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.565383862115,,,-0.735945933889,
+HIPC03,"DTL",ENSG00000143476,6.842211,,,,,-0.9636163711547853,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.37626394727,,,-1.43956613057,
+HIPC04M,"DTL",ENSG00000143476,6.293931,,,,,-1.4405198097229004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.510249054688,,,-0.725477142354,
+LEAN04B,"DTL",ENSG00000143476,5.734451,,,,,-2.0128228664398193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.19691098163,,,2.30396241515,
+LEAN05B,"DTL",ENSG00000143476,5.838512,,,,,-2.009888887405396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.2531365286,,,2.3203923688,
+LEAN06B,"DTL",ENSG00000143476,9.087629,,,,,-2.047882318496704,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.64781814011,,,0.962413404896,
+LEAN06F,"DTL",ENSG00000143476,7.828595,,,,,-2.470353126525879,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.60013545759,,,2.04470220328,
+LEAN06,"DTL",ENSG00000143476,7.309060,,,,,-1.376827955245972,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.4559972369,,,-0.12828365076,
+WEIG03,"DTL",ENSG00000143476,6.595235,,,,,-2.1243979930877686,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.67301210176,,,2.83727755885,

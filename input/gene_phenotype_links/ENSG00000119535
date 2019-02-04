@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"CSF3R",ENSG00000119535,42.371233,,,,,3.757791787089607,,,,,,,,,,,3.1244894384,,,,,,,,,,,4.32897330594,,-2.1894395962,,,,,,,,,,,,,,,,,,,,
+BLOO09,"CSF3R",ENSG00000119535,42.611277,,,,,3.587569673377697,,,,,,,,,,,2.92146389972,,,,,,,,,,,4.05637692897,,-1.92412119871,,,,,,,,,,,,,,,,,,,,
+BLOO10,"CSF3R",ENSG00000119535,41.751683,,,,,3.2743202618517206,,,,,,,,,,,3.10389584306,,,,,,,,,,,3.97105907719,,-1.81811038429,,,,,,,,,,,,,,,,,,,,
+BLOO12,"CSF3R",ENSG00000119535,32.517412,,,,,3.101673007793547,,,,,,,,,,,3.22867677326,,,,,,,,,,,3.03952796606,,-1.26039177274,,,,,,,,,,,,,,,,,,,,
+BLOO13,"CSF3R",ENSG00000119535,41.670013,,,,,3.751512987240665,,,,,,,,,,,2.96942102034,,,,,,,,,,,4.18809801155,,-2.07045683296,,,,,,,,,,,,,,,,,,,,
+BLOO19,"CSF3R",ENSG00000119535,22.400390,,,,,3.406999432585314,,,,,,,,,,,1.11116042837,,,,,,,,,,,4.06117165923,,-2.78230789639,,,,,,,,,,,,,,,,,,,,
+BLOO24,"CSF3R",ENSG00000119535,18.364607,,,,,-2.4936039463071,,,,,,,,,,,-1.21561033547,,,,,,,,,,,-3.92689977053,,2.49389557746,,,,,,,,,,,,,,,,,,,,
+BLOO28,"CSF3R",ENSG00000119535,13.495570,,,,,-2.992692097041824,,,,,,,,,,,-0.920743199518,,,,,,,,,,,-3.13285926201,,1.65679747023,,,,,,,,,,,,,,,,,,,,
+BLOO30,"CSF3R",ENSG00000119535,44.763362,,,,,3.600612123948352,,,,,,,,,,,3.03503879276,,,,,,,,,,,4.15310965378,,-2.06340479307,,,,,,,,,,,,,,,,,,,,
+BLOO31,"CSF3R",ENSG00000119535,7.690988,,,,,3.5187611483699746,,,,,,,,,,,1.55349068861,,,,,,,,,,,2.12763718287,,-1.97515838068,,,,,,,,,,,,,,,,,,,,
+BLOO32,"CSF3R",ENSG00000119535,23.510182,,,,,3.6314101066965105,,,,,,,,,,,1.64175014919,,,,,,,,,,,4.48082556089,,-2.80383872206,,,,,,,,,,,,,,,,,,,,
+MENO01F,"CSF3R",ENSG00000119535,7.610285,,,,,0.13035415403191963,,,,,,,,,,,-1.54909262379,,,,,,,,,,,1.0621873238,,1.02278257628,,,,,,,,,,,,,,,,,,,,

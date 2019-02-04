@@ -1,0 +1,14 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO33,"RPL3",ENSG00000100316,5.732594,,,,,-2.173111889238747,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.14860164837,-2.57988847045
+CIRR01,"RPL3",ENSG00000100316,10.765736,,,,,-4.37492561340332,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.34907412653,1.0507489644
+CROH01,"RPL3",ENSG00000100316,10.134677,,,,,0.1042193349294189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.345630710291,2.73889630431
+FATM02F,"RPL3",ENSG00000100316,5.734545,,,,,-1.314950677896906,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.181656743108,-0.37547421284
+INFB01,"RPL3",ENSG00000100316,11.587086,,,,,0.0159880759245738,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.149637365637,0.993422747036
+LEAN04B,"RPL3",ENSG00000100316,8.658823,,,,,-0.700770084561895,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.483545250482,-1.28370048983
+LEAN04F,"RPL3",ENSG00000100316,6.118507,,,,,-1.3330143948221544,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.399682158309,-0.905462873199
+LEAN04,"RPL3",ENSG00000100316,6.365724,,,,,-0.005821143346574752,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.404303125669,-1.26110079404
+LEAN05B,"RPL3",ENSG00000100316,7.522271,,,,,-0.7292800941062769,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.530489191414,-1.25529743462
+LEAN05F,"RPL3",ENSG00000100316,6.083999,,,,,-1.3749739026963181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.446849261761,-0.880259090487
+LEAN05,"RPL3",ENSG00000100316,6.116356,,,,,-0.02488494562423497,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.439180657017,-1.25455101166
+RHEU01,"RPL3",ENSG00000100316,9.226060,,,,,-4.2032925448118945,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.89379291041,-3.40661932955
+RHEU02,"RPL3",ENSG00000100316,9.482342,,,,,-4.2032925448118945,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.89379291041,-3.66959635599

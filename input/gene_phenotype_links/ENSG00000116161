@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"CACYBP",ENSG00000116161,7.435689,,,,,1.4515593292289242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.2876101766,
+BFPC04M,"CACYBP",ENSG00000116161,6.642847,,,,,2.3606694715512537,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.16580028753,
+BFPC04,"CACYBP",ENSG00000116161,7.337403,,,,,0.9868789322636374,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.17908142606,
+BODY08B,"CACYBP",ENSG00000116161,9.506472,,,,,1.854470134119502,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.66935348108,
+BODY08M,"CACYBP",ENSG00000116161,7.854089,,,,,2.6565321531420403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.96274218497,
+BODY08,"CACYBP",ENSG00000116161,9.576967,,,,,1.43525873953153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.33540883104,
+FATM04B,"CACYBP",ENSG00000116161,8.705622,,,,,1.5809190827887567,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.67684838179,
+FATM04M,"CACYBP",ENSG00000116161,7.500547,,,,,2.376424975899418,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.64121101747,
+FATM04,"CACYBP",ENSG00000116161,8.723102,,,,,1.166737773574997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.47413198331,
+MENA02F,"CACYBP",ENSG00000116161,5.959556,,,,,-2.150923453298246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.557479413551,

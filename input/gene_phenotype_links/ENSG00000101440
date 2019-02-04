@@ -1,0 +1,17 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO26,"ASIP",ENSG00000101440,1.442481,,,,,,,,,,,,,,,,,,,,-5.24766235337,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.93691417071,-4.48633118585
+BLOO27,"ASIP",ENSG00000101440,1.799533,,,,,,,,,,,,,,,,,,,,-4.78543870393,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.2123338479,-4.18442388142
+HEIG03,"ASIP",ENSG00000101440,0.734121,,,,,,,,,,,,,,,,,,,,-5.46150727834,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.47232408347,-7.6373847592
+LEAN04B,"ASIP",ENSG00000101440,5.792366,,,,,,,,,,,,,,,,,,,,-6.68963064389,,,,,,,,,,,,,,,,,,,,,,,,,,,,-6.58081303304,-7.48903912127
+LEAN04F,"ASIP",ENSG00000101440,1.987796,,,,,,,,,,,,,,,,,,,,-4.06585569684,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.31703264855,-5.16120798109
+LEAN04M,"ASIP",ENSG00000101440,3.603452,,,,,,,,,,,,,,,,,,,,-6.22590391608,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.68071547594,-6.11956393651
+LEAN04,"ASIP",ENSG00000101440,6.375800,,,,,,,,,,,,,,,,,,,,-7.12842405867,,,,,,,,,,,,,,,,,,,,,,,,,,,,-6.79729875798,-7.55876623161
+LEAN05B,"ASIP",ENSG00000101440,5.685627,,,,,,,,,,,,,,,,,,,,-6.89997281226,,,,,,,,,,,,,,,,,,,,,,,,,,,,-6.65325325196,-7.64403776802
+LEAN05F,"ASIP",ENSG00000101440,2.215554,,,,,,,,,,,,,,,,,,,,-4.33141501193,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.40757718473,-5.36146679712
+LEAN05M,"ASIP",ENSG00000101440,3.886960,,,,,,,,,,,,,,,,,,,,-6.26386038493,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.7132497253,-6.14581438785
+LEAN05,"ASIP",ENSG00000101440,6.514321,,,,,,,,,,,,,,,,,,,,-7.27751133358,,,,,,,,,,,,,,,,,,,,,,,,,,,,-6.86514531303,-7.67427071644
+LEAN06B,"ASIP",ENSG00000101440,10.266241,,,,,,,,,,,,,,,,,,,,-8.37915927254,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.00635836634,-9.65514229959
+LEAN06F,"ASIP",ENSG00000101440,4.430252,,,,,,,,,,,,,,,,,,,,-5.70937656279,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.87401871937,-7.00424637925
+LEAN06M,"ASIP",ENSG00000101440,6.844300,,,,,,,,,,,,,,,,,,,,-7.3942108939,,,,,,,,,,,,,,,,,,,,,,,,,,,,-6.40858955252,-7.85658164569
+LEAN06,"ASIP",ENSG00000101440,9.781045,,,,,,,,,,,,,,,,,,,,-8.79565386308,,,,,,,,,,,,,,,,,,,,,,,,,,,,-8.15472501042,-9.85583667803
+TRGL03,"ASIP",ENSG00000101440,0.368191,,,,,,,,,,,,,,,,,,,,-4.79851080565,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0905288362261,-3.10748250242

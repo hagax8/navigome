@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO29,"STX1A",ENSG00000106089,7.181194,,,,,2.5436605687917924,,,,0.968494045377,,,,,,,,,,,,,,,,,,,,,,,,2.5187309787,,,,,,,,,,,,,,,,
+BLOO34,"STX1A",ENSG00000106089,15.606952,,,,,1.8745371858115039,,,,-1.43736118215,,,,,,,,,,,,,,,,,,,,,,,,0.203020154697,,,,,,,,,,,,,,,,
+LEAN04B,"STX1A",ENSG00000106089,7.092465,,,,,3.16862864719558,,,,0.401014070424,,,,,,,,,,,,,,,,,,,,,,,,4.45720766044,,,,,,,,,,,,,,,,
+LEAN04,"STX1A",ENSG00000106089,6.135388,,,,,3.334676348041671,,,,0.849478177956,,,,,,,,,,,,,,,,,,,,,,,,4.00738019866,,,,,,,,,,,,,,,,
+LEAN05B,"STX1A",ENSG00000106089,7.681040,,,,,3.243052347815467,,,,0.382644080488,,,,,,,,,,,,,,,,,,,,,,,,4.52694838341,,,,,,,,,,,,,,,,
+LEAN05,"STX1A",ENSG00000106089,5.847895,,,,,3.376170153703865,,,,0.819253945501,,,,,,,,,,,,,,,,,,,,,,,,4.01860145697,,,,,,,,,,,,,,,,
+LEAN06B,"STX1A",ENSG00000106089,14.527317,,,,,4.706445859866529,,,,0.955606863746,,,,,,,,,,,,,,,,,,,,,,,,6.16891697239,,,,,,,,,,,,,,,,
+LEAN06F,"STX1A",ENSG00000106089,10.716088,,,,,3.9437454594049464,,,,0.830445822919,,,,,,,,,,,,,,,,,,,,,,,,5.51275733912,,,,,,,,,,,,,,,,
+LEAN06,"STX1A",ENSG00000106089,11.862931,,,,,4.379103232610295,,,,0.854187648846,,,,,,,,,,,,,,,,,,,,,,,,5.48767456099,,,,,,,,,,,,,,,,

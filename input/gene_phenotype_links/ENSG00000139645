@@ -1,0 +1,9 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO29,"ANKRD52",ENSG00000139645,10.688522,,,,,-1.4478353981260355,,,,,,,,,,,,,,,,,,,,,,,,,,,2.83146447217,,,,,,,,,,,,,,,,,
+COAD01,"ANKRD52",ENSG00000139645,6.142083,,,,,1.4295574143884646,,,,,,,,,,,,,,,,,,,,,,,,,,,2.08539347443,,,,,,,,,,,,,,,,,
+COAD03,"ANKRD52",ENSG00000139645,5.605864,,,,,1.042446422055339,,,,,,,,,,,,,,,,,,,,,,,,,,,1.45951196878,,,,,,,,,,,,,,,,,
+HEIG03,"ANKRD52",ENSG00000139645,12.169405,,,,,-1.7718551389990422,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.22412751554,,,,,,,,,,,,,,,,,
+HEIG04F,"ANKRD52",ENSG00000139645,8.361421,,,,,-0.5244399970268483,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.36571989043,,,,,,,,,,,,,,,,,
+LEAN06B,"ANKRD52",ENSG00000139645,8.543801,,,,,0.8285862915447159,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.0500685163,,,,,,,,,,,,,,,,,
+LEAN06M,"ANKRD52",ENSG00000139645,7.206245,,,,,0.6182152560379857,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.08820032783,,,,,,,,,,,,,,,,,
+LEAN06,"ANKRD52",ENSG00000139645,9.486157,,,,,0.7843761986739828,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.20265522608,,,,,,,,,,,,,,,,,

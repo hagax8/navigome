@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"SHISA8",ENSG00000234965,5.625692,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.14627265596,,,,,,,1.40470121907,,,,
+BLOO11,"SHISA8",ENSG00000234965,6.935692,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.14424914396,,,,,,,2.14136078103,,,,
+BLOO34,"SHISA8",ENSG00000234965,9.302361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.88642141422,,,,,,,2.2631456611,,,,
+EDUC03,"SHISA8",ENSG00000234965,2.573798,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.6440059783,,,,,,,5.6831955533,,,,
+LEAN04,"SHISA8",ENSG00000234965,5.638915,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.220509989174,,,,,,,-0.294443470798,,,,
+LEAN06B,"SHISA8",ENSG00000234965,6.922923,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.160870952654,,,,,,,-1.32006234746,,,,
+LEAN06,"SHISA8",ENSG00000234965,6.566726,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.913628767915,,,,,,,-1.55294886226,,,,
+SCHI01,"SHISA8",ENSG00000234965,7.795554,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.79621352148,,,,,,,1.41749155786,,,,
+SCHI02,"SHISA8",ENSG00000234965,8.581135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.24454634923,,,,,,,1.44906074066,,,,
+WEIG01,"SHISA8",ENSG00000234965,6.346681,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.39359273484,,,,,,,0.331455280692,,,,

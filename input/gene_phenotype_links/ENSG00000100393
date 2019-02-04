@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO07,"EP300",ENSG00000100393,8.764143,4.92468575744,,,,6.687176779925779,,,,,,,,,,,,,,,,,,,,,,,,,3.15600959187,,,,,,,,,,,,,,,,,,,
+BLOO16,"EP300",ENSG00000100393,8.081409,5.45026780436,,,,6.544493403721358,,,,,,,,,,,,,,,,,,,,,,,,,3.58508481406,,,,,,,,,,,,,,,,,,,
+BLOO17,"EP300",ENSG00000100393,9.524416,5.09274368472,,,,6.471327885422793,,,,,,,,,,,,,,,,,,,,,,,,,3.19860296869,,,,,,,,,,,,,,,,,,,
+BLOO18,"EP300",ENSG00000100393,9.795365,5.46749888112,,,,6.688983262139488,,,,,,,,,,,,,,,,,,,,,,,,,3.30370639601,,,,,,,,,,,,,,,,,,,
+BLOO31,"EP300",ENSG00000100393,9.764421,-5.82310645035,,,,-6.620002655506799,,,,,,,,,,,,,,,,,,,,,,,,,-3.41711105298,,,,,,,,,,,,,,,,,,,
+DEPR01,"EP300",ENSG00000100393,8.153997,5.65730102991,,,,3.5863185400619253,,,,,,,,,,,,,,,,,,,,,,,,,3.89286622515,,,,,,,,,,,,,,,,,,,
+NEUR02B,"EP300",ENSG00000100393,7.574596,5.25180360354,,,,2.1278035211417943,,,,,,,,,,,,,,,,,,,,,,,,,5.16304627895,,,,,,,,,,,,,,,,,,,
+NEUR02M,"EP300",ENSG00000100393,5.980718,4.83072043449,,,,2.170369078427692,,,,,,,,,,,,,,,,,,,,,,,,,4.64677416711,,,,,,,,,,,,,,,,,,,
+OSTE04,"EP300",ENSG00000100393,7.320572,3.84031389582,,,,4.571970672762266,,,,,,,,,,,,,,,,,,,,,,,,,1.66218220664,,,,,,,,,,,,,,,,,,,
+SCHI01,"EP300",ENSG00000100393,8.237779,5.39752128101,,,,3.751748965412586,,,,,,,,,,,,,,,,,,,,,,,,,4.42113923536,,,,,,,,,,,,,,,,,,,
+SCHI02F,"EP300",ENSG00000100393,6.508933,4.96267502489,,,,2.8243816154870127,,,,,,,,,,,,,,,,,,,,,,,,,3.39068805083,,,,,,,,,,,,,,,,,,,
+SCHI02,"EP300",ENSG00000100393,9.574091,5.57747668041,,,,4.24980269431978,,,,,,,,,,,,,,,,,,,,,,,,,4.60869876297,,,,,,,,,,,,,,,,,,,

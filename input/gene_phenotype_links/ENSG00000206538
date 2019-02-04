@@ -1,0 +1,9 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY08B,"VGLL3",ENSG00000206538,1.183109,-5.29096925005,,,,,,-2.54484453153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08,"VGLL3",ENSG00000206538,1.004549,-5.29301009825,,,,,,-2.3553016446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC03,"VGLL3",ENSG00000206538,0.438720,5.84105772562,,,,,,1.32822599744,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04B,"VGLL3",ENSG00000206538,2.662441,-5.07883613146,,,,,,-2.11673784738,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04,"VGLL3",ENSG00000206538,2.695402,-5.09301663552,,,,,,-1.95077917259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GROW03F,"VGLL3",ENSG00000206538,5.774717,1.40102167671,,,,,,-0.0882673705485,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MENA01F,"VGLL3",ENSG00000206538,7.542224,2.58259255893,,,,,,1.14838933874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MENA02F,"VGLL3",ENSG00000206538,16.178015,2.80542897995,,,,,,2.05834767829,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

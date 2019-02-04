@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"MGAT4B",ENSG00000161013,13.286610,,,,,-3.9431916123923623,-1.44641808058,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.83650071151,,,,,,,
+BLOO09,"MGAT4B",ENSG00000161013,10.126209,,,,,-3.7275828521258467,-1.52893231909,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8085688381,,,,,,,
+BLOO10,"MGAT4B",ENSG00000161013,7.208639,,,,,-3.5426579778927607,-1.25145164117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.6320038215,,,,,,,
+BLOO12,"MGAT4B",ENSG00000161013,9.022862,,,,,-4.6821115360873895,-2.32750900595,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.23044200504,,,,,,,
+BLOO13,"MGAT4B",ENSG00000161013,11.342810,,,,,-4.288650807760769,-1.45976746057,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8721755528,,,,,,,
+BLOO19,"MGAT4B",ENSG00000161013,23.712960,,,,,-3.9627527621876437,-1.90940275205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.61702478206,,,,,,,
+BLOO28,"MGAT4B",ENSG00000161013,23.588987,,,,,4.319765883476019,2.92809107172,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.07042923675,,,,,,,
+BLOO30,"MGAT4B",ENSG00000161013,11.263787,,,,,-4.27205446602534,-1.49243372489,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.77050244293,,,,,,,
+BLOO32,"MGAT4B",ENSG00000161013,6.535496,,,,,-2.036357333573264,0.339510092264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.34557752939,,,,,,,

@@ -2,18 +2,15 @@ import altair as alt
 import pandas as pd
 from sys import argv
 
-df = pd.read_csv(argv[1])
+df = pd.read_csv(argv[1], keep_default_na=False)
 titleid = argv[2]
+
 
 def shorten(x): return (x[:30] + '..') if len(x) > 32 else x
 
+
 def funcsign(x): return 'positive' if x > 0.0 else (
     'negative' if x < 0.0 else 'null')
-
-
-#df['abs_genetic_correlation'] = df['genetic_correlation'].apply(abs)
-#df['correlation_direction'] = df['genetic_correlation'].apply(funcsign)
-
 
 def correctphen(x):
     x = x.replace('.', '')
@@ -25,6 +22,7 @@ def correctphen(x):
     x = x.replace('DI', 'DI, disposition index')
     x = x.replace('AIR', 'AIR, acute insulin response')
     return x
+
 
 df['phenotype'] = df['phenotype'].apply(correctphen)
 df['phenotype_reference'] = df['phenotype'].astype(
@@ -125,9 +123,6 @@ legend = alt.Chart().mark_rect(
     tooltip=[
         'phenotype',
         'code',
-        #'genetic_correlation',
-        #'standard_error',
-        #'pvalue',
         'category',
         'study size',
         'PMID or link',

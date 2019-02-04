@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"PRKCE",ENSG00000171132,55.254028,,,,1.42249015618,-1.8798237561873863,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.19655419468
+BLOO03,"PRKCE",ENSG00000171132,68.380740,,,,1.57722232755,-1.518376857447835,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.362987696507
+BLOO04,"PRKCE",ENSG00000171132,5.838662,,,,0.345352390141,0.03196636035206959,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.12848349158
+BLOO05,"PRKCE",ENSG00000171132,8.927530,,,,2.36470031956,-1.551695498154137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.77147188384
+BLOO20,"PRKCE",ENSG00000171132,82.186639,,,,1.91969578017,-1.209939440250677,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.384529882362
+BLOO22,"PRKCE",ENSG00000171132,6.758902,,,,1.12032221704,0.9928036358857824,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.42985413388
+LEAN06B,"PRKCE",ENSG00000171132,6.123084,,,,0.573360508047,0.5485103350751945,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.96736330827
+LEAN06,"PRKCE",ENSG00000171132,6.140688,,,,0.59100854536,0.9409949864318791,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.77031592139
+OSTE04,"PRKCE",ENSG00000171132,6.278585,,,,-3.69408999465,0.6432991323314465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.54739190117

@@ -1,0 +1,8 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO11,"LSM1",ENSG00000175324,7.350801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.1338614575,,,,,,,,,,,,,,,,,
+BLOO35,"LSM1",ENSG00000175324,7.228457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.14041020394,,,,,,,,,,,,,,,,,
+LEAN06B,"LSM1",ENSG00000175324,7.365815,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.75241116974,,,,,,,,,,,,,,,,,
+LEAN06M,"LSM1",ENSG00000175324,7.384871,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.09430297208,,,,,,,,,,,,,,,,,
+LEAN06,"LSM1",ENSG00000175324,8.299876,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.30871728693,,,,,,,,,,,,,,,,,
+SCHI01,"LSM1",ENSG00000175324,6.136737,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.93320526403,,,,,,,,,,,,,,,,,
+SCHI02M,"LSM1",ENSG00000175324,6.066356,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.89508362497,,,,,,,,,,,,,,,,,

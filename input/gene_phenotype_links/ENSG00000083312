@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"TNPO1",ENSG00000083312,9.182289,,,,,3.2103571046853214,,,,,,,,,,,,,,,,-0.639216177634,,,,,,,,,,,,,,,,,,,,1.25970112757,,,,,,,,
+BLOO03,"TNPO1",ENSG00000083312,9.010523,,,,,1.8822210854739454,,,,,,,,,,,,,,,,0.324567764594,,,,,,,,,,,,,,,,,,,,1.06723253721,,,,,,,,
+BLOO05,"TNPO1",ENSG00000083312,6.045714,,,,,-0.573889283828708,,,,,,,,,,,,,,,,1.600065527,,,,,,,,,,,,,,,,,,,,-2.78469027648,,,,,,,,
+BLOO07,"TNPO1",ENSG00000083312,5.853035,,,,,-0.8666235519383229,,,,,,,,,,,,,,,,-0.238713625114,,,,,,,,,,,,,,,,,,,,-2.88171517419,,,,,,,,
+BLOO25,"TNPO1",ENSG00000083312,16.835439,,,,,-0.6953616021785798,,,,,,,,,,,,,,,,1.52043866723,,,,,,,,,,,,,,,,,,,,-0.229380777284,,,,,,,,
+BLOO29,"TNPO1",ENSG00000083312,19.024959,,,,,-3.475300250044466,,,,,,,,,,,,,,,,1.1419328657,,,,,,,,,,,,,,,,,,,,-2.96421658578,,,,,,,,
+BLOO35,"TNPO1",ENSG00000083312,15.622330,,,,,-1.3048648902586508,,,,,,,,,,,,,,,,-0.401115999075,,,,,,,,,,,,,,,,,,,,0.401246704098,,,,,,,,
+EDUC03,"TNPO1",ENSG00000083312,7.000682,,,,,-1.0233288666192157,,,,,,,,,,,,,,,,1.82968011374,,,,,,,,,,,,,,,,,,,,0.97191533474,,,,,,,,
+HEIG03,"TNPO1",ENSG00000083312,6.839531,,,,,2.0608508559715464,,,,,,,,,,,,,,,,-0.766760276192,,,,,,,,,,,,,,,,,,,,-2.18766904462,,,,,,,,
+LEAN06B,"TNPO1",ENSG00000083312,6.201950,,,,,-0.8659838907010434,,,,,,,,,,,,,,,,-1.1293581574,,,,,,,,,,,,,,,,,,,,-1.32616574486,,,,,,,,

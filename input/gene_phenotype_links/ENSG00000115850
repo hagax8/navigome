@@ -1,0 +1,8 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO19,"LCT",ENSG00000115850,7.789949,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.89974054661,,,,,,,,,,,,,,,,,0.509947093021,,,,
+BLOO28,"LCT",ENSG00000115850,9.019824,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.642839284968,,,,,,,,,,,,,,,,,-0.44253442554,,,,
+BODY03,"LCT",ENSG00000115850,6.443444,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.44544861321,,,,,,,,,,,,,,,,,2.8061905887,,,,
+CHOL21,"LCT",ENSG00000115850,6.482382,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.99865758753,,,,,,,,,,,,,,,,,-2.39064631365,,,,
+HIPC02,"LCT",ENSG00000115850,5.978480,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.74640747116,,,,,,,,,,,,,,,,,3.41866401246,,,,
+WAIS01,"LCT",ENSG00000115850,6.592015,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.08358031246,,,,,,,,,,,,,,,,,3.53020547074,,,,
+WAIS02,"LCT",ENSG00000115850,7.056986,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.00729926392,,,,,,,,,,,,,,,,,3.43792131224,,,,

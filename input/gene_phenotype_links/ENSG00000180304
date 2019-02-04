@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"OAZ2",ENSG00000180304,17.274121,,,,,,,,,,,,,,,,,,1.48571476594,,,,,,,,,,,,,,-1.13265556396,,,,,,,,,,,,,-8.21062030919,,,,
+BLOO10,"OAZ2",ENSG00000180304,6.163644,,,,,,,,,,,,,,,,,,1.57849064249,,,,,,,,,,,,,,-0.335118596161,,,,,,,,,,,,,-4.36669138965,,,,
+BLOO12,"OAZ2",ENSG00000180304,7.255371,,,,,,,,,,,,,,,,,,1.74332885382,,,,,,,,,,,,,,-0.680381365493,,,,,,,,,,,,,-3.85133490885,,,,
+BLOO19,"OAZ2",ENSG00000180304,5.565767,,,,,,,,,,,,,,,,,,-0.427981355234,,,,,,,,,,,,,,0.978419913311,,,,,,,,,,,,,4.83479829979,,,,
+BLOO21,"OAZ2",ENSG00000180304,0.884889,,,,,,,,,,,,,,,,,,3.90889607616,,,,,,,,,,,,,,-5.17285855387,,,,,,,,,,,,,0.893924926631,,,,
+BLOO22,"OAZ2",ENSG00000180304,0.966375,,,,,,,,,,,,,,,,,,4.02129844848,,,,,,,,,,,,,,-5.16263393305,,,,,,,,,,,,,1.39626390246,,,,
+BLOO26,"OAZ2",ENSG00000180304,6.903229,,,,,,,,,,,,,,,,,,1.81425159983,,,,,,,,,,,,,,-0.420995325706,,,,,,,,,,,,,-5.1502703335,,,,
+BLOO27,"OAZ2",ENSG00000180304,6.209673,,,,,,,,,,,,,,,,,,1.09285772952,,,,,,,,,,,,,,0.53589218135,,,,,,,,,,,,,-5.30997558079,,,,
+BLOO28,"OAZ2",ENSG00000180304,7.413266,,,,,,,,,,,,,,,,,,0.326253984518,,,,,,,,,,,,,,-0.768635591192,,,,,,,,,,,,,-6.05685886701,,,,
+BLOO29,"OAZ2",ENSG00000180304,7.137463,,,,,,,,,,,,,,,,,,0.124776184454,,,,,,,,,,,,,,0.426996555306,,,,,,,,,,,,,2.96659837439,,,,
+BLOO34,"OAZ2",ENSG00000180304,7.013260,,,,,,,,,,,,,,,,,,1.89182143951,,,,,,,,,,,,,,-1.6772737088,,,,,,,,,,,,,0.711339909504,,,,
+MENA02F,"OAZ2",ENSG00000180304,11.050595,,,,,,,,,,,,,,,,,,0.740066775661,,,,,,,,,,,,,,0.0398712744845,,,,,,,,,,,,,-4.31946539369,,,,

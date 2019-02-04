@@ -1,0 +1,16 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO04,"COX6A1",ENSG00000111775,31.531402,,,,,,,,,,,,,,,,,,,,-9.15564039707,,,,,,,,,,1.15954951843,,,,,,,,,,,,,,,,,,,-11.8814805548
+BLOO21,"COX6A1",ENSG00000111775,55.195581,,,,,,,,,,,,,,,,,,,,-10.822029995,,,,,,,,,,2.2333981084,,,,,,,,,,,,,,,,,,,-12.6068180773
+BLOO22,"COX6A1",ENSG00000111775,37.427163,,,,,,,,,,,,,,,,,,,,-10.7031260788,,,,,,,,,,2.0334825547,,,,,,,,,,,,,,,,,,,-12.7267612634
+BLOO23,"COX6A1",ENSG00000111775,33.695251,,,,,,,,,,,,,,,,,,,,-9.66478230046,,,,,,,,,,3.08718690197,,,,,,,,,,,,,,,,,,,-9.81679455604
+BLOO26,"COX6A1",ENSG00000111775,7.351943,,,,,,,,,,,,,,,,,,,,1.3930518927,,,,,,,,,,0.93367604804,,,,,,,,,,,,,,,,,,,3.92482442834
+BLOO27,"COX6A1",ENSG00000111775,12.048779,,,,,,,,,,,,,,,,,,,,1.99985313728,,,,,,,,,,1.92976429341,,,,,,,,,,,,,,,,,,,5.87084648722
+BLOO36,"COX6A1",ENSG00000111775,55.721841,,,,,,,,,,,,,,,,,,,,-9.38221435087,,,,,,,,,,1.54737275627,,,,,,,,,,,,,,,,,,,-11.9892283533
+EDUC03,"COX6A1",ENSG00000111775,7.212200,,,,,,,,,,,,,,,,,,,,2.66715478671,,,,,,,,,,3.52728750018,,,,,,,,,,,,,,,,,,,2.87425786986
+FATM04B,"COX6A1",ENSG00000111775,6.956323,,,,,,,,,,,,,,,,,,,,-1.08643209627,,,,,,,,,,0.0962229426052,,,,,,,,,,,,,,,,,,,-2.47265398967
+FATM04,"COX6A1",ENSG00000111775,7.287544,,,,,,,,,,,,,,,,,,,,-1.2170651952,,,,,,,,,,0.00636853123065,,,,,,,,,,,,,,,,,,,-2.65482412721
+LEAN04,"COX6A1",ENSG00000111775,5.964010,,,,,,,,,,,,,,,,,,,,0.517377133757,,,,,,,,,,0.548448832814,,,,,,,,,,,,,,,,,,,-1.81535400064
+LEAN05,"COX6A1",ENSG00000111775,6.181675,,,,,,,,,,,,,,,,,,,,0.497079387152,,,,,,,,,,0.475508146256,,,,,,,,,,,,,,,,,,,-1.82156910011
+LEAN06B,"COX6A1",ENSG00000111775,9.118884,,,,,,,,,,,,,,,,,,,,-0.388501964988,,,,,,,,,,0.832181831151,,,,,,,,,,,,,,,,,,,-2.04578707846
+LEAN06,"COX6A1",ENSG00000111775,8.149139,,,,,,,,,,,,,,,,,,,,-0.653960481391,,,,,,,,,,0.711085231884,,,,,,,,,,,,,,,,,,,-2.32558097183
+NEUR02B,"COX6A1",ENSG00000111775,3.342132,,,,,,,,,,,,,,,,,,,,-2.45280749358,,,,,,,,,,-0.56217778586,,,,,,,,,,,,,,,,,,,-4.72009557955

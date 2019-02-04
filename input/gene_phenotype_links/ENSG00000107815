@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+HEIG03,"C10orf2",ENSG00000107815,6.312453,,,,,5.336062985868834,,,,,,,,,,,,1.19919450786,,,,,,,,,,,,,,,,-1.47107265126,,,,,,,,,,,,,,,,
+LEAN04B,"C10orf2",ENSG00000107815,8.881272,,,,,3.8276257028920506,,,,,,,,,,,,-0.21248955529,,,,,,,,,,,,,,,,-0.983788615365,,,,,,,,,,,,,,,,
+LEAN04,"C10orf2",ENSG00000107815,7.624080,,,,,3.5655130331489913,,,,,,,,,,,,0.714129568744,,,,,,,,,,,,,,,,-0.454372296773,,,,,,,,,,,,,,,,
+LEAN05B,"C10orf2",ENSG00000107815,10.840102,,,,,3.751724788719631,,,,,,,,,,,,-0.468362783125,,,,,,,,,,,,,,,,-1.11064768159,,,,,,,,,,,,,,,,
+LEAN05,"C10orf2",ENSG00000107815,7.738999,,,,,3.475048656158241,,,,,,,,,,,,0.526709422688,,,,,,,,,,,,,,,,-0.549536263755,,,,,,,,,,,,,,,,
+LEAN06B,"C10orf2",ENSG00000107815,22.038774,,,,,7.8781278999039435,,,,,,,,,,,,-0.573574646364,,,,,,,,,,,,,,,,-0.506416418775,,,,,,,,,,,,,,,,
+LEAN06F,"C10orf2",ENSG00000107815,13.200577,,,,,6.774078406386121,,,,,,,,,,,,-1.95207176187,,,,,,,,,,,,,,,,-0.509946568705,,,,,,,,,,,,,,,,
+LEAN06M,"C10orf2",ENSG00000107815,9.019047,,,,,4.7406937363994865,,,,,,,,,,,,1.9428996439,,,,,,,,,,,,,,,,-0.187608734781,,,,,,,,,,,,,,,,
+LEAN06,"C10orf2",ENSG00000107815,14.747681,,,,,7.422219037709018,,,,,,,,,,,,0.62463900004,,,,,,,,,,,,,,,,-0.406705129554,,,,,,,,,,,,,,,,
+MENA02F,"C10orf2",ENSG00000107815,9.833304,,,,,-5.009961661770207,,,,,,,,,,,,0.318894485533,,,,,,,,,,,,,,,,-0.99011765912,,,,,,,,,,,,,,,,

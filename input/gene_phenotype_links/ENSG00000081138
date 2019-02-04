@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"CDH7",ENSG00000081138,9.453149,,,,,,,,,,,,,,,,,,,1.80410783882,,,,,,,-4.00484998251,,,,,,,,,,,,,-1.79793137952,,,,,,,,,,
+BFPC04F,"CDH7",ENSG00000081138,6.217979,,,,,,,,,,,,,,,,,,,1.14618763855,,,,,,,-3.02127919103,,,,,,,,,,,,,-2.15096638023,,,,,,,,,,
+BFPC04,"CDH7",ENSG00000081138,9.384934,,,,,,,,,,,,,,,,,,,1.7758228447,,,,,,,-3.98833374912,,,,,,,,,,,,,-1.9976427309,,,,,,,,,,
+BODY08B,"CDH7",ENSG00000081138,7.668330,,,,,,,,,,,,,,,,,,,1.51866663187,,,,,,,-4.09402291454,,,,,,,,,,,,,-0.969249290817,,,,,,,,,,
+BODY08M,"CDH7",ENSG00000081138,5.692397,,,,,,,,,,,,,,,,,,,1.71330099923,,,,,,,-3.88189410867,,,,,,,,,,,,,-0.144321488029,,,,,,,,,,
+BODY08,"CDH7",ENSG00000081138,7.211386,,,,,,,,,,,,,,,,,,,1.39086698039,,,,,,,-3.85213141119,,,,,,,,,,,,,-1.12043181866,,,,,,,,,,
+EDUC03,"CDH7",ENSG00000081138,6.394900,,,,,,,,,,,,,,,,,,,-2.50322347367,,,,,,,1.54029202374,,,,,,,,,,,,,4.70315081117,,,,,,,,,,
+FATM04B,"CDH7",ENSG00000081138,8.573733,,,,,,,,,,,,,,,,,,,1.37544825753,,,,,,,-4.44414398904,,,,,,,,,,,,,-0.731932285116,,,,,,,,,,
+FATM04M,"CDH7",ENSG00000081138,7.516313,,,,,,,,,,,,,,,,,,,1.53544968636,,,,,,,-3.73070509235,,,,,,,,,,,,,0.177191721738,,,,,,,,,,
+FATM04,"CDH7",ENSG00000081138,7.875789,,,,,,,,,,,,,,,,,,,1.26346648762,,,,,,,-4.28443676939,,,,,,,,,,,,,-0.921983527538,,,,,,,,,,
+NEUR02B,"CDH7",ENSG00000081138,8.326445,,,,,,,,,,,,,,,,,,,1.54806592916,,,,,,,1.0681147057,,,,,,,,,,,,,1.92432332214,,,,,,,,,,
+REAC01,"CDH7",ENSG00000081138,6.260895,,,,,,,,,,,,,,,,,,,-0.0240910737996,,,,,,,-2.67678560395,,,,,,,,,,,,,-2.54387194468,,,,,,,,,,

@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO07,"KLF2",ENSG00000127528,58.117089,,,,,-2.862454974741316,,,,,,,,,,,0.0358507327749,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.84314208657,
+BLOO11,"KLF2",ENSG00000127528,68.981258,,,,,14.508860543121072,,,,,,,,,,,-2.57633544847,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.92237319083,
+BLOO12,"KLF2",ENSG00000127528,11.699383,,,,,4.7832702870349975,,,,,,,,,,,-1.47176517748,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.354816918523,
+BLOO16,"KLF2",ENSG00000127528,34.990464,,,,,-2.25739342797815,,,,,,,,,,,-0.0510784435575,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.43499781015,
+BLOO17,"KLF2",ENSG00000127528,64.406105,,,,,-4.516329194273089,,,,,,,,,,,0.61298287023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.06632785683,
+BLOO18,"KLF2",ENSG00000127528,48.246547,,,,,-2.6913289621834524,,,,,,,,,,,0.403222844435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.44797275499,
+BLOO24,"KLF2",ENSG00000127528,55.649733,,,,,11.974781150404704,,,,,,,,,,,-1.62261654736,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.60628880042,
+BLOO28,"KLF2",ENSG00000127528,6.666895,,,,,-4.3420182929226785,,,,,,,,,,,0.938994688243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.17138076135,
+BLOO31,"KLF2",ENSG00000127528,44.765888,,,,,2.1831057244380467,,,,,,,,,,,-0.274704620816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.887712971923,
+BLOO32,"KLF2",ENSG00000127528,25.276774,,,,,-8.554120164630676,,,,,,,,,,,1.41831789866,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-7.40362211274,
+RHEU01,"KLF2",ENSG00000127528,5.785342,,,,,-3.2757207901653476,,,,,,,,,,,1.35675425613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.19533254428,

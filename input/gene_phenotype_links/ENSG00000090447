@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"TFAP4",ENSG00000090447,8.624556,,,,,-0.3864064168111779,,,,,,,,,-1.2435145635,,,1.30571150388,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04M,"TFAP4",ENSG00000090447,8.439161,,,,,0.496364817586325,,,,,,,,,0.131371222476,,,0.647013877721,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04,"TFAP4",ENSG00000090447,7.509031,,,,,-0.600781018909264,,,,,,,,,-1.54400551321,,,1.52438217865,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO26,"TFAP4",ENSG00000090447,6.239834,,,,,0.4466439837452254,,,,,,,,,2.77456973697,,,-1.40048307201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO27,"TFAP4",ENSG00000090447,8.219179,,,,,-0.14355514311888917,,,,,,,,,2.53041125547,,,-1.28231701599,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM02M,"TFAP4",ENSG00000090447,5.603225,,,,,1.5785836513105767,,,,,,,,,0.622433921427,,,0.218406561108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04B,"TFAP4",ENSG00000090447,9.094188,,,,,0.21423857832559437,,,,,,,,,-1.10201838603,,,1.46509009633,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04M,"TFAP4",ENSG00000090447,8.359966,,,,,0.9200700858490628,,,,,,,,,0.0225779259601,,,0.714139315968,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04,"TFAP4",ENSG00000090447,8.938359,,,,,-0.021436136486626293,,,,,,,,,-1.34266451508,,,1.67228763765,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

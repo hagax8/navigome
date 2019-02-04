@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+ALZH01,"FCF1",ENSG00000119616,6.575576,,,,,-4.137343503353251,,,,,,,-0.316608372158,,,,,,,-1.687399804,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04B,"FCF1",ENSG00000119616,7.882099,,,,,3.727897226224526,,,,,,,-1.34969494789,,,,,,,1.73646472952,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04,"FCF1",ENSG00000119616,7.293581,,,,,3.845926296668053,,,,,,,-1.32656542577,,,,,,,2.01766979002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO01,"FCF1",ENSG00000119616,6.623058,,,,,0.03050919344652741,,,,,,,-0.407783767128,,,,,,,-1.65416675004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO33,"FCF1",ENSG00000119616,5.710589,,,,,-0.2571571139011469,,,,,,,-0.631785180796,,,,,,,-1.90180681854,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DEPR01,"FCF1",ENSG00000119616,8.159649,,,,,2.6552995247468014,,,,,,,-0.226747457172,,,,,,,0.585990716946,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LONG04,"FCF1",ENSG00000119616,5.841035,,,,,-2.3691636002598297,,,,,,,-1.02517742329,,,,,,,-1.7004226743,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NEUR02B,"FCF1",ENSG00000119616,9.698948,,,,,0.4880692578189677,,,,,,,-2.55112531407,,,,,,,-1.34492402111,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NEUR02F,"FCF1",ENSG00000119616,8.138472,,,,,0.06900116350473094,,,,,,,-2.64320071716,,,,,,,-1.25225404619,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

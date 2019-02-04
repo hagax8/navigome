@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"CCDC27",ENSG00000162592,9.807210,,,,1.23618140171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0611787110883,,,,,,,,
+BLOO03,"CCDC27",ENSG00000162592,11.725242,,,,0.435383959416,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.319117237564,,,,,,,,
+BLOO04,"CCDC27",ENSG00000162592,29.946422,,,,-1.56296882583,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0725047820666,,,,,,,,
+BLOO21,"CCDC27",ENSG00000162592,41.663240,,,,-1.1288560959,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0712898166046,,,,,,,,
+BLOO22,"CCDC27",ENSG00000162592,24.693103,,,,-1.00595241387,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.00584280452274,,,,,,,,
+BLOO23,"CCDC27",ENSG00000162592,20.269210,,,,-0.0115370676483,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.339208462028,,,,,,,,
+BLOO25,"CCDC27",ENSG00000162592,23.168258,,,,-2.6703697059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.734936434466,,,,,,,,
+BLOO27,"CCDC27",ENSG00000162592,8.908509,,,,0.090461791488,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.1149742569,,,,,,,,
+BLOO35,"CCDC27",ENSG00000162592,17.668471,,,,2.96419347268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.191755802948,,,,,,,,
+BLOO36,"CCDC27",ENSG00000162592,31.653862,,,,-1.80638243039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0395626169317,,,,,,,,
+ELEC01,"CCDC27",ENSG00000162592,6.100409,,,,-0.528855645195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.16210220716,,,,,,,,

@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"PRR11",ENSG00000068489,14.746904,,,,,4.316972575456502,,,,,,,,,,,,,,,,,,,,,,-6.67266478858,,,,,3.16162673432,,,,,,2.11560030499,,,,,,,,,,,
+BLOO06,"PRR11",ENSG00000068489,7.309334,,,,,-1.216934186504523,,,,,,,,,,,,,,,,,,,,,,1.48337137758,,,,,-2.56573490631,,,,,,-3.28647784691,,,,,,,,,,,
+BLOO09,"PRR11",ENSG00000068489,6.576115,,,,,-1.0362206585335827,,,,,,,,,,,,,,,,,,,,,,1.41990803242,,,,,-2.4984296525,,,,,,-3.28612620341,,,,,,,,,,,
+BLOO10,"PRR11",ENSG00000068489,5.937719,,,,,-0.6605903238952504,,,,,,,,,,,,,,,,,,,,,,0.548332708531,,,,,-2.05564175321,,,,,,-2.95813306311,,,,,,,,,,,
+BLOO13,"PRR11",ENSG00000068489,7.152680,,,,,-1.2555412868985547,,,,,,,,,,,,,,,,,,,,,,1.56798729688,,,,,-2.54841620419,,,,,,-3.32221125607,,,,,,,,,,,
+BLOO19,"PRR11",ENSG00000068489,20.527873,,,,,-5.0244155426910595,,,,,,,,,,,,,,,,,,,,,,7.42188444734,,,,,-4.98122262718,,,,,,-4.70623383266,,,,,,,,,,,
+BLOO25,"PRR11",ENSG00000068489,5.378471,,,,,-5.070984372634159,,,,,,,,,,,,,,,,,,,,,,-0.511505107878,,,,,-3.36300690873,,,,,,0.110186822157,,,,,,,,,,,
+BLOO28,"PRR11",ENSG00000068489,23.266177,,,,,5.278787227417906,,,,,,,,,,,,,,,,,,,,,,-7.11855213935,,,,,5.48027231129,,,,,,5.18873483015,,,,,,,,,,,
+BLOO30,"PRR11",ENSG00000068489,7.113284,,,,,-1.0064348864382364,,,,,,,,,,,,,,,,,,,,,,1.3275911673,,,,,-2.52565874686,,,,,,-3.27471698307,,,,,,,,,,,
+BLOO34,"PRR11",ENSG00000068489,0.172372,,,,,0.357217276989042,,,,,,,,,,,,,,,,,,,,,,2.50532907384,,,,,-0.13974402653,,,,,,7.12099442612,,,,,,,,,,,
+BLOO35,"PRR11",ENSG00000068489,5.387661,,,,,5.635722101069393,,,,,,,,,,,,,,,,,,,,,,-0.121709910357,,,,,3.60768887404,,,,,,3.14831389206,,,,,,,,,,,
+EDUC03,"PRR11",ENSG00000068489,6.073936,,,,,3.147022146206295,,,,,,,,,,,,,,,,,,,,,,-3.83902633745,,,,,4.33198945926,,,,,,0.149378011182,,,,,,,,,,,

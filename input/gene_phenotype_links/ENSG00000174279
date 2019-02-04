@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO20,"EVX2",ENSG00000174279,6.455982,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.346326104011,,,,,,,,,,,,,,,,,,,,
+LEAN04B,"EVX2",ENSG00000174279,5.907455,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0363051803537,,,,,,,,,,,,,,,,,,,,
+LEAN04,"EVX2",ENSG00000174279,6.571072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.605741948224,,,,,,,,,,,,,,,,,,,,
+LEAN05B,"EVX2",ENSG00000174279,6.763236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.000580565276045,,,,,,,,,,,,,,,,,,,,
+LEAN05,"EVX2",ENSG00000174279,6.889343,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.642548312764,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"EVX2",ENSG00000174279,11.085340,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.12982763684,,,,,,,,,,,,,,,,,,,,
+LEAN06F,"EVX2",ENSG00000174279,6.029942,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.20591871567,,,,,,,,,,,,,,,,,,,,
+LEAN06M,"EVX2",ENSG00000174279,5.619391,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.24989703658,,,,,,,,,,,,,,,,,,,,
+LEAN06,"EVX2",ENSG00000174279,10.294230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.131698594476,,,,,,,,,,,,,,,,,,,,
+OSTE04,"EVX2",ENSG00000174279,5.841276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.62448326555,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY03,"KCNG3",ENSG00000171126,8.094296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.38652652431,,,,,,,,,,
+BODY04F,"KCNG3",ENSG00000171126,5.967946,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.7873922126,,,,,,,,,,
+BODY04,"KCNG3",ENSG00000171126,7.850288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.28585333555,,,,,,,,,,
+LEAN06B,"KCNG3",ENSG00000171126,6.184960,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0181600396283,,,,,,,,,,
+LEAN06M,"KCNG3",ENSG00000171126,9.060745,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.994333755276,,,,,,,,,,
+LEAN06,"KCNG3",ENSG00000171126,8.309742,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.417143959052,,,,,,,,,,

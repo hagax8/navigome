@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"PTEN",ENSG00000171862,6.186052,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.09807734351,,,,,,,-2.71996701073,,,,,,,,,
+BLOO07,"PTEN",ENSG00000171862,18.129561,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.813696248944,,,,,,,-1.26149182044,,,,,,,,,
+BLOO09,"PTEN",ENSG00000171862,7.416223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.22917120672,,,,,,,-2.87358600838,,,,,,,,,
+BLOO10,"PTEN",ENSG00000171862,6.360115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.02114151719,,,,,,,-2.94915381031,,,,,,,,,
+BLOO13,"PTEN",ENSG00000171862,6.508666,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.15135938033,,,,,,,-2.79230693508,,,,,,,,,
+BLOO16,"PTEN",ENSG00000171862,16.418198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.991327204087,,,,,,,-1.43513666772,,,,,,,,,
+BLOO17,"PTEN",ENSG00000171862,17.611189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.402911881821,,,,,,,-0.430783232969,,,,,,,,,
+BLOO18,"PTEN",ENSG00000171862,14.575363,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.206172030821,,,,,,,-0.128716771506,,,,,,,,,
+BLOO27,"PTEN",ENSG00000171862,6.298562,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.23575176404,,,,,,,0.308694850774,,,,,,,,,
+BLOO30,"PTEN",ENSG00000171862,7.557897,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.20655719603,,,,,,,-2.77670875247,,,,,,,,,
+BLOO31,"PTEN",ENSG00000171862,10.907104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.259491443247,,,,,,,0.00579607851548,,,,,,,,,
+BLOO34,"PTEN",ENSG00000171862,5.885689,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.392654192525,,,,,,,-0.526429661572,,,,,,,,,

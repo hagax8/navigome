@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO04,"CNR2",ENSG00000188822,6.923178,,,,,0.059162790257218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.24114164956,,,,,,,,,,,,,
+BLOO07,"CNR2",ENSG00000188822,12.957149,,,,,0.5198717956060446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.31143697046,,,,,,,,,,,,,
+BLOO11,"CNR2",ENSG00000188822,6.851768,,,,,-4.291589433527763,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.98278509692,,,,,,,,,,,,,
+BLOO16,"CNR2",ENSG00000188822,7.034728,,,,,-0.06266620505069244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.65009263794,,,,,,,,,,,,,
+BLOO17,"CNR2",ENSG00000188822,11.525915,,,,,1.3492571144321448,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.78091832291,,,,,,,,,,,,,
+BLOO18,"CNR2",ENSG00000188822,11.195574,,,,,0.8753865843308185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.85192857199,,,,,,,,,,,,,
+BLOO21,"CNR2",ENSG00000188822,14.794877,,,,,0.6408614737352614,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.56529157772,,,,,,,,,,,,,
+BLOO22,"CNR2",ENSG00000188822,10.119238,,,,,0.9113225330856022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.70706726855,,,,,,,,,,,,,
+BLOO23,"CNR2",ENSG00000188822,10.360265,,,,,1.3523071108465325,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.85706364952,,,,,,,,,,,,,
+BLOO35,"CNR2",ENSG00000188822,8.845241,,,,,3.4289939351326564,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.32425680411,,,,,,,,,,,,,
+BLOO36,"CNR2",ENSG00000188822,11.315747,,,,,-0.35747830471025926,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.22830062022,,,,,,,,,,,,,

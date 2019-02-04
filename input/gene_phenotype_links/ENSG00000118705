@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO35,"RPN2",ENSG00000118705,8.197781,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.00320923818751,,,,,,,,6.46983559108,,,,,,,-1.34213802946,0.177718632236
+HEIG03,"RPN2",ENSG00000118705,6.496672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.43574511482,,,,,,,,4.89930917582,,,,,,,1.57089163747,2.97413491817
+LEAN04B,"RPN2",ENSG00000118705,6.133719,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.06102566617,,,,,,,,4.61447793529,,,,,,,1.42934910838,2.41138273689
+LEAN04M,"RPN2",ENSG00000118705,6.698341,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.138392672052,,,,,,,,3.82511131388,,,,,,,2.60694588971,3.37383219433
+LEAN04,"RPN2",ENSG00000118705,8.139488,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.484879199495,,,,,,,,4.71636285515,,,,,,,2.27513778187,3.25242286513
+LEAN05B,"RPN2",ENSG00000118705,6.147093,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.02521909727,,,,,,,,4.65236831442,,,,,,,1.3499432768,2.32761206262
+LEAN05M,"RPN2",ENSG00000118705,7.013322,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0725352124706,,,,,,,,3.83666536621,,,,,,,2.62087982157,3.3877078947
+LEAN05,"RPN2",ENSG00000118705,7.871471,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.507411316161,,,,,,,,4.75403636214,,,,,,,2.22875503064,3.2066224845
+LEAN06B,"RPN2",ENSG00000118705,12.584876,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.53192253124,,,,,,,,5.34170574622,,,,,,,2.21736612399,3.31268978729
+LEAN06F,"RPN2",ENSG00000118705,6.336412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.34917035381,,,,,,,,4.36125505255,,,,,,,0.926401388227,1.91475420978
+LEAN06M,"RPN2",ENSG00000118705,11.008229,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.25116756436,,,,,,,,3.57747850368,,,,,,,2.8708347048,3.45562763638
+LEAN06,"RPN2",ENSG00000118705,15.790137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.11109075601,,,,,,,,5.16114462549,,,,,,,2.74869955514,3.74016622898

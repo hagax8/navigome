@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC02,"DNAJC11",ENSG00000007923,5.382559,,,,,,,,,4.72905052325,,,,,,,,,,,,,,0.0987982236194,,,,,,,,,,,,,-0.98121029464,,,,,,,,,,,,,
+BFPC03,"DNAJC11",ENSG00000007923,5.648958,,,,,,,,,4.64225464415,,,,,,,,,,,,,,0.228721588724,,,,,,,,,,,,,-0.96001544666,,,,,,,,,,,,,
+BFPC04B,"DNAJC11",ENSG00000007923,8.176721,,,,,,,,,5.77813562832,,,,,,,,,,,,,,0.0376909780828,,,,,,,,,,,,,-0.947256634354,,,,,,,,,,,,,
+BFPC04M,"DNAJC11",ENSG00000007923,6.656257,,,,,,,,,4.9936079806,,,,,,,,,,,,,,0.362461868212,,,,,,,,,,,,,-0.854483891759,,,,,,,,,,,,,
+BFPC04,"DNAJC11",ENSG00000007923,8.311038,,,,,,,,,5.54179401408,,,,,,,,,,,,,,-0.0465683478682,,,,,,,,,,,,,-0.837041256278,,,,,,,,,,,,,
+BODY08B,"DNAJC11",ENSG00000007923,6.144723,,,,,,,,,3.76369502194,,,,,,,,,,,,,,0.509915802387,,,,,,,,,,,,,-1.00277713335,,,,,,,,,,,,,
+FATM04B,"DNAJC11",ENSG00000007923,6.118729,,,,,,,,,4.5366518953,,,,,,,,,,,,,,0.0402509550501,,,,,,,,,,,,,-1.3156723149,,,,,,,,,,,,,
+SCHI01,"DNAJC11",ENSG00000007923,5.809444,,,,,,,,,-4.13379514318,,,,,,,,,,,,,,0.27201206737,,,,,,,,,,,,,1.41414926439,,,,,,,,,,,,,
+SCHI02,"DNAJC11",ENSG00000007923,6.108674,,,,,,,,,-4.21469992739,,,,,,,,,,,,,,0.79102212429,,,,,,,,,,,,,1.4913612559,,,,,,,,,,,,,

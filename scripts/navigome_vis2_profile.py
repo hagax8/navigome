@@ -5,6 +5,7 @@ import numpy as np
 df1 = pd.read_csv(argv[1])
 df2 = pd.read_csv(argv[2])
 
+
 def correctphen(x):
     x = x.replace('.', '')
     x = x.replace('Type-2', 'Type 2')
@@ -19,7 +20,7 @@ def correctphen(x):
 
 df1.columns = df1.columns.str.replace('target', 'gene')
 df2['phenotype'] = df2['phenotype'].apply(correctphen)
-df1['magma_log10p'] =  df1['association']
+df1['magma_log10p'] = df1['association']
 df2['phenotype_reference'] = df2['phenotype'].astype(
     str) + ' (' + df2['code'].astype(str) + ') '
 
@@ -36,7 +37,6 @@ def fancycap(x): return x[0].upper() + x[1:]
 
 df2['phenotype_reference'] = df2['phenotype_reference'].apply(fancycap)
 
-#df = df1.join(df2,on='code')
 df1.replace([np.inf, -np.inf], np.nan, inplace=True)
 df1.fillna(0.0, inplace=True)
 df1.columns = df1.columns.str.replace('-', '_')
@@ -206,19 +206,8 @@ remaining = list(set(lstdf) - set(list(valuevars)))
 for mycol in selectall:
     count += 1
     title = titles[count - 1]
-    df_transformed = df.reset_index().melt(remaining, value_vars = valuevars)
+    df_transformed = df.reset_index().melt(remaining, value_vars=valuevars)
     df_transformed = df_transformed[df_transformed['variable'].isin(mycol)]
-    #sorterIndex = dict(zip(mycol, range(len(mycol))))
-    #df_transformed['Rank'] = df_transformed['variable'].map(sorterIndex)
-    #df_transformed.sort_values(by='Rank', inplace=True)
-    #if count > 1:
-    #    df_transformed.columns = df_transformed.columns.str.replace(
-    #    'value', 'predixcan_zscore')
-    #else:
-    #    df_transformed.columns = df_transformed.columns.str.replace(
-    #    'value', 'magma_association_log10p')
-
-
     line = alt.Chart().mark_line().encode(
         color=alt.Color('category:N',
                         legend=None,
@@ -235,7 +224,7 @@ for mycol in selectall:
         x=alt.X('variable:N', title='', axis=alt.Axis(labelAngle=-45)),
         y=alt.Y('value:Q', title='S-PrediXcan z-score',
                 scale=alt.Scale(domain=(-maxall, maxall))),
-        tooltip= list(['variable', 'value']) + list(df2)
+        tooltip=list(['variable', 'value']) + list(df2)
     ).transform_filter(selectioncat)
 
     line1 = line.encode(
@@ -284,28 +273,29 @@ for mycol in selectall:
         href=alt.Href('phenotype_link:N'),
     )
 
-
     if count > 1:
         chartcompound = alt.layer(line1, line2, annotation,
-            annotation2, rules1, rules2,
-        ).properties(width=500,
-                     height=250,
-                     title=title)
+                                  annotation2, rules1, rules2,
+                                  ).properties(width=500,
+                                               height=250,
+                                               title=title)
     else:
         chartcompound = alt.Chart().mark_bar().encode(
-        x=alt.X('value:Q', axis=alt.Axis(title='MAGMA -log10(p)')),
-        y=alt.Y('phenotype_reference:N', axis=alt.Axis(title='')),
-        color=colorcat,
-        href=alt.Href('phenotype_link:N'),
-        tooltip= list(['variable', 'value']) + list(df2),
-        opacity=alt.condition(~highlight, alt.value(0.7), alt.value(1)),
+            x=alt.X('value:Q', axis=alt.Axis(title='MAGMA -log10(p)')),
+            y=alt.Y('phenotype_reference:N', axis=alt.Axis(title='')),
+            color=colorcat,
+            href=alt.Href('phenotype_link:N'),
+            tooltip=list(['variable', 'value']) + list(df2),
+            opacity=alt.condition(~highlight, alt.value(0.7), alt.value(1)),
         ).add_selection(highlight).transform_filter(selectioncat)
-        chartcompound = alt.layer(chartcompound,rules3).properties(title=title)
+        chartcompound = alt.layer(
+            chartcompound,
+            rules3).properties(
+            title=title)
 
     chartcompound = alt.hconcat(legendcategory, chartcompound,
                                 data=df_transformed, center=True)
     chartarray.append(chartcompound)
-
 
 
 chartfinal = alt.vconcat(chartarray[1],

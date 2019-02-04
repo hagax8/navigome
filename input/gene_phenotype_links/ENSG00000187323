@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+DEPR01,"DCC",ENSG00000187323,9.918761,,,,,,,,,,,,,,,,,,,-2.32389613632,,,,,,,-3.12825074838,,,,,,,,,,,,4.27860561345,,,,,,,,,,,
+DEPR02,"DCC",ENSG00000187323,9.334663,,,,,,,,,,,,,,,,,,,-3.32403867009,,,,,,,-2.66218251617,,,,,,,,,,,,3.53450030296,,,,,,,,,,,
+EDUC01,"DCC",ENSG00000187323,10.290069,,,,,,,,,,,,,,,,,,,4.59093420796,,,,,,,1.42715423673,,,,,,,,,,,,-3.9908090003,,,,,,,,,,,
+EDUC03,"DCC",ENSG00000187323,30.310576,,,,,,,,,,,,,,,,,,,7.1125901137,,,,,,,1.81939893947,,,,,,,,,,,,-5.05020005655,,,,,,,,,,,
+INTE02,"DCC",ENSG00000187323,6.051225,,,,,,,,,,,,,,,,,,,4.18807824381,,,,,,,1.09408468366,,,,,,,,,,,,-1.84189830952,,,,,,,,,,,
+LUNG02,"DCC",ENSG00000187323,7.559248,,,,,,,,,,,,,,,,,,,4.10778593317,,,,,,,1.92262176587,,,,,,,,,,,,-2.37699731889,,,,,,,,,,,
+NEUR01,"DCC",ENSG00000187323,7.192736,,,,,,,,,,,,,,,,,,,-3.29950918694,,,,,,,-1.60841823161,,,,,,,,,,,,2.2854349776,,,,,,,,,,,
+NEUR02B,"DCC",ENSG00000187323,11.535913,,,,,,,,,,,,,,,,,,,-3.80532543594,,,,,,,0.397740580119,,,,,,,,,,,,2.00255305984,,,,,,,,,,,
+NEUR02M,"DCC",ENSG00000187323,9.159066,,,,,,,,,,,,,,,,,,,-3.55661881265,,,,,,,-1.17685809986,,,,,,,,,,,,1.93685896615,,,,,,,,,,,
+PUTA01,"DCC",ENSG00000187323,12.144505,,,,,,,,,,,,,,,,,,,-5.09662735865,,,,,,,-3.09150589775,,,,,,,,,,,,2.84882694834,,,,,,,,,,,

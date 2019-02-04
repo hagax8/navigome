@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"PPP1CC",ENSG00000186298,7.193230,,,,,1.1282992444432394,,,,,,,,,,0.419725749129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO02,"PPP1CC",ENSG00000186298,10.243257,,,,,-1.8225768285220298,,,,,,,,,,-2.83576369204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO03,"PPP1CC",ENSG00000186298,8.046937,,,,,-2.569222929788874,,,,,,,,,,-3.73610859605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO07,"PPP1CC",ENSG00000186298,8.334006,,,,,-0.452091674534546,,,,,,,,,,-2.47970983943,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO16,"PPP1CC",ENSG00000186298,8.587153,,,,,-0.378336003398957,,,,,,,,,,-2.63108858471,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO18,"PPP1CC",ENSG00000186298,5.625600,,,,,-0.8697682908865236,,,,,,,,,,-2.50689603449,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO20,"PPP1CC",ENSG00000186298,10.904343,,,,,-2.3964282724266215,,,,,,,,,,-3.38965129572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO33,"PPP1CC",ENSG00000186298,6.639331,,,,,0.48101138481458683,,,,,,,,,,-0.613770548507,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC03,"PPP1CC",ENSG00000186298,6.858613,,,,,4.0365551137771485,,,,,,,,,,3.2608416069,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

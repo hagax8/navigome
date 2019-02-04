@@ -1,0 +1,16 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"RAB11A",ENSG00000103769,18.876475,,,,,,,-0.445276855442,,,,,,,,,,,,,,,,,,,,,,,,,1.57735074014,,,,,,,,,,,,,,,,,-0.994366312515
+BLOO03,"RAB11A",ENSG00000103769,7.137499,,,,,,,2.71439749888,,,,,,,,,,,,,,,,,,,,,,,,,0.939947814223,,,,,,,,,,,,,,,,,0.877797788524
+BLOO05,"RAB11A",ENSG00000103769,9.897635,,,,,,,1.3810598276,,,,,,,,,,,,,,,,,,,,,,,,,-0.740369061209,,,,,,,,,,,,,,,,,2.19744631337
+BLOO06,"RAB11A",ENSG00000103769,5.892180,,,,,,,-0.261121969245,,,,,,,,,,,,,,,,,,,,,,,,,-0.5055347352,,,,,,,,,,,,,,,,,-0.943895257814
+BLOO13,"RAB11A",ENSG00000103769,5.871213,,,,,,,-0.368428893008,,,,,,,,,,,,,,,,,,,,,,,,,-0.346998974409,,,,,,,,,,,,,,,,,-0.821447997635
+BLOO19,"RAB11A",ENSG00000103769,20.795365,,,,,,,-0.811713478137,,,,,,,,,,,,,,,,,,,,,,,,,-2.12417832543,,,,,,,,,,,,,,,,,-1.76786814195
+BLOO25,"RAB11A",ENSG00000103769,35.559973,,,,,,,-2.71248535305,,,,,,,,,,,,,,,,,,,,,,,,,-0.248022936159,,,,,,,,,,,,,,,,,2.39458500339
+BLOO26,"RAB11A",ENSG00000103769,75.327948,,,,,,,-1.82693311506,,,,,,,,,,,,,,,,,,,,,,,,,0.540035596731,,,,,,,,,,,,,,,,,2.38488667849
+BLOO27,"RAB11A",ENSG00000103769,61.611437,,,,,,,-0.669924439241,,,,,,,,,,,,,,,,,,,,,,,,,0.879302279327,,,,,,,,,,,,,,,,,1.33901379932
+BLOO28,"RAB11A",ENSG00000103769,18.794796,,,,,,,0.593950139885,,,,,,,,,,,,,,,,,,,,,,,,,1.65127884042,,,,,,,,,,,,,,,,,1.38937664769
+BLOO32,"RAB11A",ENSG00000103769,8.433810,,,,,,,-0.830314603232,,,,,,,,,,,,,,,,,,,,,,,,,-1.77478169613,,,,,,,,,,,,,,,,,-1.79710355539
+EDUC01F,"RAB11A",ENSG00000103769,8.468521,,,,,,,-1.3030208474,,,,,,,,,,,,,,,,,,,,,,,,,-0.226716347621,,,,,,,,,,,,,,,,,0.853333536579
+EDUC01,"RAB11A",ENSG00000103769,13.090150,,,,,,,-1.48111243729,,,,,,,,,,,,,,,,,,,,,,,,,-0.184378664327,,,,,,,,,,,,,,,,,1.16318790137
+EDUC03,"RAB11A",ENSG00000103769,14.371908,,,,,,,-1.34304966915,,,,,,,,,,,,,,,,,,,,,,,,,0.477865809316,,,,,,,,,,,,,,,,,1.97670352395
+OSTE04,"RAB11A",ENSG00000103769,7.882199,,,,,,,0.102302713635,,,,,,,,,,,,,,,,,,,,,,,,,1.74791039591,,,,,,,,,,,,,,,,,-1.4412370275

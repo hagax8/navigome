@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"BCL2A1",ENSG00000140379,80.471971,,,,,7.0056262784185215,,,,,,1.20917750744,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.10359913153,,,
+BLOO07,"BCL2A1",ENSG00000140379,27.304116,,,,,3.94520936846984,,,,,,-1.27289346173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.12074349422,,,
+BLOO16,"BCL2A1",ENSG00000140379,19.295446,,,,,3.6399584796053155,,,,,,-0.910714707504,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.712646202788,,,
+BLOO17,"BCL2A1",ENSG00000140379,19.552299,,,,,3.259889657384553,,,,,,-1.3893099894,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.42274602322,,,
+BLOO18,"BCL2A1",ENSG00000140379,20.047459,,,,,3.1469747887312534,,,,,,-1.53583447135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.25002862835,,,
+BLOO19,"BCL2A1",ENSG00000140379,57.435429,,,,,-4.882790941956051,,,,,,-0.196318555279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.27250153206,,,
+BLOO28,"BCL2A1",ENSG00000140379,78.911403,,,,,5.713425714174368,,,,,,0.72441133077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.19973114966,,,
+BLOO31,"BCL2A1",ENSG00000140379,17.076512,,,,,-2.7977887332944738,,,,,,1.3558506258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.843064734107,,,
+PRSC01,"BCL2A1",ENSG00000140379,5.751316,,,,,0.8862545936756754,,,,,,0.150273112917,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.00525898741,,,

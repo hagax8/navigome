@@ -1,0 +1,9 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY08B,"KRTAP2-3",ENSG00000212724,6.867420,,,,,,,,,,,,,,,,,,,,,,,,,,,3.24585734234,,,,,,,,,,,,,,,,,,,,,,
+BODY08M,"KRTAP2-3",ENSG00000212724,6.864295,,,,,,,,,,,,,,,,,,,,,,,,,,,3.04030825338,,,,,,,,,,,,,,,,,,,,,,
+BODY08,"KRTAP2-3",ENSG00000212724,6.023347,,,,,,,,,,,,,,,,,,,,,,,,,,,2.99923015037,,,,,,,,,,,,,,,,,,,,,,
+FATM04B,"KRTAP2-3",ENSG00000212724,6.210934,,,,,,,,,,,,,,,,,,,,,,,,,,,2.99833500821,,,,,,,,,,,,,,,,,,,,,,
+FATM04M,"KRTAP2-3",ENSG00000212724,6.788026,,,,,,,,,,,,,,,,,,,,,,,,,,,2.82021050284,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"KRTAP2-3",ENSG00000212724,6.289790,,,,,,,,,,,,,,,,,,,,,,,,,,,2.20913646821,,,,,,,,,,,,,,,,,,,,,,
+LEAN06M,"KRTAP2-3",ENSG00000212724,8.011441,,,,,,,,,,,,,,,,,,,,,,,,,,,2.07050768764,,,,,,,,,,,,,,,,,,,,,,
+LEAN06,"KRTAP2-3",ENSG00000212724,8.214514,,,,,,,,,,,,,,,,,,,,,,,,,,,2.32741832318,,,,,,,,,,,,,,,,,,,,,,

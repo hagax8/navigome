@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO35,"ENSG00000268838",ENSG00000268838,7.395504,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.09082319435,,,,,,,,,,,,,-3.66912412179,,,,-0.893509560993,,,,
+LONG01,"ENSG00000268838",ENSG00000268838,10.735253,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.10365468085,,,,,,,,,,,,,1.48355569216,,,,4.10421730864,,,,
+LONG03,"ENSG00000268838",ENSG00000268838,12.451709,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.54251430769,,,,,,,,,,,,,-1.37159312936,,,,-1.92482361878,,,,
+LONG04,"ENSG00000268838",ENSG00000268838,22.791693,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.10365468085,,,,,,,,,,,,,1.48355569216,,,,4.10421730864,,,,
+LONG06,"ENSG00000268838",ENSG00000268838,28.798084,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.30768824438,,,,,,,,,,,,,1.00859816556,,,,3.5356444116,,,,
+LONG07,"ENSG00000268838",ENSG00000268838,7.894762,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.13550526648,,,,,,,,,,,,,-1.12055766818,,,,-2.34073668053,,,,
+LUNG05,"ENSG00000268838",ENSG00000268838,10.436578,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.56924671392,,,,,,,,,,,,,-0.277323108998,,,,0.354618081298,,,,
+SCHI01,"ENSG00000268838",ENSG00000268838,8.609224,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.01132762429,,,,,,,,,,,,,3.41779736656,,,,4.60915048646,,,,
+SCHI02,"ENSG00000268838",ENSG00000268838,9.513598,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.95307423821,,,,,,,,,,,,,3.36949228961,,,,4.83226229637,,,,
+SMOK03,"ENSG00000268838",ENSG00000268838,16.911474,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.73192837351,,,,,,,,,,,,,2.15154507354,,,,6.10450287906,,,,
+SMOK05,"ENSG00000268838",ENSG00000268838,15.544075,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.70706617778,,,,,,,,,,,,,0.510597161356,,,,2.28720502978,,,,

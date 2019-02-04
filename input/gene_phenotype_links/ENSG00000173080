@@ -1,0 +1,7 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"RXFP4",ENSG00000173080,6.974612,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.804487231247,,,,,,,,,,,,,
+BFPC04,"RXFP4",ENSG00000173080,7.167894,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0204922804,,,,,,,,,,,,,
+BODY08B,"RXFP4",ENSG00000173080,5.895615,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.742284878917,,,,,,,,,,,,,
+CROH01,"RXFP4",ENSG00000173080,5.999219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0650870794577,,,,,,,,,,,,,
+WEIG02,"RXFP4",ENSG00000173080,5.879591,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.30794042188,,,,,,,,,,,,,
+WEIG03,"RXFP4",ENSG00000173080,5.673623,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.00319710432,,,,,,,,,,,,,

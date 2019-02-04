@@ -1,0 +1,8 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"KLHL40",ENSG00000157119,30.490394,,2.88051198742,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.50943250705,,,,
+BLOO10,"KLHL40",ENSG00000157119,6.963930,,1.00697645869,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.94491814012,,,,
+BLOO19,"KLHL40",ENSG00000157119,15.534840,,-1.97365150657,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.919810547355,,,,
+BLOO28,"KLHL40",ENSG00000157119,24.556268,,1.93993648855,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.136730757723,,,,
+LEAN04M,"KLHL40",ENSG00000157119,5.817728,,1.07861400994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.31800383961,,,,
+LEAN04,"KLHL40",ENSG00000157119,6.443010,,1.17604554539,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.13807216274,,,,
+LEAN05,"KLHL40",ENSG00000157119,5.912006,,1.14384959847,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.11913860538,,,,

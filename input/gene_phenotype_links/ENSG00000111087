@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"GLI1",ENSG00000111087,11.252961,0.873917443499,,,,0.25512036492052337,,,,,,,,,,,,,,,,,,,,,,4.06139326874,,,,,,,,,,,,,,,,,,,,,,
+BLOO04,"GLI1",ENSG00000111087,6.405729,-1.65669768869,,,,-1.4211791042681636,,,,,,,,,,,,,,,,,,,,,,2.39667119256,,,,,,,,,,,,,,,,,,,,,,
+BLOO22,"GLI1",ENSG00000111087,5.766395,-1.79254026617,,,,-1.9411347005124804,,,,,,,,,,,,,,,,,,,,,,1.8136775295,,,,,,,,,,,,,,,,,,,,,,
+BLOO33,"GLI1",ENSG00000111087,6.507994,1.18082576428,,,,0.07217015731711304,,,,,,,,,,,,,,,,,,,,,,3.43039295813,,,,,,,,,,,,,,,,,,,,,,
+CHOL22,"GLI1",ENSG00000111087,7.210715,-1.24649566246,,,,-1.8167784242731897,,,,,,,,,,,,,,,,,,,,,,-3.08118117786,,,,,,,,,,,,,,,,,,,,,,
+RHEU01,"GLI1",ENSG00000111087,1.627198,0.0699841881467,,,,5.04466680009044,,,,,,,,,,,,,,,,,,,,,,-2.60765256373,,,,,,,,,,,,,,,,,,,,,,
+RHEU02,"GLI1",ENSG00000111087,1.519907,0.0699841881467,,,,5.0446668000904396,,,,,,,,,,,,,,,,,,,,,,-2.60765256373,,,,,,,,,,,,,,,,,,,,,,
+TRGL03,"GLI1",ENSG00000111087,6.835588,0.207873690778,,,,0.628869933080506,,,,,,,,,,,,,,,,,,,,,,1.29653195275,,,,,,,,,,,,,,,,,,,,,,
+URAT01,"GLI1",ENSG00000111087,20.251897,-0.386020507591,,,,0.804044360318418,,,,,,,,,,,,,,,,,,,,,,3.31914966913,,,,,,,,,,,,,,,,,,,,,,

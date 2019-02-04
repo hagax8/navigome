@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO07,"C16orf70",ENSG00000125149,6.505776,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.36964527601,,,,2.74937356164,,,,,,,,,,,,,,,,,,
+BLOO16,"C16orf70",ENSG00000125149,6.154989,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.903451563358,,,,2.48664100586,,,,,,,,,,,,,,,,,,
+BLOO17,"C16orf70",ENSG00000125149,6.015770,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.84771038586,,,,2.19248213116,,,,,,,,,,,,,,,,,,
+BLOO26,"C16orf70",ENSG00000125149,14.206475,,,,,,,,,,,,,,,,,,,,,,,,,,,0.70285257896,,,,0.321412941391,,,,,,,,,,,,,,,,,,
+BLOO27,"C16orf70",ENSG00000125149,18.528136,,,,,,,,,,,,,,,,,,,,,,,,,,,1.12500371941,,,,0.45837732253,,,,,,,,,,,,,,,,,,
+CHOL22,"C16orf70",ENSG00000125149,7.411258,,,,,,,,,,,,,,,,,,,,,,,,,,,2.58178952323,,,,1.45932327322,,,,,,,,,,,,,,,,,,
+LEAN06B,"C16orf70",ENSG00000125149,5.970413,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.87333205717,,,,-2.84315915085,,,,,,,,,,,,,,,,,,
+LEAN06,"C16orf70",ENSG00000125149,5.857892,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.98407014334,,,,-2.95668728852,,,,,,,,,,,,,,,,,,
+OSTE04,"C16orf70",ENSG00000125149,18.441459,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0265400012248,,,,1.8167774965,,,,,,,,,,,,,,,,,,

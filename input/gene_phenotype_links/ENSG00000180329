@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"CCDC43",ENSG00000180329,5.680644,,,,,,,,,1.53112006991,,,,,,,,,,,,,,,,,,,,3.21098413807,,,,,,,,,,,,,,,,,,,,
+BLOO25,"CCDC43",ENSG00000180329,5.959160,,,,,,,,,0.437484454456,,,,,,,,,,,,,,,,,,,,5.80359171221,,,,,,,,,,,,,,,,,,,,
+EDUC03,"CCDC43",ENSG00000180329,5.611970,,,,,,,,,-1.34978669738,,,,,,,,,,,,,,,,,,,,-0.287123124923,,,,,,,,,,,,,,,,,,,,
+HEIG03,"CCDC43",ENSG00000180329,6.913818,,,,,,,,,-0.635371913112,,,,,,,,,,,,,,,,,,,,1.97203841229,,,,,,,,,,,,,,,,,,,,
+LEAN04B,"CCDC43",ENSG00000180329,5.709231,,,,,,,,,0.524591145758,,,,,,,,,,,,,,,,,,,,1.22777731044,,,,,,,,,,,,,,,,,,,,
+LEAN04,"CCDC43",ENSG00000180329,6.947229,,,,,,,,,0.496840193465,,,,,,,,,,,,,,,,,,,,2.08422991787,,,,,,,,,,,,,,,,,,,,
+LEAN05,"CCDC43",ENSG00000180329,6.820305,,,,,,,,,0.566094646309,,,,,,,,,,,,,,,,,,,,2.08523049801,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"CCDC43",ENSG00000180329,10.657419,,,,,,,,,0.273812173863,,,,,,,,,,,,,,,,,,,,1.09883216257,,,,,,,,,,,,,,,,,,,,
+LEAN06M,"CCDC43",ENSG00000180329,9.359250,,,,,,,,,-0.618450181444,,,,,,,,,,,,,,,,,,,,2.25278247337,,,,,,,,,,,,,,,,,,,,
+LEAN06,"CCDC43",ENSG00000180329,11.759850,,,,,,,,,-0.0251912466651,,,,,,,,,,,,,,,,,,,,1.82416558699,,,,,,,,,,,,,,,,,,,,

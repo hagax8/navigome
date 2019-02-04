@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BALD01,"SYF2",ENSG00000117614,3.065340,,,,,,,,,,,,6.79603151654,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO01,"SYF2",ENSG00000117614,25.711997,,,,,,,,,,,,0.528115595336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO04,"SYF2",ENSG00000117614,11.323124,,,,,,,,,,,,1.46293521074,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO21,"SYF2",ENSG00000117614,6.504192,,,,,,,,,,,,1.70029951087,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO23,"SYF2",ENSG00000117614,13.954442,,,,,,,,,,,,1.71177417981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO25,"SYF2",ENSG00000117614,14.655058,,,,,,,,,,,,0.101350539876,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO27,"SYF2",ENSG00000117614,15.055359,,,,,,,,,,,,-0.104949112699,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO29,"SYF2",ENSG00000117614,9.797430,,,,,,,,,,,,0.533754620549,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO33,"SYF2",ENSG00000117614,36.439938,,,,,,,,,,,,0.717150394208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO34,"SYF2",ENSG00000117614,8.186973,,,,,,,,,,,,-0.558871256474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO35,"SYF2",ENSG00000117614,38.563154,,,,,,,,,,,,-1.59316520556,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO36,"SYF2",ENSG00000117614,10.336224,,,,,,,,,,,,1.38990925174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

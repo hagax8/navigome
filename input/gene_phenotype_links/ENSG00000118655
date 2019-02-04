@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"DCLRE1B",ENSG00000118655,7.944622,,,,,4.2901042935653315,,,,,,,,,,,,,,,,,,,,,,,,,2.26674766102,,,,,,,,,,,,,,,,,,,-1.80601981536
+BLOO09,"DCLRE1B",ENSG00000118655,8.133600,,,,,4.256444565647756,,,,,,,,,,,,,,,,,,,,,,,,,2.25621381092,,,,,,,,,,,,,,,,,,,-1.49839721161
+BLOO10,"DCLRE1B",ENSG00000118655,7.958568,,,,,4.303280380659537,,,,,,,,,,,,,,,,,,,,,,,,,2.26475901112,,,,,,,,,,,,,,,,,,,-1.30247927907
+BLOO11,"DCLRE1B",ENSG00000118655,6.669505,,,,,4.272072739705528,,,,,,,,,,,,,,,,,,,,,,,,,1.46623356843,,,,,,,,,,,,,,,,,,,-0.900401782614
+BLOO12,"DCLRE1B",ENSG00000118655,10.892044,,,,,5.255466248356715,,,,,,,,,,,,,,,,,,,,,,,,,2.75678962888,,,,,,,,,,,,,,,,,,,-1.52863163625
+BLOO13,"DCLRE1B",ENSG00000118655,7.556455,,,,,4.2864763068204725,,,,,,,,,,,,,,,,,,,,,,,,,2.25051602848,,,,,,,,,,,,,,,,,,,-1.82396305343
+BLOO30,"DCLRE1B",ENSG00000118655,8.286795,,,,,4.295375263315368,,,,,,,,,,,,,,,,,,,,,,,,,2.25869170936,,,,,,,,,,,,,,,,,,,-1.51147934558
+LONG04,"DCLRE1B",ENSG00000118655,6.581649,,,,,-4.061249752990138,,,,,,,,,,,,,,,,,,,,,,,,,-1.81159696283,,,,,,,,,,,,,,,,,,,0.578160501478
+RHEU01,"DCLRE1B",ENSG00000118655,46.779134,,,,,-16.872986575516812,,,,,,,,,,,,,,,,,,,,,,,,,-7.07506850363,,,,,,,,,,,,,,,,,,,-2.39938696526
+RHEU02,"DCLRE1B",ENSG00000118655,66.054266,,,,,-16.872986575516812,,,,,,,,,,,,,,,,,,,,,,,,,-7.07506850363,,,,,,,,,,,,,,,,,,,-2.39938696526

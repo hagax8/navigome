@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY08B,"MOB4",ENSG00000115540,6.728344,,,,,,,,,,,,,,,,,1.96914349045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08,"MOB4",ENSG00000115540,7.502435,,,,,,,,,,,,,,,,,1.89033270009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DEPR01,"MOB4",ENSG00000115540,5.893435,,,,,,,,,,,,,,,,,-0.759753811335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HEAL01,"MOB4",ENSG00000115540,5.604010,,,,,,,,,,,,,,,,,-0.104798576487,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"MOB4",ENSG00000115540,11.849581,,,,,,,,,,,,,,,,,1.12855690286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06F,"MOB4",ENSG00000115540,8.602912,,,,,,,,,,,,,,,,,0.899902476172,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06,"MOB4",ENSG00000115540,9.432033,,,,,,,,,,,,,,,,,0.996793827853,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SCHI01,"MOB4",ENSG00000115540,11.614859,,,,,,,,,,,,,,,,,-1.69310381677,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SCHI02M,"MOB4",ENSG00000115540,7.127319,,,,,,,,,,,,,,,,,-0.505964313735,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SCHI02,"MOB4",ENSG00000115540,12.078386,,,,,,,,,,,,,,,,,-1.86265200899,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

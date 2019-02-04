@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"PROX1",ENSG00000117707,19.209849,,,,,,,0.353837736761,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO03,"PROX1",ENSG00000117707,17.441076,,,,,,,-0.820575739924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO20,"PROX1",ENSG00000117707,23.152736,,,,,,,-0.877591163846,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DIAB03,"PROX1",ENSG00000117707,5.909777,,,,,,,-0.531619932214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DIAB05,"PROX1",ENSG00000117707,8.503375,,,,,,,-1.54289657428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC04,"PROX1",ENSG00000117707,6.797430,,,,,,,1.75355451524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC19F,"PROX1",ENSG00000117707,14.524430,,,,,,,0.611088242906,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC19,"PROX1",ENSG00000117707,14.250975,,,,,,,2.07267459336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC22,"PROX1",ENSG00000117707,5.930036,,,,,,,-0.331037413696,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

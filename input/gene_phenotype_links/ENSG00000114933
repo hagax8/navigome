@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO04,"INO80D",ENSG00000114933,9.115131,,,,-3.82237366314,2.10567454242942,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.129982111711,,,,,,,,,,,
+BLOO21,"INO80D",ENSG00000114933,7.497614,,,,-2.72927743956,2.0419432208761155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.244607664877,,,,,,,,,,,
+BLOO22,"INO80D",ENSG00000114933,7.408012,,,,-2.97282377843,1.9883314055465302,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.1058672972,,,,,,,,,,,
+BLOO36,"INO80D",ENSG00000114933,9.430989,,,,-3.58853063488,2.225779938170563,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.115939268884,,,,,,,,,,,
+EDUC03,"INO80D",ENSG00000114933,6.569893,,,,2.57342536032,-0.5328977765913736,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.02704144314,,,,,,,,,,,
+LEAN04B,"INO80D",ENSG00000114933,5.887094,,,,-4.27632782413,-2.3240994539876367,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.51457231463,,,,,,,,,,,
+LEAN04,"INO80D",ENSG00000114933,6.296442,,,,-3.98598627518,-1.5884187600385127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.51452786825,,,,,,,,,,,
+LEAN05,"INO80D",ENSG00000114933,6.138824,,,,-3.96339342325,-1.5981336317803632,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.52803040326,,,,,,,,,,,
+LEAN06B,"INO80D",ENSG00000114933,6.384955,,,,-4.84458368419,-2.2885892135363077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.23816658551,,,,,,,,,,,
+LEAN06,"INO80D",ENSG00000114933,6.812818,,,,-4.26951126273,-1.4640340879996063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.34152971175,,,,,,,,,,,

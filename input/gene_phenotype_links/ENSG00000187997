@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"C17orf99",ENSG00000187997,7.642351,,,,,0.8119352653949631,,,,,,,-1.8843127001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.79380810806
+BLOO02,"C17orf99",ENSG00000187997,20.487983,,,,,-1.1586195269819717,,,,,,,0.494280251915,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0729597704427
+BLOO04,"C17orf99",ENSG00000187997,12.759750,,,,,1.1285469670396353,,,,,,,-0.951669070657,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.67918130655
+BLOO21,"C17orf99",ENSG00000187997,16.296382,,,,,0.40421054371154086,,,,,,,-1.26043165724,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.501570442153
+BLOO22,"C17orf99",ENSG00000187997,16.253163,,,,,0.2528728678696953,,,,,,,-1.21086214759,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.615948883095
+BLOO23,"C17orf99",ENSG00000187997,17.650024,,,,,-1.3590719804096345,,,,,,,-1.41114342228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.07430274333
+BLOO26,"C17orf99",ENSG00000187997,13.181148,,,,,0.4521455503325361,,,,,,,-1.357213346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.793350418177
+BLOO27,"C17orf99",ENSG00000187997,16.733463,,,,,0.6870809834329017,,,,,,,-1.41227218649,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.97747022445
+BLOO33,"C17orf99",ENSG00000187997,12.999436,,,,,1.4298168173562664,,,,,,,-1.54093992888,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.85711117464
+BLOO35,"C17orf99",ENSG00000187997,21.142505,,,,,-1.6885999117535642,,,,,,,1.66940648436,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0244993042517
+BLOO36,"C17orf99",ENSG00000187997,20.026378,,,,,1.403300155695313,,,,,,,-1.12986498865,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.61140144632
+GLYC22,"C17orf99",ENSG00000187997,5.840794,,,,,-0.8583753423394762,,,,,,,2.04378157701,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.449047149875

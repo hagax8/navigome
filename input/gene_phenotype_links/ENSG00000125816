@@ -1,0 +1,8 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO26,"NKX2-4",ENSG00000125816,6.476228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.70083887864,,,,,,,,,,
+BLOO27,"NKX2-4",ENSG00000125816,5.635149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.74997504432,,,,,,,,,,
+HIPC03,"NKX2-4",ENSG00000125816,5.909002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.73832055203,,,,,,,,,,
+LEAN06B,"NKX2-4",ENSG00000125816,8.297750,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.84278281105,,,,,,,,,,
+LEAN06M,"NKX2-4",ENSG00000125816,8.706991,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.17821172765,,,,,,,,,,
+LEAN06,"NKX2-4",ENSG00000125816,11.140501,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.62361851336,,,,,,,,,,
+MENA02F,"NKX2-4",ENSG00000125816,6.428804,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0256499908222,,,,,,,,,,

@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"HNF4A",ENSG00000101076,6.759301,,,,,,,,,,,,,,,,,,,,-2.03525018922,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO09,"HNF4A",ENSG00000101076,6.260356,,,,,,,,,,,,,,,,,,,,-1.86613608479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO13,"HNF4A",ENSG00000101076,6.991442,,,,,,,,,,,,,,,,,,,,-2.13311859484,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO19,"HNF4A",ENSG00000101076,10.225352,,,,,,,,,,,,,,,,,,,,-2.57668816417,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO20,"HNF4A",ENSG00000101076,9.654940,,,,,,,,,,,,,,,,,,,,2.86778278985,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO28,"HNF4A",ENSG00000101076,7.258675,,,,,,,,,,,,,,,,,,,,2.02664957452,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO30,"HNF4A",ENSG00000101076,8.408524,,,,,,,,,,,,,,,,,,,,-1.75680317728,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO32,"HNF4A",ENSG00000101076,6.794390,,,,,,,,,,,,,,,,,,,,-2.41430210044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CHOL21,"HNF4A",ENSG00000101076,10.219431,,,,,,,,,,,,,,,,,,,,1.69407640671,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CHOL22,"HNF4A",ENSG00000101076,11.392641,,,,,,,,,,,,,,,,,,,,-1.40301453157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DIAB03,"HNF4A",ENSG00000101076,6.331055,,,,,,,,,,,,,,,,,,,,-0.0329565629579,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ULCC01,"HNF4A",ENSG00000101076,11.340588,,,,,,,,,,,,,,,,,,,,2.13048747935,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

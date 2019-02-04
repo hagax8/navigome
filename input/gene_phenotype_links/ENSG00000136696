@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"IL36B",ENSG00000136696,19.078808,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.60888438787,,,,,,,,,,,,,,,,-3.73747490264,-3.62514409517
+BLOO09,"IL36B",ENSG00000136696,17.463580,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.85952842962,,,,,,,,,,,,,,,,-3.97955890376,-3.87734867136
+BLOO10,"IL36B",ENSG00000136696,17.737335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.8249494552,,,,,,,,,,,,,,,,-3.92955421892,-3.80366941837
+BLOO12,"IL36B",ENSG00000136696,16.109378,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.88490435472,,,,,,,,,,,,,,,,-2.93436827628,-2.77936831719
+BLOO13,"IL36B",ENSG00000136696,18.726513,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.67753634114,,,,,,,,,,,,,,,,-3.787667575,-3.67048427197
+BLOO24,"IL36B",ENSG00000136696,8.340816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.99411805616,,,,,,,,,,,,,,,,3.61723867322,3.64926605258
+BLOO26,"IL36B",ENSG00000136696,6.555690,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.486387028475,,,,,,,,,,,,,,,,-0.0748686591921,0.00701293696871
+BLOO30,"IL36B",ENSG00000136696,22.045907,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.75432863219,,,,,,,,,,,,,,,,-3.90437904108,-3.80252288677
+BLOO32,"IL36B",ENSG00000136696,8.798548,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.39176488097,,,,,,,,,,,,,,,,-3.03111316396,-3.03961313553
+LUPU01,"IL36B",ENSG00000136696,27.326647,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.646736046976,,,,,,,,,,,,,,,,-0.151747676076,-0.292300356592

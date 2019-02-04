@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"ALDOC",ENSG00000109107,6.532629,,,,,2.4472660132998247,,,,,,,,,,,,,,,,-1.84584577237,,,,,,,,,,,,-0.200438341354,,,,,,,,,,,,,,,,
+BLOO04,"ALDOC",ENSG00000109107,8.080660,,,,,5.0295026662803215,,,,,,,,,,,,,,,,-0.255870538704,,,,,,,,,,,,0.0573767650353,,,,,,,,,,,,,,,,
+BLOO21,"ALDOC",ENSG00000109107,15.596468,,,,,3.1435012874765142,,,,,,,,,,,,,,,,0.205467619656,,,,,,,,,,,,0.924553025411,,,,,,,,,,,,,,,,
+BLOO22,"ALDOC",ENSG00000109107,17.313829,,,,,3.4320040413308095,,,,,,,,,,,,,,,,-0.0517518776621,,,,,,,,,,,,0.947373432502,,,,,,,,,,,,,,,,
+BLOO23,"ALDOC",ENSG00000109107,31.386898,,,,,1.2296899613747176,,,,,,,,,,,,,,,,0.127681300152,,,,,,,,,,,,1.12694936877,,,,,,,,,,,,,,,,
+BLOO25,"ALDOC",ENSG00000109107,32.907736,,,,,1.202720975311503,,,,,,,,,,,,,,,,-0.950900585743,,,,,,,,,,,,-2.78833322878,,,,,,,,,,,,,,,,
+BLOO26,"ALDOC",ENSG00000109107,36.710612,,,,,-1.3698731282002832,,,,,,,,,,,,,,,,0.843526061455,,,,,,,,,,,,-3.17244442111,,,,,,,,,,,,,,,,
+BLOO27,"ALDOC",ENSG00000109107,24.926135,,,,,-2.0338820100637407,,,,,,,,,,,,,,,,1.59396073126,,,,,,,,,,,,-2.33119302976,,,,,,,,,,,,,,,,
+BLOO29,"ALDOC",ENSG00000109107,12.041107,,,,,-0.05019720627294457,,,,,,,,,,,,,,,,-1.64515066946,,,,,,,,,,,,1.4095989421,,,,,,,,,,,,,,,,
+BLOO35,"ALDOC",ENSG00000109107,56.092927,,,,,-1.2707102419769711,,,,,,,,,,,,,,,,-0.530248843616,,,,,,,,,,,,1.80488170706,,,,,,,,,,,,,,,,
+BLOO36,"ALDOC",ENSG00000109107,6.050327,,,,,3.532859653023116,,,,,,,,,,,,,,,,0.147965346864,,,,,,,,,,,,0.493697536627,,,,,,,,,,,,,,,,

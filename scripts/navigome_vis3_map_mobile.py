@@ -3,9 +3,10 @@ import pandas as pd
 from sys import argv
 
 
-df = pd.read_csv(argv[1])
+df = pd.read_csv(argv[1], keep_default_na=False)
 
 titleid = argv[2]
+
 
 def shorten(x): return (x[:30] + '..') if len(x) > 32 else x
 
@@ -58,9 +59,9 @@ selection = alt.selection_multi(fields=['code', 'study size'])
 selection3 = alt.selection_multi(fields=['category'])
 selection4 = alt.selection_multi(fields=['category'])
 size = alt.Size(
-        'study size:Q',
-        legend=None,
-        )
+    'study size:Q',
+    legend=None,
+)
 
 
 color2 = alt.condition(

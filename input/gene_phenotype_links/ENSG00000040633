@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+AMIN09,"PHF23",ENSG00000040633,8.746250,,,,,1.1942507081148213,-0.566015354689,,,,,,,,,,,,,,,,,,-2.00569385846,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04F,"PHF23",ENSG00000040633,8.601140,,,,,-0.8777286648752541,-0.357020141679,,,,,,,,,,,,,,,,,,-0.677437085074,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO24,"PHF23",ENSG00000040633,5.756491,,,,,4.809191389074863,-0.0285631792929,,,,,,,,,,,,,,,,,,-0.00375243856814,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO32,"PHF23",ENSG00000040633,3.509564,,,,,-4.734641103815289,-0.0391756375189,,,,,,,,,,,,,,,,,,0.486762181894,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08F,"PHF23",ENSG00000040633,6.183898,,,,,-0.2639733971505963,-0.729584845193,,,,,,,,,,,,,,,,,,-1.11349763984,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04F,"PHF23",ENSG00000040633,6.771420,,,,,-1.4276397044471165,-0.315688943318,,,,,,,,,,,,,,,,,,-0.888354843744,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"PHF23",ENSG00000040633,3.373270,,,,,-4.865484297541706,0.401354700619,,,,,,,,,,,,,,,,,,-0.478940383857,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06,"PHF23",ENSG00000040633,3.177610,,,,,-4.917001501290782,0.304380820583,,,,,,,,,,,,,,,,,,-0.360800169673,,,,,,,,,,,,,,,,,,,,,,,,,
+WEIG02,"PHF23",ENSG00000040633,18.944469,,,,,-0.7471897264328513,-0.58905093966,,,,,,,,,,,,,,,,,,-1.54200602176,,,,,,,,,,,,,,,,,,,,,,,,,
+WEIG03,"PHF23",ENSG00000040633,15.579681,,,,,-0.7959784772887226,-0.709984703794,,,,,,,,,,,,,,,,,,-1.70073814899,,,,,,,,,,,,,,,,,,,,,,,,,

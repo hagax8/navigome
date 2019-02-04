@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"KLF1",ENSG00000105610,66.681311,,,,-8.71827941016,-4.145807926714554,,,,,,,,,,,0.905112329428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.781484545424,,,,
+BLOO04,"KLF1",ENSG00000105610,21.821656,,,,7.96600389702,4.5393756106852985,,,,,,,,,,,0.206948258494,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.941247269555,,,,
+BLOO21,"KLF1",ENSG00000105610,28.484285,,,,9.52623882416,5.932030639180346,,,,,,,,,,,-0.535792349831,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.34951159136,,,,
+BLOO22,"KLF1",ENSG00000105610,18.177884,,,,8.27299751764,5.255531677441525,,,,,,,,,,,-0.369231041757,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.54728764492,,,,
+BLOO23,"KLF1",ENSG00000105610,9.836749,,,,5.52339252675,4.534170494781373,,,,,,,,,,,-0.883725652756,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.0302238282,,,,
+BLOO25,"KLF1",ENSG00000105610,20.435287,,,,6.57326838472,1.7766088701037803,,,,,,,,,,,0.309604639544,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.44234566095,,,,
+BLOO26,"KLF1",ENSG00000105610,81.824488,,,,14.324774623,7.760745967687839,,,,,,,,,,,-0.163840334189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.21122768671,,,,
+BLOO27,"KLF1",ENSG00000105610,82.089344,,,,13.1707188196,7.975054691802829,,,,,,,,,,,0.0846113460507,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.93434933039,,,,
+BLOO35,"KLF1",ENSG00000105610,6.896402,,,,-2.9135523279,-3.311771994138897,,,,,,,,,,,1.0309189733,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.77804594478,,,,
+BLOO36,"KLF1",ENSG00000105610,33.229398,,,,10.1227733873,5.565663107636965,,,,,,,,,,,0.11816832736,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.772511237569,,,,
+BODY08B,"KLF1",ENSG00000105610,5.898184,,,,-4.9633110376,-1.6353413012539908,,,,,,,,,,,-0.136553660541,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.664436219053,,,,
+BODY08,"KLF1",ENSG00000105610,6.694541,,,,-4.90578862353,-1.604691032204807,,,,,,,,,,,-0.0416452225762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.644515839777,,,,

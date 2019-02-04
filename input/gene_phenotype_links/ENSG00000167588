@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"GPD1",ENSG00000167588,6.985311,,,,,-3.0424434112317553,,,,,,,,,,1.44072007276,,,-1.2775993005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO06,"GPD1",ENSG00000167588,7.133051,,,,,-0.40720417239700835,,,,,,,,,,-0.0513263065897,,,-3.77158076773,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO09,"GPD1",ENSG00000167588,5.999306,,,,,-0.5773329216131086,,,,,,,,,,-0.231410327445,,,-3.48142291346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO10,"GPD1",ENSG00000167588,6.358139,,,,,-0.48763813990094645,,,,,,,,,,-0.166673886061,,,-3.60790981754,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO12,"GPD1",ENSG00000167588,6.602355,,,,,-0.5382823580762081,,,,,,,,,,-0.0255150453502,,,-3.57266519523,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO13,"GPD1",ENSG00000167588,6.637687,,,,,-0.44505966180749573,,,,,,,,,,-0.0337775980941,,,-3.6461216705,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO27,"GPD1",ENSG00000167588,5.988134,,,,,-2.0388182680639737,,,,,,,,,,0.13857392318,,,-2.3532526957,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO30,"GPD1",ENSG00000167588,6.149654,,,,,-0.5061728481726361,,,,,,,,,,-0.203441510163,,,-3.60896621949,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO33,"GPD1",ENSG00000167588,6.373834,,,,,-3.5573621848023547,,,,,,,,,,0.203922224492,,,-1.26155622869,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO35,"GPD1",ENSG00000167588,5.948770,,,,,2.374165336215244,,,,,,,,,,-1.00436482345,,,-5.77632364693,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

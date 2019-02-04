@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO35,"SAMHD1",ENSG00000101347,13.472615,,,,,-5.442452161002156,-4.70095405409,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HEIG03,"SAMHD1",ENSG00000101347,9.475344,,,,,-4.006022990216888,-4.57323761016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HIPC04F,"SAMHD1",ENSG00000101347,5.740143,,,,,-2.9061056098154006,-4.17210596518,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN04,"SAMHD1",ENSG00000101347,6.673480,,,,,-1.7085160864990552,-3.18823095282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN05,"SAMHD1",ENSG00000101347,6.521780,,,,,-1.6626505890583338,-3.14000259809,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"SAMHD1",ENSG00000101347,11.716156,,,,,-1.9356004674769298,-4.21839864564,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06F,"SAMHD1",ENSG00000101347,6.341178,,,,,-1.8924829390693667,-3.61501983901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06M,"SAMHD1",ENSG00000101347,6.971836,,,,,-0.80677424955695,-2.55929055271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06,"SAMHD1",ENSG00000101347,12.572920,,,,,-1.659962094186617,-3.88083505435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

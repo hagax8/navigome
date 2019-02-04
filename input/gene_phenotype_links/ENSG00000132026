@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"RTBDN",ENSG00000132026,25.625618,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.07624434334,,,,,,,,-3.67414250274,,,,
+BLOO04,"RTBDN",ENSG00000132026,17.227451,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.82240388766,,,,,,,,0.614166292465,,,,
+BLOO05,"RTBDN",ENSG00000132026,7.455969,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.091441360205,,,,,,,,0.57741879332,,,,
+BLOO21,"RTBDN",ENSG00000132026,21.178729,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.07132325761,,,,,,,,1.32963160321,,,,
+BLOO22,"RTBDN",ENSG00000132026,19.610391,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.78056336164,,,,,,,,0.813534194952,,,,
+BLOO23,"RTBDN",ENSG00000132026,9.515914,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.55386581868,,,,,,,,0.422726146841,,,,
+BLOO25,"RTBDN",ENSG00000132026,8.259464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0221644433397,,,,,,,,0.339330189824,,,,
+BLOO26,"RTBDN",ENSG00000132026,41.476059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.76421862348,,,,,,,,2.80091690521,,,,
+BLOO27,"RTBDN",ENSG00000132026,37.943095,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.95555807389,,,,,,,,3.14576008961,,,,
+BLOO35,"RTBDN",ENSG00000132026,7.326104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.04238169248,,,,,,,,1.67036471915,,,,
+BLOO36,"RTBDN",ENSG00000132026,25.602842,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.34826987201,,,,,,,,1.41970093855,,,,

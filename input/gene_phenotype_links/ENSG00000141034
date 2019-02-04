@@ -1,0 +1,9 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"GID4",ENSG00000141034,6.725588,,,,,,,,,,,,,,,-1.35498562,,,,,,,,,,,,1.0340133547,,,,,,,,,,,,,,,,,,,,,,
+BLOO11,"GID4",ENSG00000141034,11.663140,,,,,,,,,,,,,,,-0.613650516198,,,,,,,,,,,,-0.444586711581,,,,,,,,,,,,,,,,,,,,,,
+BLOO32,"GID4",ENSG00000141034,7.347589,,,,,,,,,,,,,,,-1.09646408347,,,,,,,,,,,,-0.00645914833209,,,,,,,,,,,,,,,,,,,,,,
+COAD01,"GID4",ENSG00000141034,5.774381,,,,,,,,,,,,,,,-0.865439869757,,,,,,,,,,,,0.710612327042,,,,,,,,,,,,,,,,,,,,,,
+COAD03,"GID4",ENSG00000141034,6.592949,,,,,,,,,,,,,,,-0.823388597226,,,,,,,,,,,,1.43763017202,,,,,,,,,,,,,,,,,,,,,,
+SCHI01,"GID4",ENSG00000141034,9.752591,,,,,,,,,,,,,,,-1.46772294502,,,,,,,,,,,,0.516246957176,,,,,,,,,,,,,,,,,,,,,,
+SCHI02M,"GID4",ENSG00000141034,6.654078,,,,,,,,,,,,,,,-0.941874966388,,,,,,,,,,,,0.441265140163,,,,,,,,,,,,,,,,,,,,,,
+SCHI02,"GID4",ENSG00000141034,9.751095,,,,,,,,,,,,,,,-1.53555674277,,,,,,,,,,,,0.43639882356,,,,,,,,,,,,,,,,,,,,,,

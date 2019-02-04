@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"MINK1",ENSG00000141503,5.820132,,,,,4.006498666685324,,,,,,,,,,,,,,3.66120001125,,,,,,0.931395359904,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO01,"MINK1",ENSG00000141503,15.508694,,,,,1.7273174164156078,,,,,,,,,,,,,,2.10671550944,,,,,,2.57337414229,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO11,"MINK1",ENSG00000141503,15.981341,,,,,6.952623183409854,,,,,,,,,,,,,,5.78693047543,,,,,,1.61528485558,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO17,"MINK1",ENSG00000141503,6.626959,,,,,-1.025171939376545,,,,,,,,,,,,,,-0.0262130795714,,,,,,-1.18963573218,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO18,"MINK1",ENSG00000141503,6.681707,,,,,-0.5011155352743869,,,,,,,,,,,,,,0.455098774563,,,,,,-0.921622983897,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO24,"MINK1",ENSG00000141503,6.354430,,,,,4.335158924462562,,,,,,,,,,,,,,3.30291538095,,,,,,1.73035037999,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO33,"MINK1",ENSG00000141503,7.900009,,,,,1.156257107187496,,,,,,,,,,,,,,1.00408016424,,,,,,1.84674082361,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO34,"MINK1",ENSG00000141503,18.891232,,,,,-0.13614479265815252,,,,,,,,,,,,,,-0.41715673871,,,,,,-2.78525062195,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08B,"MINK1",ENSG00000141503,8.064891,,,,,4.30044210112328,,,,,,,,,,,,,,4.33076187953,,,,,,0.27755468067,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08M,"MINK1",ENSG00000141503,5.999523,,,,,3.7084904625110724,,,,,,,,,,,,,,3.18746201608,,,,,,1.05626191546,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08,"MINK1",ENSG00000141503,8.903855,,,,,4.172970876699557,,,,,,,,,,,,,,4.35105629954,,,,,,-0.00935236201572,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04B,"MINK1",ENSG00000141503,6.014600,,,,,4.157079988882915,,,,,,,,,,,,,,3.75018414572,,,,,,0.711898630645,,,,,,,,,,,,,,,,,,,,,,,,

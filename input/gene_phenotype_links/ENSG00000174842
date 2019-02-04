@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"GLMN",ENSG00000174842,45.242141,,,,,4.203148496182001,,-0.441486764412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.95029461724,,,,,,,
+BLOO10,"GLMN",ENSG00000174842,11.148240,,,,,1.8047412312312128,,-1.01052039338,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.36002166278,,,,,,,
+BLOO19,"GLMN",ENSG00000174842,47.231517,,,,,-2.3716681022685777,,-0.636571193817,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.82724319947,,,,,,,
+BLOO24,"GLMN",ENSG00000174842,14.471495,,,,,-2.3554835631419113,,1.07120673813,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.470490787282,,,,,,,
+BLOO28,"GLMN",ENSG00000174842,43.232013,,,,,3.7869794834125736,,0.31486228107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.911054659706,,,,,,,
+BLOO32,"GLMN",ENSG00000174842,7.409180,,,,,1.3369141143451457,,-1.25666983254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.610524950563,,,,,,,
+BODY08B,"GLMN",ENSG00000174842,5.982549,,,,,0.09054393674772253,,-0.369171514981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.359600476559,,,,,,,
+BODY08,"GLMN",ENSG00000174842,6.406371,,,,,-0.029962043783278214,,-0.259773337765,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.437731008216,,,,,,,
+CHOL21,"GLMN",ENSG00000174842,9.247621,,,,,0.24694567499894,,-0.224887617044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.738800597065,,,,,,,
+CHOL27,"GLMN",ENSG00000174842,8.391613,,,,,0.8304551574104931,,0.231112109357,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.16414949493,,,,,,,
+HEIG03,"GLMN",ENSG00000174842,6.024141,,,,,-0.6090768023512947,,1.31700755882,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.54531702728,,,,,,,

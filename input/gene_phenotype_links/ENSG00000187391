@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04,"MAGI2",ENSG00000187391,5.866238,,,,,-2.4558563311349384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3103743343,,,,,
+BODY03,"MAGI2",ENSG00000187391,8.831945,,,,,-2.6105950518310093,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.46113953115,,,,,
+BODY04,"MAGI2",ENSG00000187391,10.691969,,,,,-2.7105336313570025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.62289843388,,,,,
+BODY08B,"MAGI2",ENSG00000187391,7.518371,,,,,-1.6706672989044742,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.96589082648,,,,,
+BODY08,"MAGI2",ENSG00000187391,8.692953,,,,,-1.568211240922766,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.93568381429,,,,,
+EDUC03,"MAGI2",ENSG00000187391,6.240680,,,,,0.5771705701012341,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.02407377981,,,,,
+FATM04B,"MAGI2",ENSG00000187391,6.475721,,,,,-2.160818814786311,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.40281574414,,,,,
+FATM04,"MAGI2",ENSG00000187391,6.388893,,,,,-2.0748396322614915,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.32279928217,,,,,
+LIPO16,"MAGI2",ENSG00000187391,6.445487,,,,,-3.2694806140027497,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.310724241399,,,,,

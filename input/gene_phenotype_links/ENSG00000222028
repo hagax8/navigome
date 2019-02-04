@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO04,"PSMB11",ENSG00000222028,43.862361,,,,,-11.604570325716692,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-7.33830169239,,,,
+BLOO21,"PSMB11",ENSG00000222028,31.202006,,,,,-10.275616946625435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-6.51764899093,,,,
+BLOO22,"PSMB11",ENSG00000222028,25.135329,,,,,-9.686634599461575,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-6.19833351063,,,,
+BLOO26,"PSMB11",ENSG00000222028,20.576197,,,,,-7.676724190950284,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.943142511,,,,
+BLOO27,"PSMB11",ENSG00000222028,18.980427,,,,,-7.568997600492544,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.06140804185,,,,
+BLOO35,"PSMB11",ENSG00000222028,89.424247,,,,,19.897432271270855,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.331315162,,,,
+BLOO36,"PSMB11",ENSG00000222028,51.316485,,,,,-12.535218862559846,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-7.78264866348,,,,
+EDUC01,"PSMB11",ENSG00000222028,3.309405,,,,,-2.6398378676654226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.01864219541,,,,
+EDUC03,"PSMB11",ENSG00000222028,10.167293,,,,,-4.768528463278035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.6173904847,,,,

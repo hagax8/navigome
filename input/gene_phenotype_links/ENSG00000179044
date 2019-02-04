@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"EXOC3L1",ENSG00000179044,4.320608,,,,,,,,,,,,7.15993640341,,,,,,,,,,,,,,,,,,,,,,,,,,,1.35791013043,,,,,,,,,,
+BLOO03,"EXOC3L1",ENSG00000179044,3.508624,,,,,,,,,,,,5.60829094059,,,,,,,,,,,,,,,,,,,,,,,,,,,3.63690146065,,,,,,,,,,
+BLOO07,"EXOC3L1",ENSG00000179044,6.595799,,,,,,,,,,,,3.27003881164,,,,,,,,,,,,,,,,,,,,,,,,,,,3.50138122314,,,,,,,,,,
+BLOO16,"EXOC3L1",ENSG00000179044,5.903890,,,,,,,,,,,,3.08397627105,,,,,,,,,,,,,,,,,,,,,,,,,,,2.94131667257,,,,,,,,,,
+BLOO17,"EXOC3L1",ENSG00000179044,6.695790,,,,,,,,,,,,2.81302816367,,,,,,,,,,,,,,,,,,,,,,,,,,,4.02503591032,,,,,,,,,,
+BLOO18,"EXOC3L1",ENSG00000179044,6.314339,,,,,,,,,,,,2.25683421213,,,,,,,,,,,,,,,,,,,,,,,,,,,3.52268836371,,,,,,,,,,
+BLOO20,"EXOC3L1",ENSG00000179044,3.450727,,,,,,,,,,,,5.88764234211,,,,,,,,,,,,,,,,,,,,,,,,,,,4.00155363784,,,,,,,,,,
+BLOO26,"EXOC3L1",ENSG00000179044,15.930221,,,,,,,,,,,,-3.68499761077,,,,,,,,,,,,,,,,,,,,,,,,,,,2.70580823682,,,,,,,,,,
+BLOO27,"EXOC3L1",ENSG00000179044,18.541891,,,,,,,,,,,,-3.90634705731,,,,,,,,,,,,,,,,,,,,,,,,,,,3.65904869471,,,,,,,,,,
+CHOL22,"EXOC3L1",ENSG00000179044,8.329893,,,,,,,,,,,,8.93738172231,,,,,,,,,,,,,,,,,,,,,,,,,,,2.19508874577,,,,,,,,,,
+OSTE04,"EXOC3L1",ENSG00000179044,15.477034,,,,,,,,,,,,2.17531947895,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.70767865884,,,,,,,,,,

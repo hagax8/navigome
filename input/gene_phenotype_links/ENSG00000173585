@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"CCR9",ENSG00000173585,19.795337,,,,,-3.151821687113579,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.39773780709,,,,
+BLOO07,"CCR9",ENSG00000173585,6.196188,,,,,1.036513176806573,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.81172981594,,,,
+BLOO08,"CCR9",ENSG00000173585,9.583426,,,,,0.26512627653470566,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.10055247395,,,,
+BLOO14,"CCR9",ENSG00000173585,5.880744,,,,,0.5152725921188072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.18550875309,,,,
+BLOO16,"CCR9",ENSG00000173585,6.518228,,,,,1.1288708195811605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.63500636932,,,,
+BLOO17,"CCR9",ENSG00000173585,7.098427,,,,,1.2882186156941755,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.90054243808,,,,
+BLOO18,"CCR9",ENSG00000173585,7.381481,,,,,0.9777330791498334,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.32740352875,,,,
+BLOO19,"CCR9",ENSG00000173585,18.758180,,,,,2.9160368221637825,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.11809656887,,,,
+BLOO28,"CCR9",ENSG00000173585,19.891469,,,,,-3.375925739117824,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.99079483422,,,,
+BLOO31,"CCR9",ENSG00000173585,7.654058,,,,,-0.9170951152285303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.01008733456,,,,

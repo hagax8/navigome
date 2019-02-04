@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"KIAA0100",ENSG00000007202,7.427198,,,0.856772526256,,-6.490306417933276,6.73863037257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO04,"KIAA0100",ENSG00000007202,8.304396,,,0.244834711562,,-4.770847772383347,4.10828048279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO21,"KIAA0100",ENSG00000007202,16.257723,,,0.387159152619,,-8.934466253180394,6.50163607611,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO22,"KIAA0100",ENSG00000007202,17.842664,,,0.47251726043,,-9.75610673831439,7.51402247035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO23,"KIAA0100",ENSG00000007202,27.960467,,,0.297024328511,,-13.401655869648565,8.98500657243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO25,"KIAA0100",ENSG00000007202,29.388277,,,0.579112491374,,12.174633312419557,-7.64913001337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO26,"KIAA0100",ENSG00000007202,44.297501,,,-0.896408786753,,15.180585023281497,-11.1431793285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO27,"KIAA0100",ENSG00000007202,25.020028,,,-1.47926015358,,11.144937701100078,-8.64761682286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO29,"KIAA0100",ENSG00000007202,14.159348,,,-1.89516745091,,4.272250154958778,-2.11872069745,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO35,"KIAA0100",ENSG00000007202,36.303294,,,-1.29084687526,,-14.716506439162037,9.94701620417,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO36,"KIAA0100",ENSG00000007202,5.788879,,,0.00590542984226,,-2.8313365448906405,2.69196847078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC22,"KIAA0100",ENSG00000007202,3.568411,,,-1.2612700707,,-5.104493688356787,1.02243175881,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY08B,"USP33",ENSG00000077254,7.546559,,,,,-3.7304082684307645,,,-1.30358419932,,,,,,,,,-1.92692828632,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08,"USP33",ENSG00000077254,6.871213,,,,,-3.6450213231631556,,,-1.32072424003,,,,,,,,,-1.89309415062,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04B,"USP33",ENSG00000077254,9.066599,,,,,-3.0798851611403086,,,-0.775965999106,,,,,,,,,-1.44313711305,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04,"USP33",ENSG00000077254,9.809360,,,,,-3.090857092371914,,,-0.829245345584,,,,,,,,,-1.53033478611,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN04B,"USP33",ENSG00000077254,10.827894,,,,,-2.6018384557641623,,,0.200727323067,,,,,,,,,-1.65550271586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN04,"USP33",ENSG00000077254,9.862235,,,,,-2.529375931683363,,,1.09363480763,,,,,,,,,-1.38658001993,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN05B,"USP33",ENSG00000077254,11.424420,,,,,-2.5157524080916995,,,0.228635522098,,,,,,,,,-1.63532102303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN05,"USP33",ENSG00000077254,10.146308,,,,,-2.490773810579126,,,1.10083935219,,,,,,,,,-1.3811101797,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"USP33",ENSG00000077254,22.889006,,,,,-3.179141174921669,,,-0.886598918266,,,,,,,,,-1.23547233095,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06F,"USP33",ENSG00000077254,10.107232,,,,,-1.8097862915026406,,,-1.58483771662,,,,,,,,,-0.479661049941,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06M,"USP33",ENSG00000077254,11.697388,,,,,-3.361858562152085,,,0.755233582733,,,,,,,,,-1.65851007392,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06,"USP33",ENSG00000077254,24.080164,,,,,-3.568438081338008,,,-0.152455152655,,,,,,,,,-1.59823176572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

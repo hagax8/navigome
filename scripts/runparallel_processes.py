@@ -2,12 +2,13 @@ import subprocess
 from bs4 import BeautifulSoup as Soup
 import os
 import pandas as pd
+from sys import argv
 
-f_reference = "gwas_reference_toadd"
-csvfile = pd.read_csv(f_reference)
+workdir = argv[1]
+f_reference = workdir + '/input/' + "gwas_reference_toadd"
+csvfile = pd.read_csv(f_reference, keep_default_na=False)
 codes = csvfile['code']
-
-outdir = 'phenotype_map'
+outdir = workdir + '/output/' + 'genes_tissues'
 if not os.path.exists(outdir):
     os.makedirs(outdir)
 
@@ -38,43 +39,65 @@ newheader = '<style>' \
             '<script src="https://phenviz.navigome.com/js/bootstrap.js"></script>'
 
 
-adddiv = ('<div class="col-lg-12 col-md-12 content-item content-item-1">' +
-          '<p>This is a parallel coordinates visualization ' +
-          'for per-tissue gene associations ' +
-          'with the phenotype of interest. ' +
-          'It shows which genes are significant for this phenotype ' +
-          'and in which tissues, based on gene expression (eQTL) data. ' +
-          'For many phenotypes, this visualization might be a bit "crowded". ' +
-          'All genes (= lines) displayed are significant ' +
-          '(p-value &le; 0.05/20000) in at least one tissue. ' +
-          'Hover over any line (gene) ' +
-          'to see the gene\'s associations across tissues. ' +
-          'The association statistics ' +
-          'were computed using ' +
-          '<a href="https://github.com/hakyimlab/MetaXcan">S-PrediXcan</a>. ' +
-          'Clicking on a specific gene will lead to ' +
-          'its tissue profile across all Navigome phenotypes.' +
-          '</p>' +
-          '</div>')
+adddiv = (
+    '<div class="col-lg-12 col-md-12 content-item content-item-1">' +
+    '<p>This is a parallel coordinates visualization ' +
+    'for per-tissue gene associations ' +
+    'with the phenotype of interest. ' +
+    'It shows which genes are significant for this phenotype ' +
+    'and in which tissues, based on gene expression (eQTL) data. ' +
+    'For many phenotypes, this visualization might be a bit "crowded". ' +
+    'All genes (= lines) displayed are significant ' +
+    '(p-value &le; 0.05/20000) in at least one tissue. ' +
+    'Hover over any line (gene) ' +
+    'to see the gene\'s associations across tissues. ' +
+    'The association statistics ' +
+    'were computed using ' +
+    '<a href="https://github.com/hakyimlab/MetaXcan">S-PrediXcan</a>. ' +
+    'Clicking on a specific gene will lead to ' +
+    'its tissue profile across all Navigome phenotypes.' +
+    '</p>' +
+    '</div>')
 
 for i in codes:
-    phenotype = csvfile[csvfile['code']==i]['phenotype'].iloc[0]
-    cmd = ['python', 'navigome_vis7_parallel.py',
-           'genes_chromosomes_data/'+str(i)+'_fusion_targetor',
-           'genes_tissues/'+str(i)+'.genestissues']
+    phenotype = csvfile[csvfile['code'] == i]['phenotype'].iloc[0]
+    cmd = [
+        'python',
+        workdir +
+        '/scripts/' +
+        'navigome_vis7_parallel.py',
+        workdir +
+        '/input/' +
+        'genes_chromosomes_data/' +
+        str(i) +
+        '_fusion_targetor',
+        workdir +
+        '/output/' +
+        'genes_tissues/' +
+        str(i) +
+        '.genestissues']
     process = subprocess.Popen(cmd, stdout=subprocess.PIPE)
     (output, err) = process.communicate()
     p_status = process.wait()
     head = newheader + '<title>' + "Genes (tissues): " + str(i) + '</title>'
     print(str(i))
-    with open('genes_tissues/'+str(i)+'.genestissues'+'.html','r') as f:
+    with open(workdir + '/output/' + 'genes_tissues/' + str(i) + '.genestissues' + '.html', 'r') as f:
         html = f.read()
-        soup = Soup(html,features="html.parser")
+        soup = Soup(html, features="html.parser")
         soup.head.contents = Soup(head,
                                   features="html.parser")
-        soup.div.insert_before(Soup("<h4>Gene associations in tissues - " + phenotype + ' (' + str(i) + ')' + "</h2>",features="html.parser"))
-        soup.div.insert_after(Soup(adddiv,features="html.parser"))
-        soup = str(soup).replace('embedOpt = {"mode": "vega-lite"};',
-                                 'embedOpt = {"mode": "vega-lite", "loader": vega.loader({target: \'_blank\'})};')
-    with open('genes_tissues/'+str(i)+'.genestissues'+'.html','w') as fout:
+        soup.div.insert_before(
+            Soup(
+                "<h4>Gene associations in tissues - " +
+                phenotype +
+                ' (' +
+                str(i) +
+                ')' +
+                "</h2>",
+                features="html.parser"))
+        soup.div.insert_after(Soup(adddiv, features="html.parser"))
+        soup = str(soup).replace(
+            'embedOpt = {"mode": "vega-lite"};',
+            'embedOpt = {"mode": "vega-lite", "loader": vega.loader({target: \'_blank\'})};')
+    with open(workdir + '/output/' + 'genes_tissues/' + str(i) + '.genestissues' + '.html', 'w') as fout:
         fout.write(str(soup))

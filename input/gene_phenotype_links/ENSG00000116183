@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+HEIG03,"PAPPA2",ENSG00000116183,10.321700,,,,,,,,,,,,,,,,,,,0.95413785849,,,,,,,,,,,,,,,,,,,,,,,,,,-0.794782371439,,,,
+LEAN04B,"PAPPA2",ENSG00000116183,10.361710,,,,,,,,,,,,,,,,,,,2.02305541819,,,,,,,,,,,,,,,,,,,,,,,,,,-0.743924653269,,,,
+LEAN04M,"PAPPA2",ENSG00000116183,6.229339,,,,,,,,,,,,,,,,,,,1.12060634643,,,,,,,,,,,,,,,,,,,,,,,,,,-1.2914042309,,,,
+LEAN04,"PAPPA2",ENSG00000116183,10.576181,,,,,,,,,,,,,,,,,,,1.86347085595,,,,,,,,,,,,,,,,,,,,,,,,,,-1.09469413705,,,,
+LEAN05B,"PAPPA2",ENSG00000116183,10.023100,,,,,,,,,,,,,,,,,,,1.94584099646,,,,,,,,,,,,,,,,,,,,,,,,,,-0.684415709782,,,,
+LEAN05M,"PAPPA2",ENSG00000116183,6.206489,,,,,,,,,,,,,,,,,,,1.14497387287,,,,,,,,,,,,,,,,,,,,,,,,,,-1.19119498264,,,,
+LEAN05,"PAPPA2",ENSG00000116183,11.244118,,,,,,,,,,,,,,,,,,,1.83463824659,,,,,,,,,,,,,,,,,,,,,,,,,,-1.01093722929,,,,
+LEAN06B,"PAPPA2",ENSG00000116183,18.189499,,,,,,,,,,,,,,,,,,,3.08508552616,,,,,,,,,,,,,,,,,,,,,,,,,,-0.328209838079,,,,
+LEAN06F,"PAPPA2",ENSG00000116183,7.257707,,,,,,,,,,,,,,,,,,,2.09762629088,,,,,,,,,,,,,,,,,,,,,,,,,,-0.262868175882,,,,
+LEAN06M,"PAPPA2",ENSG00000116183,13.406337,,,,,,,,,,,,,,,,,,,2.73300544838,,,,,,,,,,,,,,,,,,,,,,,,,,-0.228427389838,,,,
+LEAN06,"PAPPA2",ENSG00000116183,18.578018,,,,,,,,,,,,,,,,,,,3.25245312509,,,,,,,,,,,,,,,,,,,,,,,,,,-0.407606034807,,,,

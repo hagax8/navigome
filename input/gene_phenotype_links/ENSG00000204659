@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"CBY3",ENSG00000204659,11.740741,,,,,-1.0704442657242002,,,,,,0.6578003294,,,,,,,,,,,,,,,0.446170206211,,,,,,,,,,,,,,,,,,,,,,,
+BLOO09,"CBY3",ENSG00000204659,12.844634,,,,,-0.6601788399871648,,,,,,0.922454961426,,,,,,,,,,,,,,,0.535105271551,,,,,,,,,,,,,,,,,,,,,,,
+BLOO10,"CBY3",ENSG00000204659,11.082494,,,,,-0.6293700067437203,,,,,,0.765016543158,,,,,,,,,,,,,,,0.461630362802,,,,,,,,,,,,,,,,,,,,,,,
+BLOO12,"CBY3",ENSG00000204659,11.221639,,,,,-0.6955542985500619,,,,,,0.28845362719,,,,,,,,,,,,,,,0.658509132121,,,,,,,,,,,,,,,,,,,,,,,
+BLOO13,"CBY3",ENSG00000204659,12.195867,,,,,-0.9795319072892372,,,,,,0.761404483587,,,,,,,,,,,,,,,0.49473665196,,,,,,,,,,,,,,,,,,,,,,,
+BLOO19,"CBY3",ENSG00000204659,25.492117,,,,,-1.1293871256552286,,,,,,0.547158644641,,,,,,,,,,,,,,,0.636909424814,,,,,,,,,,,,,,,,,,,,,,,
+BLOO28,"CBY3",ENSG00000204659,22.685880,,,,,1.2539575894142116,,,,,,-0.411547773268,,,,,,,,,,,,,,,-0.809548352869,,,,,,,,,,,,,,,,,,,,,,,
+BLOO30,"CBY3",ENSG00000204659,11.970251,,,,,-0.7998238716910244,,,,,,0.862041441393,,,,,,,,,,,,,,,0.514343219369,,,,,,,,,,,,,,,,,,,,,,,
+BLOO32,"CBY3",ENSG00000204659,6.631490,,,,,-1.3323387828355744,,,,,,0.467295495174,,,,,,,,,,,,,,,-0.113920046613,,,,,,,,,,,,,,,,,,,,,,,

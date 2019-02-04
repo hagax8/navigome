@@ -4,28 +4,32 @@ from sys import argv
 
 correlationfile = pd.read_csv(argv[1])
 coordinates = pd.read_csv(argv[2])
-f_reference = pd.read_csv("gwas_reference")
+f_reference = pd.read_csv(argv[5], keep_default_na=False)
 bonferroni_cutoff = argv[3]
 coordinates = coordinates[['code', 'x', 'y']]
 df = correlationfile.set_index('code').join(coordinates.set_index('code'),
-                                            on='code',how='left').join(
-                                            f_reference.set_index('code'),
-                                            on='code',how='left')
+                                            on='code', how='left').join(
+    f_reference.set_index('code'),
+    on='code', how='left')
 df.reset_index(inplace=True)
 df.set_index('code', drop=False, inplace=True)
 
 code = argv[4]
 
+
 def funcsel(x): return code if x == code else 'other phenotypes'
+
 
 def funcsign(x): return 'positive' if x >= 0.0 else 'negative'
 
-def label_sig(row,limit):
-	if row['pvalue'] <= limit:
-		result = True
-	else:
-		result = False
-	return result
+
+def label_sig(row, limit):
+    if row['pvalue'] <= limit:
+        result = True
+    else:
+        result = False
+    return result
+
 
 def label_neg(row):
     if row['genetic_correlation'] < 0:
@@ -33,19 +37,24 @@ def label_neg(row):
     else:
         return 'positive'
 
-df['cutoff1']=df.apply(lambda row: label_sig(row,0.05),axis=1)
-df['cutoff2']=df.apply(lambda row: label_sig(row,0.005),axis=1)
-df['cutoff3']=df.apply(lambda row: label_sig(row,float(bonferroni_cutoff)),axis=1)
-df['direction']=df.apply(lambda row: label_neg(row),axis=1)
-selectioncat = alt.selection_multi(fields=['category'],empty='all')
-selectionsig = alt.selection_multi(fields=['cutoff1'],empty='all')
-selectionsig2 = alt.selection_multi(fields=['cutoff2'],empty='all')
-selectionsig3 = alt.selection_multi(fields=['cutoff3'],empty='all')
-selectionneg = alt.selection_multi(fields=['direction'],empty='all')
+
+df['cutoff1'] = df.apply(lambda row: label_sig(row, 0.05), axis=1)
+df['cutoff2'] = df.apply(lambda row: label_sig(row, 0.005), axis=1)
+df['cutoff3'] = df.apply(
+    lambda row: label_sig(
+        row,
+        float(bonferroni_cutoff)),
+    axis=1)
+df['direction'] = df.apply(lambda row: label_neg(row), axis=1)
+selectioncat = alt.selection_multi(fields=['category'], empty='all')
+selectionsig = alt.selection_multi(fields=['cutoff1'], empty='all')
+selectionsig2 = alt.selection_multi(fields=['cutoff2'], empty='all')
+selectionsig3 = alt.selection_multi(fields=['cutoff3'], empty='all')
+selectionneg = alt.selection_multi(fields=['direction'], empty='all')
 
 colorcat = alt.condition(selectioncat,
-                      alt.Color('category:N', legend=None),
-                      alt.value('lightgray'))
+                         alt.Color('category:N', legend=None),
+                         alt.value('lightgray'))
 colorsig = alt.condition(selectionsig,
                          alt.value('black'),
                          alt.value('lightgray'))
@@ -64,6 +73,7 @@ df['abs_genetic_correlation'] = df['genetic_correlation'].apply(abs)
 df['correlation_direction'] = df['genetic_correlation'].apply(funcsign)
 data2 = pd.DataFrame([{"ThresholdValue": 0.0, "Threshold": "hazardous"}])
 
+
 def correctphen(x):
     x = x.replace('.', '')
     x = x.replace('Type-2', 'Type 2')
@@ -74,6 +84,7 @@ def correctphen(x):
     x = x.replace('DI', 'DI, disposition index')
     x = x.replace('AIR', 'AIR, acute insulin response')
     return x
+
 
 df['phenotype'] = df['phenotype'].apply(correctphen)
 df['phenotype_reference'] = df['phenotype'].astype(
@@ -156,8 +167,6 @@ chart1 = chartneutral.encode(
     size=alt.Size(
         'abs_genetic_correlation:Q',
         legend=None),
-        #legend=alt.Legend(
-        #    title='genetic correlation magnitude')),
     href=alt.Href('urlcorrelations:N')).transform_filter(
     (alt.datum.code != code)).add_selection(
         selection2).transform_filter(
@@ -196,8 +205,6 @@ chart1_bis = chartneutral_bis.encode(
             labels=False)),
     size=alt.Size(
         'abs_genetic_correlation:Q',
-        #legend=alt.Legend(
-        #    orient='bottom-right')),
         legend=None),
     shape=alt.Shape('selected_phenotype:N'),
     href=alt.Href('urlcorrelations:N')).transform_filter(
@@ -303,15 +310,16 @@ rule = alt.Chart(data2).mark_rule().encode(
 )
 
 legendcategory = alt.Chart().mark_square().encode(
-    y=alt.Y('category:N', axis=alt.Axis(orient='left',title="Click on a category")),
+    y=alt.Y(
+        'category:N',
+        axis=alt.Axis(
+            orient='left',
+            title="Click on a category")),
     color=colorcat,
-    size=alt.value(100)
-).add_selection(
-    selectioncat
-)
+    size=alt.value(100)).add_selection(selectioncat)
 
 legendsig = alt.Chart().mark_square().encode(
-    y=alt.Y('cutoff1:N', axis=alt.Axis(orient='left',title=u"p \u2264 0.05")),
+    y=alt.Y('cutoff1:N', axis=alt.Axis(orient='left', title=u"p \u2264 0.05")),
     size=alt.value(100),
     color=colorsig
 ).add_selection(
@@ -319,7 +327,7 @@ legendsig = alt.Chart().mark_square().encode(
 )
 
 legendsig2 = alt.Chart().mark_square().encode(
-    y=alt.Y('cutoff2:N', axis=alt.Axis(orient='left',title=u"p \u2264 0.005")),
+    y=alt.Y('cutoff2:N', axis=alt.Axis(orient='left', title=u"p \u2264 0.005")),
     size=alt.value(100),
     color=colorsig2
 ).add_selection(
@@ -338,17 +346,17 @@ legendsig3 = alt.Chart().mark_square().encode(
 )
 
 legendneg = alt.Chart().mark_square().encode(
-    y=alt.Y('direction:N', axis=alt.Axis(orient='left',title="Direction")),
+    y=alt.Y('direction:N', axis=alt.Axis(orient='left', title="Direction")),
     size=alt.value(100),
     color=colorneg
 ).add_selection(
     selectionneg
 )
 
-legend = alt.vconcat(legendcategory,legendsig)
-legend = alt.vconcat(legend,legendsig2)
-legend = alt.vconcat(legend,legendsig3)
-legend = alt.vconcat(legend,legendneg)
+legend = alt.vconcat(legendcategory, legendsig)
+legend = alt.vconcat(legend, legendsig2)
+legend = alt.vconcat(legend, legendsig3)
+legend = alt.vconcat(legend, legendneg)
 
 legendcat = errorbars + chartlegend + rule
 
@@ -356,10 +364,17 @@ chart3 = alt.layer(chart1, chart2)
 chart3_bis = alt.layer(chart1_bis, chart2_bis)
 chart4 = alt.vconcat(chart3, chart3_bis).resolve_scale(color='independent')
 chartfinal = alt.hconcat(
-    legend, chart4, legendcat, data=df).configure_axis(
-        grid=False, labelLimit=150, labelFontSize=10).properties(
-            title='Interactive t-SNE map of genetic correlations for '+phenref).configure_title(
-                offset=20, fontSize=12)
+    legend,
+    chart4,
+    legendcat,
+    data=df).configure_axis(
+        grid=False,
+        labelLimit=150,
+        labelFontSize=10).properties(
+            title='Interactive t-SNE map of genetic correlations for ' +
+            phenref).configure_title(
+                offset=20,
+    fontSize=12)
 
 
-chartfinal.save(argv[5] + '.html')
+chartfinal.save(argv[6] + '.html')

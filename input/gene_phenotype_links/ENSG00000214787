@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+ALZH01,"MS4A4E",ENSG00000214787,12.307964,,,,,,,,,,,,4.04082489179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO05,"MS4A4E",ENSG00000214787,5.835766,,,,,,,,,,,,3.88811136214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO06,"MS4A4E",ENSG00000214787,9.206391,,,,,,,,,,,,2.9480594222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO09,"MS4A4E",ENSG00000214787,9.559784,,,,,,,,,,,,2.74928388509,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO10,"MS4A4E",ENSG00000214787,9.169662,,,,,,,,,,,,3.14586798595,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO12,"MS4A4E",ENSG00000214787,5.612806,,,,,,,,,,,,2.68260229635,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO13,"MS4A4E",ENSG00000214787,9.355621,,,,,,,,,,,,2.89067489699,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO24,"MS4A4E",ENSG00000214787,11.024178,,,,,,,,,,,,-2.92680657254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO30,"MS4A4E",ENSG00000214787,9.822117,,,,,,,,,,,,2.860491907,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO32,"MS4A4E",ENSG00000214787,8.940891,,,,,,,,,,,,2.11802586584,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OSTE04,"MS4A4E",ENSG00000214787,20.790968,,,,,,,,,,,,5.73425779055,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

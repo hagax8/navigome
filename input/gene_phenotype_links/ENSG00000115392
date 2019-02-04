@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04,"FANCL",ENSG00000115392,4.309804,,,,,2.7648709342797533,,,,2.30868047907,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.76915544734,,,,,,,,,
+BODY08B,"FANCL",ENSG00000115392,2.881272,,,,,3.44547041657587,,,,1.62871795919,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.72565640122,,,,,,,,,
+BODY08,"FANCL",ENSG00000115392,2.966174,,,,,3.286279794333234,,,,1.44357351622,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.88252276282,,,,,,,,,
+FATM04,"FANCL",ENSG00000115392,3.198802,,,,,3.2349923176660362,,,,1.34912133583,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.88041438543,,,,,,,,,
+NEUR02B,"FANCL",ENSG00000115392,8.659794,,,,,0.0524701610004813,,,,1.34004523625,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.78493254113,,,,,,,,,
+NEUR02M,"FANCL",ENSG00000115392,6.706107,,,,,-0.17259395947439263,,,,1.03156687731,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.3796656275,,,,,,,,,
+SCHI01,"FANCL",ENSG00000115392,9.953427,,,,,-0.15100485669927552,,,,2.6076814704,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.27011941611,,,,,,,,,
+SCHI02M,"FANCL",ENSG00000115392,6.401790,,,,,-0.3179997765188118,,,,1.65502410137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.881522968734,,,,,,,,,
+SCHI02,"FANCL",ENSG00000115392,8.707212,,,,,-0.2248082630552121,,,,2.62286151592,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.36665486637,,,,,,,,,

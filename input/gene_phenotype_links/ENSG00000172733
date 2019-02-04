@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"PURG",ENSG00000172733,12.762356,,,,,,,,,,,,,,,,,,,,,,,,2.25304183943,,,,,,,,,,,,,,,,,-0.00718930379152,,,,,,,,
+BFPC04M,"PURG",ENSG00000172733,8.162513,,,,,,,,,,,,,,,,,,,,,,,,2.75165438546,,,,,,,,,,,,,,,,,0.479751164591,,,,,,,,
+BFPC04,"PURG",ENSG00000172733,9.547217,,,,,,,,,,,,,,,,,,,,,,,,2.02390925214,,,,,,,,,,,,,,,,,-0.0418571509638,,,,,,,,
+BODY08B,"PURG",ENSG00000172733,9.523241,,,,,,,,,,,,,,,,,,,,,,,,1.16670742483,,,,,,,,,,,,,,,,,-0.0184865070237,,,,,,,,
+BODY08M,"PURG",ENSG00000172733,7.965251,,,,,,,,,,,,,,,,,,,,,,,,1.82954688811,,,,,,,,,,,,,,,,,0.104907398454,,,,,,,,
+BODY08,"PURG",ENSG00000172733,8.438600,,,,,,,,,,,,,,,,,,,,,,,,1.00360691203,,,,,,,,,,,,,,,,,-0.0237463881988,,,,,,,,
+EDUC03,"PURG",ENSG00000172733,16.081246,,,,,,,,,,,,,,,,,,,,,,,,0.815470854374,,,,,,,,,,,,,,,,,0.470516482756,,,,,,,,
+FATM04B,"PURG",ENSG00000172733,9.112940,,,,,,,,,,,,,,,,,,,,,,,,1.68067287411,,,,,,,,,,,,,,,,,-0.440955334168,,,,,,,,
+FATM04M,"PURG",ENSG00000172733,5.847498,,,,,,,,,,,,,,,,,,,,,,,,2.3454234941,,,,,,,,,,,,,,,,,-0.0513046450525,,,,,,,,
+FATM04,"PURG",ENSG00000172733,10.209919,,,,,,,,,,,,,,,,,,,,,,,,1.45533794533,,,,,,,,,,,,,,,,,-0.461832117926,,,,,,,,

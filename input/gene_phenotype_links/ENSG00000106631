@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+GLYC04,"MYL7",ENSG00000106631,17.110457,,,,,,,,,,,,,,,,,,1.5914739263,1.53652000001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC06,"MYL7",ENSG00000106631,6.392491,,,,,,,,,,,,,,,,,,-0.43717727451,0.836248436025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC10,"MYL7",ENSG00000106631,9.888267,,,,,,,,,,,,,,,,,,1.26820963322,1.81537022754,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC19F,"MYL7",ENSG00000106631,22.063230,,,,,,,,,,,,,,,,,,2.5165046201,0.828514857187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC19M,"MYL7",ENSG00000106631,17.323544,,,,,,,,,,,,,,,,,,2.18456613419,1.31085823022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC19,"MYL7",ENSG00000106631,38.907630,,,,,,,,,,,,,,,,,,3.31523443145,1.48709838738,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC22,"MYL7",ENSG00000106631,20.384850,,,,,,,,,,,,,,,,,,2.98003278214,3.61810112125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GLYC35,"MYL7",ENSG00000106631,20.890489,,,,,,,,,,,,,,,,,,3.71484982252,1.77640065949,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"MYL7",ENSG00000106631,5.673070,,,,,,,,,,,,,,,,,,-0.803596809318,0.552256471624,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

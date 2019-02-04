@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY08B,"CALCA",ENSG00000110680,6.606793,,,,,,,,,,,,,,,1.50729838504,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.3322000149,,,,
+BODY08,"CALCA",ENSG00000110680,5.986826,,,,,,,,,,,,,,,1.50705861149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.51903550091,,,,
+FATM02F,"CALCA",ENSG00000110680,6.210603,,,,,,,,,,,,,,,-0.108301380623,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.763573060876,,,,
+FATM03F,"CALCA",ENSG00000110680,6.142885,,,,,,,,,,,,,,,-0.114852512024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.780299452761,,,,
+FATM04B,"CALCA",ENSG00000110680,9.498516,,,,,,,,,,,,,,,1.48575593896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.225173458,,,,
+FATM04F,"CALCA",ENSG00000110680,6.709476,,,,,,,,,,,,,,,1.27259691673,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.64508275923,,,,
+FATM04,"CALCA",ENSG00000110680,10.378170,,,,,,,,,,,,,,,1.52532174608,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.56231729168,,,,
+LEAN06B,"CALCA",ENSG00000110680,7.352421,,,,,,,,,,,,,,,1.77681854985,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.45291116638,,,,
+LEAN06F,"CALCA",ENSG00000110680,5.637216,,,,,,,,,,,,,,,1.75520910357,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.400995899578,,,,
+LEAN06,"CALCA",ENSG00000110680,6.002273,,,,,,,,,,,,,,,1.40275728109,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.990659298,,,,
+VITD01,"CALCA",ENSG00000110680,6.494877,,,,,,,,,,,,,,,1.54616669482,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.556052059761,,,,

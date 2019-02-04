@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO04,"POC1A",ENSG00000164087,8.605899,-2.31800878525,,,,-0.565111020898954,,,,,,,,,,,,8.7062169868,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO21,"POC1A",ENSG00000164087,5.682668,-2.28363380942,,,,-0.1365411027662221,,,,,,,,,,,,7.96672773014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO22,"POC1A",ENSG00000164087,7.129707,-2.53214984198,,,,-0.17289198806132294,,,,,,,,,,,,8.47766452428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO23,"POC1A",ENSG00000164087,2.287948,-2.09186610896,,,,0.5959930801491649,,,,,,,,,,,,5.3664460638,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO36,"POC1A",ENSG00000164087,8.472963,-1.96339604999,,,,-0.42378498094153566,,,,,,,,,,,,8.02187287923,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CROS01,"POC1A",ENSG00000164087,2.451783,0.216030141829,,,,2.4092896852920265,,,,,,,,,,,,5.22553636037,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HEIG03,"POC1A",ENSG00000164087,2.024665,1.96413559601,,,,-1.8158601169033801,,,,,,,,,,,,5.73233664204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MENA02F,"POC1A",ENSG00000164087,7.305325,2.69279466421,,,,4.50511412306637,,,,,,,,,,,,-1.96913666719,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NEUR02B,"POC1A",ENSG00000164087,1.679604,-2.50538827874,,,,0.08986661752338145,,,,,,,,,,,,5.09102546692,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

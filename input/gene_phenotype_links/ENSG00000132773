@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"TOE1",ENSG00000132773,19.593869,,,,,-0.5733804009593182,,,,,,,,,,,,,,,,,,,,,,2.37208023254,,,,,,,,,,,,,,,,,,,,,,
+BLOO02,"TOE1",ENSG00000132773,8.571363,,,,,4.780152219239949,,,,,,,,,,,,,,,,,,,,,,-3.64436487835,,,,,,,,,,,,,,,,,,,,,,
+BLOO03,"TOE1",ENSG00000132773,7.436211,,,,,3.7601241073312117,,,,,,,,,,,,,,,,,,,,,,-2.49096907553,,,,,,,,,,,,,,,,,,,,,,
+BLOO04,"TOE1",ENSG00000132773,3.566422,,,,,4.984576904889614,,,,,,,,,,,,,,,,,,,,,,-1.45454703739,,,,,,,,,,,,,,,,,,,,,,
+BLOO12,"TOE1",ENSG00000132773,6.042805,,,,,4.768066385102367,,,,,,,,,,,,,,,,,,,,,,-0.968394683149,,,,,,,,,,,,,,,,,,,,,,
+BLOO20,"TOE1",ENSG00000132773,8.342103,,,,,3.8690605141147394,,,,,,,,,,,,,,,,,,,,,,-2.42661164156,,,,,,,,,,,,,,,,,,,,,,
+BLOO21,"TOE1",ENSG00000132773,10.774226,,,,,5.6944044971491365,,,,,,,,,,,,,,,,,,,,,,-0.890633563519,,,,,,,,,,,,,,,,,,,,,,
+BLOO22,"TOE1",ENSG00000132773,11.800382,,,,,6.431337568187718,,,,,,,,,,,,,,,,,,,,,,-1.45163904058,,,,,,,,,,,,,,,,,,,,,,
+BLOO23,"TOE1",ENSG00000132773,16.765964,,,,,6.2821451545377185,,,,,,,,,,,,,,,,,,,,,,-1.06161847861,,,,,,,,,,,,,,,,,,,,,,
+BLOO29,"TOE1",ENSG00000132773,15.546131,,,,,-2.301860796154996,,,,,,,,,,,,,,,,,,,,,,-3.48478814178,,,,,,,,,,,,,,,,,,,,,,
+BLOO33,"TOE1",ENSG00000132773,15.642790,,,,,-1.895669153533353,,,,,,,,,,,,,,,,,,,,,,0.988193804617,,,,,,,,,,,,,,,,,,,,,,
+BLOO34,"TOE1",ENSG00000132773,12.758827,,,,,1.4365520269726524,,,,,,,,,,,,,,,,,,,,,,-4.01524086203,,,,,,,,,,,,,,,,,,,,,,

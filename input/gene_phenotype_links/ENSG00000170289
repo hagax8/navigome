@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY06B,"CNGB3",ENSG00000170289,6.142842,,3.86199631587,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.064943198,,,,
+BODY06,"CNGB3",ENSG00000170289,5.426919,,3.59135289572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.83998344239,,,,
+BODY07B,"CNGB3",ENSG00000170289,5.731726,,3.83353253348,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.01615061757,,,,
+BODY07,"CNGB3",ENSG00000170289,5.097252,,3.55579509532,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.78688881354,,,,
+BODY08B,"CNGB3",ENSG00000170289,6.093493,,3.67090839466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.9669813027,,,,
+BODY08,"CNGB3",ENSG00000170289,5.640753,,3.68171170285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.93888167215,,,,
+EDUC01,"CNGB3",ENSG00000170289,5.613965,,-3.19826065281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.74421122149,,,,
+EDUC03,"CNGB3",ENSG00000170289,12.171031,,-4.20336074794,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.23754226753,,,,
+LEAN05B,"CNGB3",ENSG00000170289,5.673951,,2.12312262598,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.16891957131,,,,
+LEAN06B,"CNGB3",ENSG00000170289,6.862329,,3.27859435324,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.02418696583,,,,
+LEAN06,"CNGB3",ENSG00000170289,5.676686,,2.87796008361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.91356776898,,,,

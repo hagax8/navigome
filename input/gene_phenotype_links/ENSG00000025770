@@ -1,0 +1,14 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"NCAPH2",ENSG00000025770,12.818557,,,,,0.24052461893555144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.6428872643,,,,,,,-0.474965037644
+BLOO02,"NCAPH2",ENSG00000025770,55.323188,,,,,-4.3082295658863226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.671610895553,,,,,,,-3.84957229458
+BLOO04,"NCAPH2",ENSG00000025770,18.136291,,,,,-3.3168304806000246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.4420489148,,,,,,,-3.12476365184
+BLOO05,"NCAPH2",ENSG00000025770,6.192946,,,,,0.7581971939296075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.56697564237,,,,,,,2.36579471101
+BLOO19,"NCAPH2",ENSG00000025770,8.403843,,,,,-0.64600057337643,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.49053895225,,,,,,,-2.94163380305
+BLOO22,"NCAPH2",ENSG00000025770,7.108290,,,,,-1.8441169573621716,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.644177591456,,,,,,,-1.38161787661
+BLOO26,"NCAPH2",ENSG00000025770,60.096042,,,,,6.716199859745852,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.168313305066,,,,,,,4.7392453168
+BLOO27,"NCAPH2",ENSG00000025770,94.995894,,,,,8.265241646947466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.376376908482,,,,,,,6.33713677544
+BLOO28,"NCAPH2",ENSG00000025770,8.319347,,,,,0.9330536331722864,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.98274144674,,,,,,,2.83318359166
+BLOO33,"NCAPH2",ENSG00000025770,10.462420,,,,,-0.5489112953958697,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.63266574942,,,,,,,-1.52602374504
+BLOO35,"NCAPH2",ENSG00000025770,20.403381,,,,,-3.399345498921965,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.43147198564,,,,,,,-0.718185356333
+BLOO36,"NCAPH2",ENSG00000025770,6.950860,,,,,-2.3288077015427016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.72066002313,,,,,,,-2.40928997832
+SCLE02,"NCAPH2",ENSG00000025770,5.656946,,,,,1.4090892037185485,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.2152941227,,,,,,,-2.17068782575

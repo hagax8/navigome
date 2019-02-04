@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+LEAN04B,"NUP37",ENSG00000075188,7.574058,,,,,-0.4451400274718114,,,,,,,,,,,,,,,,,,,,,,1.184148746,,,,,,,,,,,,,,,,,,,,,,
+LEAN04M,"NUP37",ENSG00000075188,9.410766,,,,,1.279574148935867,,,,,,,,,,,,,,,,,,,,,,1.4960142365,,,,,,,,,,,,,,,,,,,,,,
+LEAN04,"NUP37",ENSG00000075188,12.654803,,,,,0.3569554577248899,,,,,,,,,,,,,,,,,,,,,,1.47080502415,,,,,,,,,,,,,,,,,,,,,,
+LEAN05B,"NUP37",ENSG00000075188,8.616759,,,,,-0.34463954545850733,,,,,,,,,,,,,,,,,,,,,,1.27898428621,,,,,,,,,,,,,,,,,,,,,,
+LEAN05M,"NUP37",ENSG00000075188,10.480553,,,,,1.270493954349473,,,,,,,,,,,,,,,,,,,,,,1.49722744468,,,,,,,,,,,,,,,,,,,,,,
+LEAN05,"NUP37",ENSG00000075188,10.901010,,,,,0.4109424372004637,,,,,,,,,,,,,,,,,,,,,,1.5223188814,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"NUP37",ENSG00000075188,11.690114,,,,,-0.1440998477013565,,,,,,,,,,,,,,,,,,,,,,0.240989878003,,,,,,,,,,,,,,,,,,,,,,
+LEAN06F,"NUP37",ENSG00000075188,5.913889,,,,,-0.6125700765906442,,,,,,,,,,,,,,,,,,,,,,-0.357251941369,,,,,,,,,,,,,,,,,,,,,,
+LEAN06M,"NUP37",ENSG00000075188,13.576312,,,,,0.6783144693810955,,,,,,,,,,,,,,,,,,,,,,1.02929055226,,,,,,,,,,,,,,,,,,,,,,
+LEAN06,"NUP37",ENSG00000075188,14.261703,,,,,0.1574917086234038,,,,,,,,,,,,,,,,,,,,,,0.725864528872,,,,,,,,,,,,,,,,,,,,,,

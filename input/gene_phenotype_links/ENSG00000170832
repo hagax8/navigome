@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"USP32",ENSG00000170832,3.496264,,,,,,,,,,,,,,,,,,,,,-3.54927064478,,,,,,,,,,,,,,,,,,,,,4.87946036519,,,,,,-0.339085351165,
+BLOO09,"USP32",ENSG00000170832,3.241686,,,,,,,,,,,,,,,,,,,,,-3.28403969849,,,,,,,,,,,,,,,,,,,,,4.92553185609,,,,,,-0.531127654972,
+BLOO10,"USP32",ENSG00000170832,3.369105,,,,,,,,,,,,,,,,,,,,,-3.33481798069,,,,,,,,,,,,,,,,,,,,,5.05906247154,,,,,,-0.623299005043,
+BLOO12,"USP32",ENSG00000170832,4.246271,,,,,,,,,,,,,,,,,,,,,-3.60573627613,,,,,,,,,,,,,,,,,,,,,5.10175741214,,,,,,-1.02124609631,
+BLOO13,"USP32",ENSG00000170832,3.422761,,,,,,,,,,,,,,,,,,,,,-3.56580355231,,,,,,,,,,,,,,,,,,,,,4.85829869965,,,,,,-0.39516699708,
+BLOO30,"USP32",ENSG00000170832,2.786270,,,,,,,,,,,,,,,,,,,,,-3.23753487392,,,,,,,,,,,,,,,,,,,,,4.93929995827,,,,,,-0.52069125302,
+LEAN06B,"USP32",ENSG00000170832,0.335283,,,,,,,,,,,,,,,,,,,,,-1.59963339907,,,,,,,,,,,,,,,,,,,,,-2.68144109875,,,,,,-5.19528487849,
+LEAN06,"USP32",ENSG00000170832,0.617461,,,,,,,,,,,,,,,,,,,,,-1.2047658364,,,,,,,,,,,,,,,,,,,,,-1.94177659578,,,,,,-5.49351767388,
+URIN09,"USP32",ENSG00000170832,0.059598,,,,,,,,,,,,,,,,,,,,,0.955512030125,,,,,,,,,,,,,,,,,,,,,4.91137069204,,,,,,0.174731618304,

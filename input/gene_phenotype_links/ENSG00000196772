@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"OR14A16",ENSG00000196772,8.799615,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.176905851263,,,,-2.27633821683,,,,
+BLOO04,"OR14A16",ENSG00000196772,26.968188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-9.80097089696,,,,9.31298354757,,,,
+BLOO21,"OR14A16",ENSG00000196772,28.526207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-9.20782334357,,,,8.1913070974,,,,
+BLOO22,"OR14A16",ENSG00000196772,23.805930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-9.32361090692,,,,7.99342752012,,,,
+BLOO23,"OR14A16",ENSG00000196772,23.723515,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.41084672916,,,,3.0740329352,,,,
+BLOO27,"OR14A16",ENSG00000196772,7.957385,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4988919293,,,,0.584844967615,,,,
+BLOO29,"OR14A16",ENSG00000196772,26.237291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.38065336813,,,,-3.94101022736,,,,
+BLOO33,"OR14A16",ENSG00000196772,4.680436,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.2297571148,,,,-4.77164742173,,,,
+BLOO34,"OR14A16",ENSG00000196772,24.722162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.01611951537,,,,10.3837805594,,,,
+BLOO35,"OR14A16",ENSG00000196772,11.078954,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.23208734732,,,,3.51721497001,,,,
+BLOO36,"OR14A16",ENSG00000196772,47.121157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-9.81328673339,,,,9.60987934322,,,,

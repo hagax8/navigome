@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO03,"SLC10A6",ENSG00000145283,6.060411,,,3.20570276557,,,,,,,,,,,,,,,,,,-0.423416393656,,,,,,,,,,,4.35603216408,,,,,,,,,,,,,,,,,
+BLOO08,"SLC10A6",ENSG00000145283,19.676109,,,1.98962241966,,,,,,,,,,,,,,,,,,-0.870994807802,,,,,,,,,,,6.67427299065,,,,,,,,,,,,,,,,,
+BLOO14,"SLC10A6",ENSG00000145283,18.109154,,,2.98865105596,,,,,,,,,,,,,,,,,,-0.766318793572,,,,,,,,,,,7.36925997561,,,,,,,,,,,,,,,,,
+BLOO15,"SLC10A6",ENSG00000145283,20.586935,,,3.00474569111,,,,,,,,,,,,,,,,,,-0.445118951905,,,,,,,,,,,7.03238281796,,,,,,,,,,,,,,,,,
+BLOO20,"SLC10A6",ENSG00000145283,6.097480,,,3.02193331664,,,,,,,,,,,,,,,,,,0.389645621332,,,,,,,,,,,3.51180408931,,,,,,,,,,,,,,,,,
+BLOO26,"SLC10A6",ENSG00000145283,8.802389,,,0.301947376851,,,,,,,,,,,,,,,,,,-3.43892374917,,,,,,,,,,,4.17335584429,,,,,,,,,,,,,,,,,
+BLOO27,"SLC10A6",ENSG00000145283,8.661603,,,0.1102106732,,,,,,,,,,,,,,,,,,-3.06791483325,,,,,,,,,,,3.60829285846,,,,,,,,,,,,,,,,,
+CHOL22,"SLC10A6",ENSG00000145283,5.633540,,,0.246825608203,,,,,,,,,,,,,,,,,,-0.3131126986,,,,,,,,,,,0.421824625273,,,,,,,,,,,,,,,,,
+FATT07,"SLC10A6",ENSG00000145283,6.620948,,,0.596146151816,,,,,,,,,,,,,,,,,,0.689956180507,,,,,,,,,,,1.45374830203,,,,,,,,,,,,,,,,,
+FATT21,"SLC10A6",ENSG00000145283,5.608765,,,-0.702921941533,,,,,,,,,,,,,,,,,,-1.21421326004,,,,,,,,,,,-1.38583771588,,,,,,,,,,,,,,,,,
+OSTE04,"SLC10A6",ENSG00000145283,5.832122,,,3.76766861211,,,,,,,,,,,,,,,,,,-2.33006832713,,,,,,,,,,,-1.72982741872,,,,,,,,,,,,,,,,,
+TRGL03,"SLC10A6",ENSG00000145283,6.535183,,,1.66716378306,,,,,,,,,,,,,,,,,,-0.64359355237,,,,,,,,,,,-2.0394917041,,,,,,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"ERC2",ENSG00000187672,8.199854,,,,,,,0.802963393949,,2.32150401768,,,,,,,,,2.722112402,2.01029827376,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO29,"ERC2",ENSG00000187672,30.329290,,,,,,,-1.61043346657,,-4.36760094795,,,,,,,,,-inf,-5.35951386426,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CHRO01,"ERC2",ENSG00000187672,6.192594,,,,,,,-0.922502053257,,0.404411383923,,,,,,,,,-3.12472548549,-1.26046982037,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HEIG03,"ERC2",ENSG00000187672,6.527756,,,,,,,-0.90885064656,,-2.18361953663,,,,,,,,,1.14554550804,1.11796804583,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HIPC01,"ERC2",ENSG00000187672,6.084912,,,,,,,-1.53545251371,,-2.44401106648,,,,,,,,,2.59288571764,2.79913915341,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HIPC02,"ERC2",ENSG00000187672,6.333164,,,,,,,-1.51773342221,,-2.41842272435,,,,,,,,,2.5580734723,2.70816425277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HIPC03,"ERC2",ENSG00000187672,7.820563,,,,,,,-1.80508387639,,-2.97494469094,,,,,,,,,1.36095439392,2.06589358577,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HIPC04,"ERC2",ENSG00000187672,8.913213,,,,,,,-1.79075555369,,-2.94606463914,,,,,,,,,1.33178316136,1.99294106866,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"ERC2",ENSG00000187672,6.658882,,,,,,,-2.12949949447,,-2.96860396894,,,,,,,,,3.56133552711,3.03946747742,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06M,"ERC2",ENSG00000187672,6.003918,,,,,,,-1.12663362748,,-2.73438115726,,,,,,,,,3.91619823011,3.04364339444,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06,"ERC2",ENSG00000187672,7.798030,,,,,,,-1.77748254159,,-3.15133744352,,,,,,,,,4.17037646632,3.39457826924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OSTE04,"ERC2",ENSG00000187672,22.155535,,,,,,,-0.898170314991,,-1.5412393231,,,,,,,,,5.73827180157,2.13027016089,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

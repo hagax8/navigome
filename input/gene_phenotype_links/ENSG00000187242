@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"KRT12",ENSG00000187242,0.162866,,,,,,,,,,,,,,,,,,,,,,,,,,-2.66349116322,,,,-0.590593097545,,-3.36562157862,,,,-17.7991075118,,,,,,,,,,,,,
+BLOO08,"KRT12",ENSG00000187242,0.465758,,,,,,,,,,,,,,,,,,,,,,,,,,-1.1074077492,,,,-0.654004068915,,-1.69521525856,,,,-7.31917871742,,,,,,,,,,,,,
+BLOO09,"KRT12",ENSG00000187242,0.138711,,,,,,,,,,,,,,,,,,,,,,,,,,-2.57460752461,,,,-0.700052201124,,-3.35369078503,,,,-17.7643202283,,,,,,,,,,,,,
+BLOO10,"KRT12",ENSG00000187242,0.113244,,,,,,,,,,,,,,,,,,,,,,,,,,-2.3409602756,,,,-0.627940997406,,-3.24592092555,,,,-17.0211870462,,,,,,,,,,,,,
+BLOO12,"KRT12",ENSG00000187242,0.080456,,,,,,,,,,,,,,,,,,,,,,,,,,-1.54429341181,,,,0.0879858923631,,-3.46638650673,,,,-15.8606855168,,,,,,,,,,,,,
+BLOO13,"KRT12",ENSG00000187242,0.691713,,,,,,,,,,,,,,,,,,,,,,,,,,-2.56924618271,,,,-1.00107953467,,-3.53503150535,,,,-11.6586652048,,,,,,,,,,,,,
+BLOO18,"KRT12",ENSG00000187242,1.472576,,,,,,,,,,,,,,,,,,,,,,,,,,1.0660795451,,,,0.0744158419545,,2.355628867,,,,4.83728343515,,,,,,,,,,,,,
+BLOO19,"KRT12",ENSG00000187242,0.469839,,,,,,,,,,,,,,,,,,,,,,,,,,-2.16911273104,,,,-0.551370754052,,-2.19092591125,,,,-8.37348686573,,,,,,,,,,,,,
+BLOO24,"KRT12",ENSG00000187242,0.406503,,,,,,,,,,,,,,,,,,,,,,,,,,3.00674023278,,,,1.18952491268,,1.10230226797,,,,6.603591081,,,,,,,,,,,,,
+BLOO28,"KRT12",ENSG00000187242,0.438827,,,,,,,,,,,,,,,,,,,,,,,,,,1.10304657174,,,,0.0445388894585,,2.21897510755,,,,6.98474817545,,,,,,,,,,,,,
+BLOO30,"KRT12",ENSG00000187242,0.922087,,,,,,,,,,,,,,,,,,,,,,,,,,-2.51090324431,,,,-0.948280811509,,-3.49322563937,,,,-11.4804539581,,,,,,,,,,,,,
+BLOO32,"KRT12",ENSG00000187242,0.559847,,,,,,,,,,,,,,,,,,,,,,,,,,-2.98695178578,,,,-1.15744979833,,-1.90115775445,,,,-8.04541252021,,,,,,,,,,,,,

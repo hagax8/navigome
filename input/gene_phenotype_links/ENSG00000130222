@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"GADD45G",ENSG00000130222,8.306554,,,,,1.0808382957090967,,2.17988687317,-1.90127732446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04,"GADD45G",ENSG00000130222,7.526396,,,,,0.9101650054515465,,2.51120618377,-1.81655074648,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY04F,"GADD45G",ENSG00000130222,6.310274,,,,,-2.6324344538016837,,2.6113322178,0.81810388611,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08B,"GADD45G",ENSG00000130222,7.851459,,,,,0.03819678842323618,,2.13218839938,-1.3976294909,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08F,"GADD45G",ENSG00000130222,5.696307,,,,,-0.809646812551097,,2.29946714848,-1.46686085448,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08,"GADD45G",ENSG00000130222,8.291019,,,,,-0.1587970369717195,,2.36828073996,-1.48051505684,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC03,"GADD45G",ENSG00000130222,6.564140,,,,,-1.4588639059720463,,-1.29399051007,0.523058919966,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04B,"GADD45G",ENSG00000130222,6.657360,,,,,1.4922775597159352,,1.81534868762,-1.49066302146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04,"GADD45G",ENSG00000130222,7.138484,,,,,1.1943810517227305,,2.06356899727,-1.46573903505,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MENA02F,"GADD45G",ENSG00000130222,15.931777,,,,,-2.3690984550920042,,-3.30186264748,-3.20242243832,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

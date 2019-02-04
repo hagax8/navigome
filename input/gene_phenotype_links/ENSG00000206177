@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"HBM",ENSG00000206177,45.036840,,,,,-6.860791690950465,,,,,,,,,,,,,,-1.82926695876,,,,,,,,,,,,,,2.58904760687,,,,,,,,,,,,,,,,
+BLOO03,"HBM",ENSG00000206177,8.755946,,,,,2.1651788233795726,,,,,,,,,,,,,,3.19919280739,,,,,,,,,,,,,,0.448129915461,,,,,,,,,,,,,,,,
+BLOO04,"HBM",ENSG00000206177,26.545170,,,,,-1.2724121542300788,,,,,,,,,,,,,,3.92323288809,,,,,,,,,,,,,,-2.28292993171,,,,,,,,,,,,,,,,
+BLOO21,"HBM",ENSG00000206177,31.636369,,,,,0.11678894523743408,,,,,,,,,,,,,,3.80872875053,,,,,,,,,,,,,,-2.00228371219,,,,,,,,,,,,,,,,
+BLOO22,"HBM",ENSG00000206177,24.616131,,,,,-0.9927665917963218,,,,,,,,,,,,,,3.57752723931,,,,,,,,,,,,,,-1.69992657554,,,,,,,,,,,,,,,,
+BLOO23,"HBM",ENSG00000206177,9.641627,,,,,-0.6998139730690247,,,,,,,,,,,,,,1.66735682751,,,,,,,,,,,,,,0.337731486625,,,,,,,,,,,,,,,,
+BLOO25,"HBM",ENSG00000206177,84.305351,,,,,6.122137708085666,,,,,,,,,,,,,,5.79197583757,,,,,,,,,,,,,,-2.03950176609,,,,,,,,,,,,,,,,
+BLOO26,"HBM",ENSG00000206177,117.483994,,,,,13.338412632468287,,,,,,,,,,,,,,7.01220102398,,,,,,,,,,,,,,-3.55600463647,,,,,,,,,,,,,,,,
+BLOO27,"HBM",ENSG00000206177,88.180160,,,,,12.488618815970836,,,,,,,,,,,,,,5.08939067566,,,,,,,,,,,,,,-2.92280856792,,,,,,,,,,,,,,,,
+BLOO35,"HBM",ENSG00000206177,18.793390,,,,,-1.715346190338442,,,,,,,,,,,,,,2.85508753244,,,,,,,,,,,,,,0.198315741033,,,,,,,,,,,,,,,,
+BLOO36,"HBM",ENSG00000206177,39.912787,,,,,0.26532985138453086,,,,,,,,,,,,,,4.34648753638,,,,,,,,,,,,,,-2.87864165835,,,,,,,,,,,,,,,,
+GLYC22,"HBM",ENSG00000206177,8.077202,,,,,-2.9532405068955208,,,,,,,,,,,,,,-0.685107056661,,,,,,,,,,,,,,0.209014421493,,,,,,,,,,,,,,,,

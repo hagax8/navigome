@@ -1,0 +1,8 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO06,"ARL5C",ENSG00000141748,9.859838,,,,,,,,,,,,,4.55440538134,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0890407455675,,,,,,,,,
+BLOO09,"ARL5C",ENSG00000141748,10.285352,,,,,,,,,,,,,4.86207060345,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0767032103725,,,,,,,,,
+BLOO10,"ARL5C",ENSG00000141748,10.873284,,,,,,,,,,,,,4.82381909287,,,,,,,,,,,,,,,,,,,,,,,,,,,0.154968909665,,,,,,,,,
+BLOO12,"ARL5C",ENSG00000141748,8.247521,,,,,,,,,,,,,4.27311292361,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0243152478227,,,,,,,,,
+BLOO13,"ARL5C",ENSG00000141748,11.116765,,,,,,,,,,,,,4.62465689778,,,,,,,,,,,,,,,,,,,,,,,,,,,0.47960445317,,,,,,,,,
+BLOO19,"ARL5C",ENSG00000141748,7.651831,,,,,,,,,,,,,2.3452473563,,,,,,,,,,,,,,,,,,,,,,,,,,,0.480859761694,,,,,,,,,
+BLOO30,"ARL5C",ENSG00000141748,9.426351,,,,,,,,,,,,,4.83611321831,,,,,,,,,,,,,,,,,,,,,,,,,,,0.491022081998,,,,,,,,,

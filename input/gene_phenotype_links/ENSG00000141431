@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY06B,"ASXL3",ENSG00000141431,7.215212,0.243365735689,,,,,,,,,,,,,,,,,,,,,,,,2.15024827078,,,,,,,,,,,,,,,,,,,-0.829340485795,,,,-2.30913544896,
+BODY06,"ASXL3",ENSG00000141431,7.486143,0.253089725046,,,,,,,,,,,,,,,,,,,,,,,,2.3786027302,,,,,,,,,,,,,,,,,,,-0.961295746132,,,,-2.5180815716,
+BODY07B,"ASXL3",ENSG00000141431,5.984179,0.280156630359,,,,,,,,,,,,,,,,,,,,,,,,2.00701531,,,,,,,,,,,,,,,,,,,-0.87981944145,,,,-2.18642397405,
+BODY07,"ASXL3",ENSG00000141431,6.188445,0.307495835081,,,,,,,,,,,,,,,,,,,,,,,,2.22199941406,,,,,,,,,,,,,,,,,,,-1.00823552481,,,,-2.36371032056,
+BODY08B,"ASXL3",ENSG00000141431,8.561774,0.781465299465,,,,,,,,,,,,,,,,,,,,,,,,3.84985554792,,,,,,,,,,,,,,,,,,,-1.15631341139,,,,-3.10376142242,
+BODY08F,"ASXL3",ENSG00000141431,7.482619,0.821350081149,,,,,,,,,,,,,,,,,,,,,,,,3.35384429208,,,,,,,,,,,,,,,,,,,-0.635171899357,,,,-3.09917139409,
+BODY08,"ASXL3",ENSG00000141431,9.963491,0.869117968739,,,,,,,,,,,,,,,,,,,,,,,,4.07823861823,,,,,,,,,,,,,,,,,,,-1.04205607038,,,,-3.32748903782,
+LEAN06B,"ASXL3",ENSG00000141431,5.800547,-0.959107636439,,,,,,,,,,,,,,,,,,,,,,,,3.33744875191,,,,,,,,,,,,,,,,,,,-0.404636113594,,,,-2.14782900614,
+NEUR02B,"ASXL3",ENSG00000141431,6.606618,-0.340609363632,,,,,,,,,,,,,,,,,,,,,,,,2.7899215853,,,,,,,,,,,,,,,,,,,-0.293448959959,,,,-2.44780791472,
+NEUR02F,"ASXL3",ENSG00000141431,8.278008,0.164716220496,,,,,,,,,,,,,,,,,,,,,,,,2.41067581891,,,,,,,,,,,,,,,,,,,0.601033802544,,,,-3.06272793181,
+NEUR03F,"ASXL3",ENSG00000141431,6.094841,-0.111965644425,,,,,,,,,,,,,,,,,,,,,,,,1.05839156871,,,,,,,,,,,,,,,,,,,0.441237675071,,,,-3.20061265941,

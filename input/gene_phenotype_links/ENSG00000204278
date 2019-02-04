@@ -1,0 +1,9 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO04,"TMEM235",ENSG00000204278,8.726258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0533449894854,,,,,,,,
+BLOO21,"TMEM235",ENSG00000204278,18.639823,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.10239708983,,,,,,,,
+BLOO22,"TMEM235",ENSG00000204278,14.898941,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.07249543662,,,,,,,,
+BLOO23,"TMEM235",ENSG00000204278,17.889141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.83931304429,,,,,,,,
+BLOO26,"TMEM235",ENSG00000204278,5.725196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.954823867835,,,,,,,,
+BLOO27,"TMEM235",ENSG00000204278,8.213391,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.189070260411,,,,,,,,
+BLOO35,"TMEM235",ENSG00000204278,10.118507,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.29027031875,,,,,,,,
+BLOO36,"TMEM235",ENSG00000204278,9.937456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.128941182092,,,,,,,,

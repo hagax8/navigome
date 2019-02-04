@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"CLTC",ENSG00000141367,7.998612,,-2.84282668918,-0.584245713332,,,,,-0.160499531858,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO05,"CLTC",ENSG00000141367,23.541740,,-5.92886201689,2.68135662689,,,,,-3.34721164184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO06,"CLTC",ENSG00000141367,8.748727,,-2.30818396687,-2.55586125833,,,,,-4.88557133978,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO09,"CLTC",ENSG00000141367,9.963012,,-2.39575741512,-2.50316603444,,,,,-4.79725092403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO10,"CLTC",ENSG00000141367,13.621330,,-2.86690718948,-2.083009809,,,,,-4.9495966661,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO12,"CLTC",ENSG00000141367,14.868638,,-3.32954829637,-2.32903366299,,,,,-5.11213755052,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO13,"CLTC",ENSG00000141367,9.230815,,-2.28398575916,-2.53837401697,,,,,-4.88302094093,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO16,"CLTC",ENSG00000141367,5.707168,,-1.89349115329,-0.582321080717,,,,,-0.754630412896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO28,"CLTC",ENSG00000141367,7.540442,,-4.06071959718,4.91806757761,,,,,0.294659910077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO30,"CLTC",ENSG00000141367,8.672743,,-2.41653404562,-2.54890799189,,,,,-4.77989041479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO34,"CLTC",ENSG00000141367,35.333089,,3.36264395854,2.45097548123,,,,,5.43156049741,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

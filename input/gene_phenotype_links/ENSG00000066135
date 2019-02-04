@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+ADHD04,"KDM4A",ENSG00000066135,11.688712,,,,,-2.430149146961236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.8265399655,1.46969045871
+ADHD05M,"KDM4A",ENSG00000066135,5.825998,,,,,-2.1351747674934236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.21775317389,1.53668968086
+ADHD05,"KDM4A",ENSG00000066135,14.514534,,,,,-2.6378060000133545,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.76999743367,1.47246984364
+EDUC01M,"KDM4A",ENSG00000066135,6.860877,,,,,0.49954589745156913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.683080283238,-0.403945698414
+EDUC01,"KDM4A",ENSG00000066135,12.199689,,,,,3.4803233338235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.960561063142,-1.68410266868
+EDUC03,"KDM4A",ENSG00000066135,28.913854,,,,,5.050887943997038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.25804693899,-1.6252184964
+MENA01F,"KDM4A",ENSG00000066135,6.959319,,,,,-0.7132761143926891,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.73907728254,0.570710701057
+MENA02F,"KDM4A",ENSG00000066135,16.630469,,,,,-2.324981221901238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0358569458939,-1.42535898898
+SCHI01,"KDM4A",ENSG00000066135,10.551711,,,,,-0.19292722483348185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.36466841719,-1.10216700591
+SCHI02M,"KDM4A",ENSG00000066135,10.096248,,,,,-0.29588168839588297,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.623070469913,-0.00901172366629
+SCHI02,"KDM4A",ENSG00000066135,9.647393,,,,,0.3155259417204597,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.941344227463,-1.00822125306

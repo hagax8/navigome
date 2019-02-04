@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"EXD2",ENSG00000081177,5.979225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.314445453524,,,,,,,1.4394176403,,,,,,,,,,,-2.04093106826,
+BFPC04,"EXD2",ENSG00000081177,6.353635,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.464518064434,,,,,,,1.61750767825,,,,,,,,,,,-1.90139640057,
+BLOO01,"EXD2",ENSG00000081177,13.423279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.160674904386,,,,,,,-0.634067597814,,,,,,,,,,,-0.63306295705,
+BLOO29,"EXD2",ENSG00000081177,34.898219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.17757755058,,,,,,,-1.66582371788,,,,,,,,,,,0.352255854383,
+BLOO34,"EXD2",ENSG00000081177,13.824169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.28029646481,,,,,,,-1.02311774669,,,,,,,,,,,-1.89718746998,
+EDUC01M,"EXD2",ENSG00000081177,7.146697,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.649910847993,,,,,,,-3.41157457387,,,,,,,,,,,2.30444912125,
+EDUC01,"EXD2",ENSG00000081177,7.091896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.716691279032,,,,,,,-2.99921109575,,,,,,,,,,,1.70424166983,
+EDUC02,"EXD2",ENSG00000081177,6.154071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.11980925322,,,,,,,-3.84644118932,,,,,,,,,,,1.73466722104,
+EDUC03,"EXD2",ENSG00000081177,8.455758,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.846649586801,,,,,,,-3.76596057589,,,,,,,,,,,1.40552155673,
+INTE02,"EXD2",ENSG00000081177,6.139345,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.139783837085,,,,,,,-1.41168755423,,,,,,,,,,,-0.234457716299,
+NEUR02B,"EXD2",ENSG00000081177,7.334513,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.176488841599,,,,,,,1.61449995027,,,,,,,,,,,-1.77440141179,

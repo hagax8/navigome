@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO04,"EIF5",ENSG00000100664,6.209497,,,,,-0.8031331996085261,,,,,,,,,,,,,,,,,,,,-4.15387439683,,,,,,,,,,,,,,,,,,,,,-1.76607925896,,,
+BLOO05,"EIF5",ENSG00000100664,8.773864,,,,,-5.856857108499725,,,,,,,,,,,,,,,,,,,,1.96661201629,,,,,,,,,,,,,,,,,,,,,-0.736686519757,,,
+BLOO07,"EIF5",ENSG00000100664,7.929224,,,,,-3.1561700160309893,,,,,,,,,,,,,,,,,,,,-2.74442356015,,,,,,,,,,,,,,,,,,,,,0.765952526821,,,
+BLOO16,"EIF5",ENSG00000100664,6.084748,,,,,-2.3632655622000107,,,,,,,,,,,,,,,,,,,,-2.21797752236,,,,,,,,,,,,,,,,,,,,,1.24186595917,,,
+BLOO17,"EIF5",ENSG00000100664,5.692376,,,,,-1.8088358423690514,,,,,,,,,,,,,,,,,,,,-2.33280873769,,,,,,,,,,,,,,,,,,,,,0.849849761091,,,
+BLOO21,"EIF5",ENSG00000100664,7.119095,,,,,-0.9262213771417954,,,,,,,,,,,,,,,,,,,,-3.66482612813,,,,,,,,,,,,,,,,,,,,,-1.7965427298,,,
+BLOO22,"EIF5",ENSG00000100664,7.093600,,,,,-1.4519995898829008,,,,,,,,,,,,,,,,,,,,-4.00868245866,,,,,,,,,,,,,,,,,,,,,-1.92332660589,,,
+BLOO26,"EIF5",ENSG00000100664,6.136731,,,,,2.099305080801031,,,,,,,,,,,,,,,,,,,,-0.142824260133,,,,,,,,,,,,,,,,,,,,,-0.467647847322,,,
+BODY08F,"EIF5",ENSG00000100664,2.990804,,,,,0.7726054528151429,,,,,,,,,,,,,,,,,,,,-5.38249131675,,,,,,,,,,,,,,,,,,,,,-1.22997260814,,,
+OSTE04,"EIF5",ENSG00000100664,3.467743,,,,,0.505410639912252,,,,,,,,,,,,,,,,,,,,-6.46950908123,,,,,,,,,,,,,,,,,,,,,-0.93146175741,,,
+SCHI01,"EIF5",ENSG00000100664,6.151042,,,,,-4.724422301464015,,,,,,,,,,,,,,,,,,,,-5.14567101046,,,,,,,,,,,,,,,,,,,,,-2.02443200238,,,
+SCHI02,"EIF5",ENSG00000100664,5.703949,,,,,-4.668667515930603,,,,,,,,,,,,,,,,,,,,-5.02563365449,,,,,,,,,,,,,,,,,,,,,-1.76215258154,,,

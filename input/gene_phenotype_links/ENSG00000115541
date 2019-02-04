@@ -1,0 +1,9 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY08B,"HSPE1",ENSG00000115541,6.833244,,,,,1.5134779921263846,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.019932772218,,,,,,,
+BODY08,"HSPE1",ENSG00000115541,7.591794,,,,,1.5297698644517006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.075552968724,,,,,,,
+LEAN06B,"HSPE1",ENSG00000115541,9.092159,,,,,-0.48594535155143204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.767972892464,,,,,,,
+LEAN06F,"HSPE1",ENSG00000115541,8.023746,,,,,-0.48155383786702766,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.262707055906,,,,,,,
+LEAN06,"HSPE1",ENSG00000115541,6.862963,,,,,-0.40408669268066133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0080639971,,,,,,,
+SCHI01,"HSPE1",ENSG00000115541,10.422164,,,,,4.655960640588997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.88209016291,,,,,,,
+SCHI02M,"HSPE1",ENSG00000115541,6.920493,,,,,3.4796646802300706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.47163754245,,,,,,,
+SCHI02,"HSPE1",ENSG00000115541,10.574335,,,,,4.7317764274305745,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.88522491519,,,,,,,

@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"LMAN1L",ENSG00000140506,11.195275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.98295240287,,-5.36576228657,,,,,,,,,,,,,,,,,
+BLOO03,"LMAN1L",ENSG00000140506,6.177440,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.20534655286,,-4.79504928772,,,,,,,,,,,,,,,,,
+BLOO05,"LMAN1L",ENSG00000140506,7.588970,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.7194786518,,-4.94109966487,,,,,,,,,,,,,,,,,
+BLOO19,"LMAN1L",ENSG00000140506,14.140249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.705845830299,,5.93999042078,,,,,,,,,,,,,,,,,
+BLOO20,"LMAN1L",ENSG00000140506,7.874584,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.29666715861,,-5.20552806279,,,,,,,,,,,,,,,,,
+BLOO28,"LMAN1L",ENSG00000140506,9.736885,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.838846597884,,-5.53298732138,,,,,,,,,,,,,,,,,
+BLOO32,"LMAN1L",ENSG00000140506,6.591964,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.35322803625,,3.42287815236,,,,,,,,,,,,,,,,,
+BLOO34,"LMAN1L",ENSG00000140506,9.534290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.146146300037,,-3.33581605488,,,,,,,,,,,,,,,,,
+EDUC03,"LMAN1L",ENSG00000140506,5.850135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.5462341078,,4.66772979238,,,,,,,,,,,,,,,,,

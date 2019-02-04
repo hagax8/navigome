@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO07,"PLEKHG4",ENSG00000196155,5.942943,,,,,2.2791636043687435,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.575215305418,,,,,2.29448682468,,,,,,,,,,,
+BLOO26,"PLEKHG4",ENSG00000196155,11.225403,,,,,0.9380249421195714,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.1044807877,,,,,-1.04031299927,,,,,,,,,,,
+BLOO27,"PLEKHG4",ENSG00000196155,13.976295,,,,,1.6411990801563052,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.22214886765,,,,,-0.598946830095,,,,,,,,,,,
+BLOO29,"PLEKHG4",ENSG00000196155,5.327016,,,,,1.3874432813515063,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.79321618707,,,,,-0.826905771192,,,,,,,,,,,
+CHOL22,"PLEKHG4",ENSG00000196155,8.933115,,,,,-1.8544602394104006,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.484705689612,,,,,0.804074121448,,,,,,,,,,,
+EDUC03,"PLEKHG4",ENSG00000196155,6.235308,,,,,1.3803234900161414,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.86181637184,,,,,-0.660906515575,,,,,,,,,,,
+LEAN06B,"PLEKHG4",ENSG00000196155,6.739905,,,,,-0.10686866864064783,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.89239195941,,,,,0.0385416858691,,,,,,,,,,,
+LEAN06,"PLEKHG4",ENSG00000196155,6.399103,,,,,0.2260402680914445,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.14528291474,,,,,1.15165625936,,,,,,,,,,,
+OSTE04,"PLEKHG4",ENSG00000196155,17.620386,,,,,0.40334984139803387,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.74035290477,,,,,0.61160874174,,,,,,,,,,,
+WAIS03,"PLEKHG4",ENSG00000196155,6.751904,,,,,-0.40686812996864324,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.1165272711,,,,,-0.41549381582,,,,,,,,,,,
+WAIS04,"PLEKHG4",ENSG00000196155,6.319085,,,,,-0.3970320820808411,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.03822930221,,,,,-0.366282400394,,,,,,,,,,,

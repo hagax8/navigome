@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC02B,"KLHL21",ENSG00000162413,5.607708,,,,,1.4104667646697848,,,,3.70897017015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC02,"KLHL21",ENSG00000162413,6.081016,,,,,1.4698211000433246,,,,3.70944009622,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC03B,"KLHL21",ENSG00000162413,6.139369,,,,,1.4023509550205862,,,,3.79991558038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC03,"KLHL21",ENSG00000162413,6.467526,,,,,1.4713515151953516,,,,3.82913767534,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04B,"KLHL21",ENSG00000162413,10.762356,,,,,2.853070236942518,,,,4.29107996783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04M,"KLHL21",ENSG00000162413,6.957070,,,,,2.142260688074859,,,,4.18965711968,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04,"KLHL21",ENSG00000162413,9.222798,,,,,2.8091057711722183,,,,3.9617340597,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08B,"KLHL21",ENSG00000162413,6.788319,,,,,2.5521317949478726,,,,3.75361189732,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08,"KLHL21",ENSG00000162413,6.128480,,,,,2.4238320755006573,,,,3.40728272362,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04B,"KLHL21",ENSG00000162413,7.333875,,,,,2.502056909653332,,,,3.81492029424,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FATM04,"KLHL21",ENSG00000162413,6.898459,,,,,2.328880379617921,,,,3.44288310374,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

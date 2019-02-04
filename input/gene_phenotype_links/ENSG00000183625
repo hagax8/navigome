@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"CCR3",ENSG00000183625,24.732171,,,,5.05405151721,5.743872199803265,6.34587421555,,,,,,,,,,,,,,,,,,,,,,-3.28256825383,,,,,,,,,,,,,,,,,,,,,
+BLOO07,"CCR3",ENSG00000183625,7.057913,,,,0.943576669802,2.2424518944059053,1.50448322368,,,,,,,,,,,,,,,,,,,,,,-2.72978788264,,,,,,,,,,,,,,,,,,,,,
+BLOO08,"CCR3",ENSG00000183625,14.589307,,,,-2.99177426743,-7.352482778172259,-6.02608560777,,,,,,,,,,,,,,,,,,,,,,-6.29806707249,,,,,,,,,,,,,,,,,,,,,
+BLOO14,"CCR3",ENSG00000183625,14.845637,,,,-2.95433025449,-7.848222759509708,-6.46719888579,,,,,,,,,,,,,,,,,,,,,,-5.27330432026,,,,,,,,,,,,,,,,,,,,,
+BLOO15,"CCR3",ENSG00000183625,10.721178,,,,-2.17626031057,-6.427505728171335,-4.78824225946,,,,,,,,,,,,,,,,,,,,,,-4.23652742301,,,,,,,,,,,,,,,,,,,,,
+BLOO17,"CCR3",ENSG00000183625,7.478718,,,,1.12388193929,2.2854792796716743,1.49717792571,,,,,,,,,,,,,,,,,,,,,,-1.84360755828,,,,,,,,,,,,,,,,,,,,,
+BLOO18,"CCR3",ENSG00000183625,9.524896,,,,1.90708967242,3.1510154265595225,2.66634747354,,,,,,,,,,,,,,,,,,,,,,-0.990163907182,,,,,,,,,,,,,,,,,,,,,
+BLOO19,"CCR3",ENSG00000183625,36.340340,,,,-6.11677692298,-7.058319703368342,-7.99467042729,,,,,,,,,,,,,,,,,,,,,,-0.639747836151,,,,,,,,,,,,,,,,,,,,,
+BLOO28,"CCR3",ENSG00000183625,32.179969,,,,6.34663214092,6.652400718634943,7.34952179066,,,,,,,,,,,,,,,,,,,,,,-0.719191339272,,,,,,,,,,,,,,,,,,,,,
+BLOO31,"CCR3",ENSG00000183625,8.161699,,,,-1.14076501795,-0.9073476575273444,-0.911763059127,,,,,,,,,,,,,,,,,,,,,,2.13476719106,,,,,,,,,,,,,,,,,,,,,
+BLOO32,"CCR3",ENSG00000183625,6.649384,,,,-3.63020649357,-4.75553731083917,-5.8304229091,,,,,,,,,,,,,,,,,,,,,,-2.47122128714,,,,,,,,,,,,,,,,,,,,,
+CELI01,"CCR3",ENSG00000183625,10.035830,,,,-1.74651573995,-1.2472801687021595,-0.557410034437,,,,,,,,,,,,,,,,,,,,,,-0.749624311924,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"INHBE",ENSG00000139269,10.391078,,,2.37452588196,,,,,,,,,-1.89721869778,,,,,,,,,,,,,,,,,,,,,0.291320686005,,,,,,,,,,,,,,,,
+BLOO04,"INHBE",ENSG00000139269,7.344794,,,0.948349920009,,,,,,,,,-0.433228890437,,,,,,,,,,,,,,,,,,,,,0.685783696033,,,,,,,,,,,,,,,,
+BLOO21,"INHBE",ENSG00000139269,5.861066,,,0.90499668163,,,,,,,,,-0.411900269139,,,,,,,,,,,,,,,,,,,,,0.19094489441,,,,,,,,,,,,,,,,
+BLOO22,"INHBE",ENSG00000139269,6.464909,,,0.770931774529,,,,,,,,,-0.283932320121,,,,,,,,,,,,,,,,,,,,,0.074570547198,,,,,,,,,,,,,,,,
+BLOO33,"INHBE",ENSG00000139269,6.365896,,,1.95155203259,,,,,,,,,-2.71911892852,,,,,,,,,,,,,,,,,,,,,1.63062167557,,,,,,,,,,,,,,,,
+BLOO36,"INHBE",ENSG00000139269,6.052566,,,1.03115523098,,,,,,,,,-0.620617245674,,,,,,,,,,,,,,,,,,,,,0.913998564367,,,,,,,,,,,,,,,,
+CHOL22,"INHBE",ENSG00000139269,7.622603,,,-1.0471514896,,,,,,,,,0.414677979431,,,,,,,,,,,,,,,,,,,,,0.165535478626,,,,,,,,,,,,,,,,
+TRGL03,"INHBE",ENSG00000139269,7.505804,,,0.867458509345,,,,,,,,,-0.415709789357,,,,,,,,,,,,,,,,,,,,,0.401376222606,,,,,,,,,,,,,,,,
+URAT01,"INHBE",ENSG00000139269,16.870600,,,3.71865461666,,,,,,,,,-1.67523997087,,,,,,,,,,,,,,,,,,,,,1.59754658035,,,,,,,,,,,,,,,,

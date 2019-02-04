@@ -1,0 +1,16 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO02,"ANKRD11",ENSG00000167522,7.902812,,,,,1.2916700982450067,-4.53756745317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0278638790553
+BLOO04,"ANKRD11",ENSG00000167522,7.630357,,,,,4.809841763837251,-4.19806877045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.931487674345
+BLOO08,"ANKRD11",ENSG00000167522,1.386750,,,,,1.3443869594393378,-1.46298487102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.30775297599
+BLOO11,"ANKRD11",ENSG00000167522,6.958884,,,,,-1.2597177234975405,-1.58303198801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.57871265705
+BLOO24,"ANKRD11",ENSG00000167522,5.825911,,,,,-1.4305185443315245,0.763270439403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.89983346275
+BLOO25,"ANKRD11",ENSG00000167522,7.190151,,,,,2.654136081029709,-0.508339998214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.324455444481
+BLOO26,"ANKRD11",ENSG00000167522,6.863819,,,,,2.2550716403244513,4.70437921892,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.3723423902
+BLOO27,"ANKRD11",ENSG00000167522,11.999436,,,,,0.9789233199661789,5.5910928785,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.19102284953
+BLOO29,"ANKRD11",ENSG00000167522,7.771061,,,,,0.0733884244274675,-4.53250830428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.169468200559
+FATM04B,"ANKRD11",ENSG00000167522,5.923068,,,,,0.03729059539964094,0.217271024286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.460499352826
+LEAN06B,"ANKRD11",ENSG00000167522,13.216261,,,,,-2.5649625343931985,-1.75056585411,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.288376748508
+LEAN06F,"ANKRD11",ENSG00000167522,6.770190,,,,,-2.341264584992466,-1.92928775793,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.134283701272
+LEAN06M,"ANKRD11",ENSG00000167522,6.220569,,,,,-1.3301729935300661,-0.389477457245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.771559191925
+LEAN06,"ANKRD11",ENSG00000167522,12.448904,,,,,-2.2315454367221608,-1.25502482741,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.618985183572
+SCHI01,"ANKRD11",ENSG00000167522,5.977077,,,,,0.34597278698685896,4.16880242339,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.471663718866

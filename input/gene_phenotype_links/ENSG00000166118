@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC02B,"SPATA19",ENSG00000166118,6.122479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.5911378241,,,,,,,,,,,,,,,,-2.2237791414,
+BFPC02,"SPATA19",ENSG00000166118,6.020443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.5617274591,,,,,,,,,,,,,,,,-2.22674594703,
+BFPC03B,"SPATA19",ENSG00000166118,6.243828,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.68997613466,,,,,,,,,,,,,,,,-2.23470896539,
+BFPC03,"SPATA19",ENSG00000166118,8.383545,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.66095228334,,,,,,,,,,,,,,,,-2.25491472281,
+BODY08B,"SPATA19",ENSG00000166118,6.243250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.39103054593,,,,,,,,,,,,,,,,-2.25532459244,
+BODY08,"SPATA19",ENSG00000166118,6.104616,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.12743537267,,,,,,,,,,,,,,,,-2.23037303721,
+FATM02,"SPATA19",ENSG00000166118,5.788853,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.04219714436,,,,,,,,,,,,,,,,-2.46590017361,
+FATM03B,"SPATA19",ENSG00000166118,5.656926,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.04888622845,,,,,,,,,,,,,,,,-2.3735691552,
+FATM03,"SPATA19",ENSG00000166118,6.449539,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.09715815448,,,,,,,,,,,,,,,,-2.49403077887,

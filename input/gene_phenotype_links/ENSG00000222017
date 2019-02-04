@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY08B,"ENSG00000222017",ENSG00000222017,10.136885,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.67301849046,,,,,,,,,,,,,,,,,
+BODY08F,"ENSG00000222017",ENSG00000222017,6.143845,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.33932998279,,,,,,,,,,,,,,,,,
+BODY08M,"ENSG00000222017",ENSG00000222017,5.708254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.56610985129,,,,,,,,,,,,,,,,,
+BODY08,"ENSG00000222017",ENSG00000222017,10.316692,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.74500495751,,,,,,,,,,,,,,,,,
+CROH01,"ENSG00000222017",ENSG00000222017,6.533459,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.11456494001,,,,,,,,,,,,,,,,,
+DEPR01,"ENSG00000222017",ENSG00000222017,6.804322,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.62414453593,,,,,,,,,,,,,,,,,
+LEAN06B,"ENSG00000222017",ENSG00000222017,15.248521,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.31879923268,,,,,,,,,,,,,,,,,
+LEAN06F,"ENSG00000222017",ENSG00000222017,10.271159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.63591437097,,,,,,,,,,,,,,,,,
+LEAN06,"ENSG00000222017",ENSG00000222017,12.094075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.15258624712,,,,,,,,,,,,,,,,,
+SCHI01,"ENSG00000222017",ENSG00000222017,9.449441,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.7185510275,,,,,,,,,,,,,,,,,
+SCHI02,"ENSG00000222017",ENSG00000222017,8.298994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.98132986111,,,,,,,,,,,,,,,,,

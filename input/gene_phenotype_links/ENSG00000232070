@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO03,"TMEM253",ENSG00000232070,6.383787,,,,,,,,,,,,,,,,,,,,1.52415246702,,,,,,,,,1.08932657292,,,0.0961041327967,,,,,,,,,,,,,,,,,
+BLOO20,"TMEM253",ENSG00000232070,7.356587,,,,,,,,,,,,,,,,,,,,2.22034291832,,,,,,,,,0.498914467543,,,-0.0335699120697,,,,,,,,,,,,,,,,,
+LEAN04B,"TMEM253",ENSG00000232070,9.680831,,,,,,,,,,,,,,,,,,,,-0.232104566071,,,,,,,,,0.111492791525,,,-2.55238883325,,,,,,,,,,,,,,,,,
+LEAN04,"TMEM253",ENSG00000232070,9.174515,,,,,,,,,,,,,,,,,,,,-0.468364389383,,,,,,,,,0.749514431883,,,-2.63017352581,,,,,,,,,,,,,,,,,
+LEAN05B,"TMEM253",ENSG00000232070,9.223299,,,,,,,,,,,,,,,,,,,,-0.0246512173299,,,,,,,,,0.172071625035,,,-2.70439069188,,,,,,,,,,,,,,,,,
+LEAN05M,"TMEM253",ENSG00000232070,5.951830,,,,,,,,,,,,,,,,,,,,-0.727442381015,,,,,,,,,1.37773756547,,,-1.8332458598,,,,,,,,,,,,,,,,,
+LEAN05,"TMEM253",ENSG00000232070,9.851151,,,,,,,,,,,,,,,,,,,,-0.367898213676,,,,,,,,,0.795864944247,,,-2.70534955903,,,,,,,,,,,,,,,,,
+LEAN06B,"TMEM253",ENSG00000232070,10.469775,,,,,,,,,,,,,,,,,,,,-0.342668021278,,,,,,,,,0.365101960684,,,-1.75121195989,,,,,,,,,,,,,,,,,
+LEAN06M,"TMEM253",ENSG00000232070,6.881239,,,,,,,,,,,,,,,,,,,,-1.42818114399,,,,,,,,,0.427383040732,,,-2.01416363857,,,,,,,,,,,,,,,,,
+LEAN06,"TMEM253",ENSG00000232070,10.784521,,,,,,,,,,,,,,,,,,,,-0.860144939903,,,,,,,,,0.408518861271,,,-2.19405100035,,,,,,,,,,,,,,,,,

@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"DEFA5",ENSG00000164816,12.032747,,,,,,,,,,,,0.481872661863,,,,,,,-0.389848965509,,,,,,0.0579861345627,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO06,"DEFA5",ENSG00000164816,6.987585,,,,,,,,,,,,-0.80986584734,,,,,,,-0.764650405029,,,,,,-0.760603978564,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO08,"DEFA5",ENSG00000164816,19.442541,,,,,,,,,,,,0.365234749071,,,,,,,-0.914266903643,,,,,,-1.40487911387,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO09,"DEFA5",ENSG00000164816,7.807711,,,,,,,,,,,,-0.829054605433,,,,,,,-0.774714097046,,,,,,-0.884246407733,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO13,"DEFA5",ENSG00000164816,8.098591,,,,,,,,,,,,-0.928056750932,,,,,,,-0.674893867236,,,,,,-0.764944603221,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO14,"DEFA5",ENSG00000164816,14.510942,,,,,,,,,,,,0.500487332716,,,,,,,-0.778173497226,,,,,,-1.19976782421,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO15,"DEFA5",ENSG00000164816,11.373136,,,,,,,,,,,,0.559350418642,,,,,,,-0.642212310622,,,,,,-1.17276273679,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO19,"DEFA5",ENSG00000164816,22.840162,,,,,,,,,,,,-1.13119993913,,,,,,,-0.0447067538976,,,,,,-0.820984574941,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO28,"DEFA5",ENSG00000164816,24.564267,,,,,,,,,,,,0.683112887068,,,,,,,-0.259977264353,,,,,,0.817055425489,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO30,"DEFA5",ENSG00000164816,6.965452,,,,,,,,,,,,-0.693975980856,,,,,,,-0.848682113199,,,,,,-0.895427821877,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO32,"DEFA5",ENSG00000164816,6.399844,,,,,,,,,,,,-1.35390157633,,,,,,,-0.90507537891,,,,,,-0.319855028,,,,,,,,,,,,,,,,,,,,,,,,

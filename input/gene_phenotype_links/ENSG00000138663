@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"COPS4",ENSG00000138663,1.421991,,,,,,,,,,,,,,,,,,,,,-5.10057563696,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BFPC04,"COPS4",ENSG00000138663,1.411235,,,,,,,,,,,,,,,,,,,,,-5.11489385976,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO02,"COPS4",ENSG00000138663,11.143809,,,,,,,,,,,,,,,,,,,,,0.707681738241,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO06,"COPS4",ENSG00000138663,6.406061,,,,,,,,,,,,,,,,,,,,,-0.632223628478,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO09,"COPS4",ENSG00000138663,6.467730,,,,,,,,,,,,,,,,,,,,,-0.683276199718,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO10,"COPS4",ENSG00000138663,6.459858,,,,,,,,,,,,,,,,,,,,,-0.683066222199,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO11,"COPS4",ENSG00000138663,7.376751,,,,,,,,,,,,,,,,,,,,,-1.28303171082,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO13,"COPS4",ENSG00000138663,6.740573,,,,,,,,,,,,,,,,,,,,,-0.767108528179,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO20,"COPS4",ENSG00000138663,5.823909,,,,,,,,,,,,,,,,,,,,,0.799987493773,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO24,"COPS4",ENSG00000138663,10.303390,,,,,,,,,,,,,,,,,,,,,-0.469202789125,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO30,"COPS4",ENSG00000138663,6.236123,,,,,,,,,,,,,,,,,,,,,-0.588952394321,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO32,"COPS4",ENSG00000138663,8.554256,,,,,,,,,,,,,,,,,,,,,0.425666346225,,,,,,,,,,,,,,,,,,,,,,,,,,,,

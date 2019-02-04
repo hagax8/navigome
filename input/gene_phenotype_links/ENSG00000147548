@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO11,"WHSC1L1",ENSG00000147548,8.371100,,,,,-4.078930477849332,,,,,,0.790749424075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO23,"WHSC1L1",ENSG00000147548,6.755278,,,,,-3.5243022883012918,,,,,,-0.0996570642662,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO35,"WHSC1L1",ENSG00000147548,6.322411,,,,,4.015778813444973,,,,,,-0.195193129303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN05B,"WHSC1L1",ENSG00000147548,6.252192,,,,,4.2243376281213285,,,,,,0.518797369453,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"WHSC1L1",ENSG00000147548,10.387195,,,,,5.426360713653941,,,,,,2.11864032165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06M,"WHSC1L1",ENSG00000147548,8.363683,,,,,4.713576045784076,,,,,,0.782384399421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LEAN06,"WHSC1L1",ENSG00000147548,10.467806,,,,,5.6302113514561265,,,,,,1.67057588844,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SCHI01,"WHSC1L1",ENSG00000147548,8.669546,,,,,4.0570702543038015,,,,,,-1.10151198169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SCHI02M,"WHSC1L1",ENSG00000147548,6.695617,,,,,3.9784927300046085,,,,,,-1.65711450199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SCHI02,"WHSC1L1",ENSG00000147548,7.494280,,,,,3.755178660098598,,,,,,-1.08300052557,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

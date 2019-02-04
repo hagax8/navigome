@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"PFN1",ENSG00000108518,19.866525,,,,,,0.560370928616,,,,,,,-0.574075048758,,,,,,,,0.27887027556,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO29,"PFN1",ENSG00000108518,9.798412,,,,,,-0.182725207228,,,,,,,0.0965180406221,,,,,,,,-2.08874154377,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO33,"PFN1",ENSG00000108518,13.899044,,,,,,0.557588306897,,,,,,,-0.59789074248,,,,,,,,-0.961041010052,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BLOO34,"PFN1",ENSG00000108518,23.987247,,,,,,0.735582041142,,,,,,,1.55913252802,,,,,,,,-1.13343955514,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08B,"PFN1",ENSG00000108518,7.352070,,,,,,-0.839581809967,,,,,,,0.299107185454,,,,,,,,-1.47591491028,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BODY08,"PFN1",ENSG00000108518,7.066174,,,,,,-0.818829025493,,,,,,,0.126876163214,,,,,,,,-1.79663860775,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LIPI13,"PFN1",ENSG00000108518,5.619373,,,,,,-1.66299931007,,,,,,,0.499818604643,,,,,,,,-0.655193083805,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LIPO14,"PFN1",ENSG00000108518,7.059713,,,,,,-1.41993743606,,,,,,,0.554125966748,,,,,,,,-0.639288546523,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PHLI14,"PFN1",ENSG00000108518,8.940740,,,,,,-1.93824829069,,,,,,,0.970608605646,,,,,,,,-1.33661931527,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TRGL05,"PFN1",ENSG00000108518,7.344804,,,,,,-1.3364320429,,,,,,,0.715768190359,,,,,,,,-0.811644367685,,,,,,,,,,,,,,,,,,,,,,,,,,,,

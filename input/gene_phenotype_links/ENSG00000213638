@@ -1,0 +1,10 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BODY04,"ADAT3",ENSG00000213638,5.640943,,,,,,,,,,,,,,,-1.58565114366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.688703905842,,,
+BODY08B,"ADAT3",ENSG00000213638,6.884922,,,,,,,,,,,,,,,-0.112080866261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.544650384292,,,
+BODY08F,"ADAT3",ENSG00000213638,9.438493,,,,,,,,,,,,,,,0.0210096474123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.882071225056,,,
+BODY08,"ADAT3",ENSG00000213638,8.756491,,,,,,,,,,,,,,,-0.153978667166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.701516652352,,,
+FATM04F,"ADAT3",ENSG00000213638,7.376461,,,,,,,,,,,,,,,-0.141825358427,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.62314024172,,,
+FATM04,"ADAT3",ENSG00000213638,5.609418,,,,,,,,,,,,,,,-0.0879569913332,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.4035030636,,,
+LEAN06B,"ADAT3",ENSG00000213638,7.594859,,,,,,,,,,,,,,,0.805023683588,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.63945798819,,,
+LEAN06F,"ADAT3",ENSG00000213638,9.569796,,,,,,,,,,,,,,,1.23904562234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.47104920069,,,
+MENA02F,"ADAT3",ENSG00000213638,7.918257,,,,,,,,,,,,,,,2.47595765798,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.227586458929,,,

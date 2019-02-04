@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO05,"PPIB",ENSG00000166794,21.177433,,,,,-0.4505476015894006,,,,,,,,,,,,,,,,,,,,,,,,,-0.508704019458,,,,,,,,,,,,,,,,,,,
+BLOO06,"PPIB",ENSG00000166794,9.548797,,,,,1.369087576054535,,,,,,,,,,,,,,,,,,,,,,,,,-0.499849171599,,,,,,,,,,,,,,,,,,,
+BLOO09,"PPIB",ENSG00000166794,8.402678,,,,,1.268956634292621,,,,,,,,,,,,,,,,,,,,,,,,,-0.399694449448,,,,,,,,,,,,,,,,,,,
+BLOO10,"PPIB",ENSG00000166794,10.181227,,,,,1.2437361557344646,,,,,,,,,,,,,,,,,,,,,,,,,-0.363971284652,,,,,,,,,,,,,,,,,,,
+BLOO12,"PPIB",ENSG00000166794,11.279188,,,,,1.6015532399676247,,,,,,,,,,,,,,,,,,,,,,,,,-0.70069905519,,,,,,,,,,,,,,,,,,,
+BLOO13,"PPIB",ENSG00000166794,9.739642,,,,,1.3254072512517088,,,,,,,,,,,,,,,,,,,,,,,,,-0.448149283228,,,,,,,,,,,,,,,,,,,
+BLOO19,"PPIB",ENSG00000166794,7.778534,,,,,1.6479423910934314,,,,,,,,,,,,,,,,,,,,,,,,,-0.00453926631417,,,,,,,,,,,,,,,,,,,
+BLOO26,"PPIB",ENSG00000166794,7.072850,,,,,-1.350706699381891,,,,,,,,,,,,,,,,,,,,,,,,,-0.758464404049,,,,,,,,,,,,,,,,,,,
+BLOO27,"PPIB",ENSG00000166794,7.515843,,,,,-1.9323968632315205,,,,,,,,,,,,,,,,,,,,,,,,,-0.886874786877,,,,,,,,,,,,,,,,,,,
+BLOO28,"PPIB",ENSG00000166794,12.237524,,,,,-1.7909499017556854,,,,,,,,,,,,,,,,,,,,,,,,,0.197417344078,,,,,,,,,,,,,,,,,,,
+BLOO30,"PPIB",ENSG00000166794,8.693940,,,,,1.281477406885745,,,,,,,,,,,,,,,,,,,,,,,,,-0.451424901693,,,,,,,,,,,,,,,,,,,
+MENA02F,"PPIB",ENSG00000166794,13.833244,,,,,1.5570950543798627,,,,,,,,,,,,,,,,,,,,,,,,,-0.940097680137,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+ASTH01,"IL13",ENSG00000169194,8.972161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.946035861969,,,,,-0.538097336363,-4.90451917371,,,,
+ATOP01,"IL13",ENSG00000169194,15.151195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.638389208918,,,,,-1.21933542089,-5.46786581473,,,,
+BLOO07,"IL13",ENSG00000169194,53.959675,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.49504182576,,,,,7.14929181028,-14.4255042729,,,,
+BLOO11,"IL13",ENSG00000169194,7.561632,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.422330592803,,,,,-0.0622755186737,-5.2525082953,,,,
+BLOO12,"IL13",ENSG00000169194,4.157703,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.426055106311,,,,,0.341875123524,-5.22951214393,,,,
+BLOO16,"IL13",ENSG00000169194,76.994176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.06811599595,,,,,6.72552083243,-14.3431200805,,,,
+BLOO17,"IL13",ENSG00000169194,67.961698,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.60706102201,,,,,7.19677605257,-13.1460470312,,,,
+BLOO18,"IL13",ENSG00000169194,71.367138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.60801464672,,,,,6.95369325844,-12.7897319366,,,,
+BLOO31,"IL13",ENSG00000169194,60.021390,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.32390079455,,,,,-6.38442923241,12.1738800569,,,,
+BLOO32,"IL13",ENSG00000169194,10.812592,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.620410182499,,,,,-1.13140783627,3.20249531957,,,,

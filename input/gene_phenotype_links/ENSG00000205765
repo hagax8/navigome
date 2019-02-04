@@ -1,0 +1,9 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+HEIG03,"C5orf51",ENSG00000205765,3.842302,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.52853698209,,,,,,,,,,,,,,,,,,,,,,
+KETO02,"C5orf51",ENSG00000205765,6.694842,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.02084115423,,,,,,,,,,,,,,,,,,,,,,
+KETO03,"C5orf51",ENSG00000205765,7.121748,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0322004094593,,,,,,,,,,,,,,,,,,,,,,
+LEAN06B,"C5orf51",ENSG00000205765,14.607690,,,,,,,,,,,,,,,,,,,,,,,,,,,-6.40876385989,,,,,,,,,,,,,,,,,,,,,,
+LEAN06F,"C5orf51",ENSG00000205765,7.864899,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.69467047286,,,,,,,,,,,,,,,,,,,,,,
+LEAN06M,"C5orf51",ENSG00000205765,6.206231,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.57073783541,,,,,,,,,,,,,,,,,,,,,,
+LEAN06,"C5orf51",ENSG00000205765,11.131450,,,,,,,,,,,,,,,,,,,,,,,,,,,-5.79690702196,,,,,,,,,,,,,,,,,,,,,,
+MENA02F,"C5orf51",ENSG00000205765,5.627014,,,,,,,,,,,,,,,,,,,,,,,,,,,1.74332770834,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+HEIG03,"ZNF346",ENSG00000113761,13.083330,,,,,-0.4529536484566678,,,,,,,,,,,,,1.60388986376,,,,,,,,,,,,,,-3.80462145704,,,,,,,,,4.39626518993,,,,,,,,
+LEAN04B,"ZNF346",ENSG00000113761,8.201874,,,,,-0.7079687473829435,,,,,,,,,,,,,0.57865920012,,,,,,,,,,,,,,-2.74674130575,,,,,,,,,2.39889359585,,,,,,,,
+LEAN04M,"ZNF346",ENSG00000113761,7.849796,,,,,-1.0452640934152335,,,,,,,,,,,,,0.747557982396,,,,,,,,,,,,,,-1.9633716428,,,,,,,,,2.08497005582,,,,,,,,
+LEAN04,"ZNF346",ENSG00000113761,8.730277,,,,,-0.8072469277151492,,,,,,,,,,,,,0.902766100908,,,,,,,,,,,,,,-2.37886896057,,,,,,,,,2.12895154624,,,,,,,,
+LEAN05B,"ZNF346",ENSG00000113761,8.454396,,,,,-0.6499398460271256,,,,,,,,,,,,,0.637403759237,,,,,,,,,,,,,,-2.83484109821,,,,,,,,,2.37727957072,,,,,,,,
+LEAN05M,"ZNF346",ENSG00000113761,6.769730,,,,,-1.0653829512716466,,,,,,,,,,,,,0.741528678035,,,,,,,,,,,,,,-1.94784269924,,,,,,,,,2.10104560798,,,,,,,,
+LEAN05,"ZNF346",ENSG00000113761,8.471894,,,,,-0.7698402701947654,,,,,,,,,,,,,0.927223172296,,,,,,,,,,,,,,-2.42597976576,,,,,,,,,2.1122832484,,,,,,,,
+LEAN06B,"ZNF346",ENSG00000113761,13.526352,,,,,-1.8653538216706493,,,,,,,,,,,,,0.556616820418,,,,,,,,,,,,,,-2.74823691134,,,,,,,,,2.22422840621,,,,,,,,
+LEAN06F,"ZNF346",ENSG00000113761,6.029909,,,,,-0.9054643068684275,,,,,,,,,,,,,-0.10229371498,,,,,,,,,,,,,,-2.39981568867,,,,,,,,,1.65576985503,,,,,,,,
+LEAN06M,"ZNF346",ENSG00000113761,11.336440,,,,,-2.214363597813124,,,,,,,,,,,,,1.24851163145,,,,,,,,,,,,,,-1.59626445504,,,,,,,,,1.74168732593,,,,,,,,
+LEAN06,"ZNF346",ENSG00000113761,11.190427,,,,,-2.190725176608626,,,,,,,,,,,,,1.08076258782,,,,,,,,,,,,,,-2.23088137134,,,,,,,,,1.8528876462,,,,,,,,
+MENO01F,"ZNF346",ENSG00000113761,22.080619,,,,,2.66106278699848,,,,,,,,,,,,,1.16759521133,,,,,,,,,,,,,,8.09658779076,,,,,,,,,-10.936713193,,,,,,,,

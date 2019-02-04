@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BLOO01,"PIPOX",ENSG00000179761,13.234078,-0.638092174317,,,,,,,,,,17.5436611226,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.126004979544,,,,,,,,,,,
+BLOO02,"PIPOX",ENSG00000179761,13.935243,-2.37963609968,,,,,,,,,,1.27742303651,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.267804407,,,,,,,,,,,
+BLOO12,"PIPOX",ENSG00000179761,8.509227,0.996322883959,,,,,,,,,,-2.83211231129,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3127303402,,,,,,,,,,,
+BLOO21,"PIPOX",ENSG00000179761,13.859618,0.596509255231,,,,,,,,,,-2.99001977517,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.24661043763,,,,,,,,,,,
+BLOO22,"PIPOX",ENSG00000179761,16.092970,0.259143105601,,,,,,,,,,-2.79182044402,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.42447909545,,,,,,,,,,,
+BLOO23,"PIPOX",ENSG00000179761,40.462382,1.4900159507,,,,,,,,,,-0.628600251009,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.264394916,,,,,,,,,,,
+BLOO25,"PIPOX",ENSG00000179761,33.239427,-3.42833449583,,,,,,,,,,1.53466743526,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.678363471003,,,,,,,,,,,
+BLOO26,"PIPOX",ENSG00000179761,45.171134,-1.0838637839,,,,,,,,,,0.962780369517,,,,,,,,,,,,,,,,,,,,,,,,,,,0.454683722629,,,,,,,,,,,
+BLOO27,"PIPOX",ENSG00000179761,24.380208,0.248380223509,,,,,,,,,,0.37517548802,,,,,,,,,,,,,,,,,,,,,,,,,,,0.58225858662,,,,,,,,,,,
+BLOO29,"PIPOX",ENSG00000179761,37.939945,2.79527361213,,,,,,,,,,-37.2624954154,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.117404141297,,,,,,,,,,,
+BLOO35,"PIPOX",ENSG00000179761,63.144311,2.67120695539,,,,,,,,,,-4.29824608322,,,,,,,,,,,,,,,,,,,,,,,,,,,0.419784621147,,,,,,,,,,,

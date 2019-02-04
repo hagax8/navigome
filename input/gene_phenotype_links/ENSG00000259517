@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC02M,"ENSG00000259517",ENSG00000259517,6.545201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.889587520191,,,-0.0970637063559,
+BFPC03M,"ENSG00000259517",ENSG00000259517,5.825097,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.967491798024,,,-0.0390976781682,
+BFPC04B,"ENSG00000259517",ENSG00000259517,6.961777,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0385637905102,,,-2.20848465712,
+BFPC04M,"ENSG00000259517",ENSG00000259517,6.796315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.0252684624533,,,-1.07929034582,
+BFPC04,"ENSG00000259517",ENSG00000259517,6.743547,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0623719215858,,,-2.37696414234,
+BODY08B,"ENSG00000259517",ENSG00000259517,6.263181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.37132370181,,,-0.36165499317,
+EDUC01,"ENSG00000259517",ENSG00000259517,5.780887,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.95826520871,,,2.812959719,
+FATM02M,"ENSG00000259517",ENSG00000259517,5.916748,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.616793794516,,,0.153043579779,
+FATM03M,"ENSG00000259517",ENSG00000259517,5.829357,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.696427277351,,,0.21244308732,
+FATM04B,"ENSG00000259517",ENSG00000259517,7.893605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.351720882616,,,-1.52866803708,
+FATM04M,"ENSG00000259517",ENSG00000259517,7.358486,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.313625513954,,,-1.03807704292,
+FATM04,"ENSG00000259517",ENSG00000259517,7.175607,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.32957506777,,,-1.5890393296,

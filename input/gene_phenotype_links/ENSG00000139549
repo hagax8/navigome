@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BIPO01,"DHH",ENSG00000139549,8.238892,,,,,,,,,,,-2.40548768881,,,,0.353997379432,,,,,,,,,,,,,,,,,,,,,,,,,,,0.493242029533,,,1.03620926196,,,,
+BIPO02M,"DHH",ENSG00000139549,6.181319,,,,,,,,,,,-1.10174683207,,,,0.1619957233,,,,,,,,,,,,,,,,,,,,,,,,,,,1.23894985624,,,0.558775371183,,,,
+BLOO29,"DHH",ENSG00000139549,12.916282,,,,,,,,,,,-0.326344755515,,,,-3.8837911542,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.9057492736,,,-0.986379219642,,,,
+BLOO34,"DHH",ENSG00000139549,22.584392,,,,,,,,,,,-0.830698878581,,,,-5.19699958176,,,,,,,,,,,,,,,,,,,,,,,,,,,-4.59957283403,,,-0.454932023892,,,,
+BODY03,"DHH",ENSG00000139549,6.874681,,,,,,,,,,,-0.338054570781,,,,2.93374000398,,,,,,,,,,,,,,,,,,,,,,,,,,,0.161351513509,,,1.30650939372,,,,
+BODY04,"DHH",ENSG00000139549,7.511097,,,,,,,,,,,-0.51847128231,,,,3.0226318837,,,,,,,,,,,,,,,,,,,,,,,,,,,0.305179642903,,,1.55472731084,,,,
+DEPR03M,"DHH",ENSG00000139549,6.013000,,,,,,,,,,,-1.15985655447,,,,2.36653744507,,,,,,,,,,,,,,,,,,,,,,,,,,,0.916431075235,,,1.93913476977,,,,
+EDUC03,"DHH",ENSG00000139549,13.488317,,,,,,,,,,,-0.127315764195,,,,2.39076936768,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.112238065756,,,2.02246302829,,,,
+MENA02F,"DHH",ENSG00000139549,9.128019,,,,,,,,,,,-0.672151853568,,,,-4.02253500587,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.392901687815,,,-1.40580233718,,,,
+OSTE04,"DHH",ENSG00000139549,6.013157,,,,,,,,,,,-1.55582195015,,,,2.96279456783,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.53933560968,,,3.92239193239,,,,
+SCBP01,"DHH",ENSG00000139549,6.144220,,,,,,,,,,,-1.12748020596,,,,0.217615289696,,,,,,,,,,,,,,,,,,,,,,,,,,,0.254775589317,,,3.93305342571,,,,

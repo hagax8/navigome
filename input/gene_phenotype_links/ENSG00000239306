@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"RBM14",ENSG00000239306,5.743788,,,,,,,,,,,,,,,,,,,-4.08154909126,,,,,,,,0.300081039099,,,,,,,,,,,,,-0.324216558269,,,,,,,,,
+BLOO02,"RBM14",ENSG00000239306,8.672805,,,,,,,,,,,,,,,,,,,-0.389017507342,,,,,,,,-0.924593147053,,,,,,,,,,,,,1.95282439504,,,,,,,,,
+BLOO27,"RBM14",ENSG00000239306,4.853717,,,,,,,,,,,,,,,,,,,-4.88817605582,,,,,,,,1.06290519358,,,,,,,,,,,,,-0.874955040605,,,,,,,,,
+FATM04B,"RBM14",ENSG00000239306,8.461577,,,,,,,,,,,,,,,,,,,-4.05368207951,,,,,,,,-1.06601425931,,,,,,,,,,,,,-0.837734232349,,,,,,,,,
+FATM04,"RBM14",ENSG00000239306,7.809864,,,,,,,,,,,,,,,,,,,-3.93526061789,,,,,,,,-1.16858470881,,,,,,,,,,,,,-0.59921379795,,,,,,,,,
+LEAN04B,"RBM14",ENSG00000239306,7.806319,,,,,,,,,,,,,,,,,,,0.321523079777,,,,,,,,-1.42661397208,,,,,,,,,,,,,-0.925406339432,,,,,,,,,
+LEAN04,"RBM14",ENSG00000239306,8.578445,,,,,,,,,,,,,,,,,,,0.457626098078,,,,,,,,-1.36234165437,,,,,,,,,,,,,-0.867095501501,,,,,,,,,
+LEAN05B,"RBM14",ENSG00000239306,6.748046,,,,,,,,,,,,,,,,,,,0.218544293902,,,,,,,,-1.55170469151,,,,,,,,,,,,,-0.665391295464,,,,,,,,,
+LEAN05,"RBM14",ENSG00000239306,9.331092,,,,,,,,,,,,,,,,,,,0.384771245531,,,,,,,,-1.43290988626,,,,,,,,,,,,,-0.712935988967,,,,,,,,,
+LEAN06B,"RBM14",ENSG00000239306,10.246440,,,,,,,,,,,,,,,,,,,-1.78055323956,,,,,,,,-3.74076753956,,,,,,,,,,,,,-0.775702962316,,,,,,,,,
+LEAN06M,"RBM14",ENSG00000239306,8.356340,,,,,,,,,,,,,,,,,,,-1.50640187243,,,,,,,,-2.55966696589,,,,,,,,,,,,,-1.5281305894,,,,,,,,,
+LEAN06,"RBM14",ENSG00000239306,11.330348,,,,,,,,,,,,,,,,,,,-1.72400263461,,,,,,,,-3.72291138995,,,,,,,,,,,,,-1.15282652568,,,,,,,,,

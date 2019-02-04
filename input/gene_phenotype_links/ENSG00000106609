@@ -1,0 +1,13 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"TMEM248",ENSG00000106609,6.170561,,,,,,,,,-1.01488656231,,,,,,,,,,,,,,,,,,,,,,,,0.27335195328,,,,,,,-3.51516098458,,,,,-3.11903349237,,,,
+BFPC04,"TMEM248",ENSG00000106609,6.520324,,,,,,,,,-1.33766633472,,,,,,,,,,,,,,,,,,,,,,,,0.261839958583,,,,,,,-3.66941393166,,,,,-3.32413783233,,,,
+BLOO06,"TMEM248",ENSG00000106609,6.625472,,,,,,,,,0.00659156287751,,,,,,,,,,,,,,,,,,,,,,,,0.732280666023,,,,,,,-3.4667208972,,,,,-2.21415860687,,,,
+BLOO09,"TMEM248",ENSG00000106609,6.632458,,,,,,,,,-0.291755187845,,,,,,,,,,,,,,,,,,,,,,,,0.773432920643,,,,,,,-3.54165000343,,,,,-2.4558065179,,,,
+BLOO10,"TMEM248",ENSG00000106609,6.545780,,,,,,,,,-0.349518424545,,,,,,,,,,,,,,,,,,,,,,,,0.725313409322,,,,,,,-3.49346405571,,,,,-2.37563750714,,,,
+BLOO12,"TMEM248",ENSG00000106609,7.035373,,,,,,,,,-0.0868581613024,,,,,,,,,,,,,,,,,,,,,,,,1.2604505059,,,,,,,-3.36631587461,,,,,-2.24145636296,,,,
+BLOO13,"TMEM248",ENSG00000106609,7.036760,,,,,,,,,-0.147748653131,,,,,,,,,,,,,,,,,,,,,,,,0.706206883753,,,,,,,-3.59181015532,,,,,-2.35105752119,,,,
+BLOO19,"TMEM248",ENSG00000106609,6.450935,,,,,,,,,-1.10508409934,,,,,,,,,,,,,,,,,,,,,,,,0.765554172087,,,,,,,-2.62284476172,,,,,-2.8975215038,,,,
+BLOO28,"TMEM248",ENSG00000106609,5.908017,,,,,,,,,1.43964537561,,,,,,,,,,,,,,,,,,,,,,,,-1.47206176227,,,,,,,2.17042374667,,,,,2.95023513355,,,,
+BLOO30,"TMEM248",ENSG00000106609,6.977077,,,,,,,,,-0.200714561835,,,,,,,,,,,,,,,,,,,,,,,,0.814779696266,,,,,,,-3.50273593547,,,,,-2.38803292984,,,,
+FATM04B,"TMEM248",ENSG00000106609,6.073272,,,,,,,,,-1.36079067403,,,,,,,,,,,,,,,,,,,,,,,,0.588278405067,,,,,,,-2.92449840926,,,,,-2.49576459305,,,,
+FATM04,"TMEM248",ENSG00000106609,5.900181,,,,,,,,,-1.59543657016,,,,,,,,,,,,,,,,,,,,,,,,0.651372464457,,,,,,,-2.92790579227,,,,,-2.60195672539,,,,

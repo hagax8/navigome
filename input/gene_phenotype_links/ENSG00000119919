@@ -1,0 +1,12 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+ANKY01,"NKX2-3",ENSG00000119919,10.065896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.58956183018,,-0.876578450203,,,,,,
+BLOO02,"NKX2-3",ENSG00000119919,6.860719,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.723431848572,,-2.57992718911,,,,,,
+BLOO05,"NKX2-3",ENSG00000119919,46.836242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.3042954237,,0.850929487879,,,,,,
+BLOO19,"NKX2-3",ENSG00000119919,23.996626,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-6.7504050294,,-1.77908266092,,,,,,
+BLOO26,"NKX2-3",ENSG00000119919,16.678339,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.54567410173,,-0.732357999232,,,,,,
+BLOO27,"NKX2-3",ENSG00000119919,16.204440,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.19662615757,,-0.903535254341,,,,,,
+BLOO28,"NKX2-3",ENSG00000119919,32.846765,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.50405124407,,2.01567556735,,,,,,
+BLOO33,"NKX2-3",ENSG00000119919,11.766344,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.90513945181,,0.501121069867,,,,,,
+CROH01,"NKX2-3",ENSG00000119919,23.620586,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.70457920814,,-0.747441356103,,,,,,
+INFB01,"NKX2-3",ENSG00000119919,24.368861,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.52264318646,,-0.637667506433,,,,,,
+ULCC01,"NKX2-3",ENSG00000119919,18.137290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.65340636929,,-0.958682937572,,,,,,

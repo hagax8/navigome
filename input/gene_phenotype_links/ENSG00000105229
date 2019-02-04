@@ -1,0 +1,11 @@
+code,target,ENSEMBL,association,Adipose_Subcutaneous,Adipose_Visceral_Omentum,Breast_Mammary_Tissue,Muscle_Skeletal,DGN_Whole_Blood,Whole_Blood,Artery_Aorta,Artery_Coronary,Artery_Tibial,Heart_Atrial_Appendage,Heart_Left_Ventricle,Spleen,Brain_Amygdala,Brain_Anterior_cingulate_cortex_BA24,Brain_Caudate_basal_ganglia,Brain_Nucleus_accumbens_basal_ganglia,Brain_Putamen_basal_ganglia,Brain_Cerebellar_Hemisphere,Brain_Cerebellum,Brain_Cortex,Brain_Frontal_Cortex_BA9,Brain_Hippocampus,Brain_Hypothalamus,Brain_Spinal_cord_cervical_c-1,Brain_Substantia_nigra,Nerve_Tibial,Cells_Transformed_fibroblasts,Cells_EBV-transformed_lymphocytes,Colon_Sigmoid,Colon_Transverse,Esophagus_Gastroesophageal_Junction,Esophagus_Mucosa,Esophagus_Muscularis,Liver,Minor_Salivary_Gland,Small_Intestine_Terminal_Ileum,Stomach,Adrenal_Gland,Pituitary,Pancreas,Thyroid,Lung,Ovary,Prostate,Testis,Uterus,Vagina,Skin_Not_Sun_Exposed_Suprapubic,Skin_Sun_Exposed_Lower_leg
+BFPC04B,"PIAS4",ENSG00000105229,9.168674,,,,,,0.537867776552,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.03933826231,,,,,,,,,,,,-2.56781650281
+BFPC04M,"PIAS4",ENSG00000105229,9.813524,,,,,,0.916380188818,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.62635112938,,,,,,,,,,,,-3.35349568471
+BFPC04,"PIAS4",ENSG00000105229,7.963411,,,,,,0.440581760571,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.89973213331,,,,,,,,,,,,-2.1849425242
+BLOO02,"PIAS4",ENSG00000105229,21.879920,,,,,,-0.349541971341,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.533535758087,,,,,,,,,,,,4.2390329413
+BLOO26,"PIAS4",ENSG00000105229,34.743378,,,,,,1.42360950653,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.306913061163,,,,,,,,,,,,-6.51636488542
+BLOO27,"PIAS4",ENSG00000105229,41.463202,,,,,,1.74077919838,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.166035721966,,,,,,,,,,,,-6.61433876288
+BODY08B,"PIAS4",ENSG00000105229,8.744800,,,,,,1.2374634981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.24881652961,,,,,,,,,,,,-2.37029013691
+BODY08M,"PIAS4",ENSG00000105229,9.811493,,,,,,1.90624114513,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.42836319487,,,,,,,,,,,,-3.25491396941
+BODY08,"PIAS4",ENSG00000105229,8.631063,,,,,,0.98200636015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.97109735197,,,,,,,,,,,,-2.03461262266
+FATM04M,"PIAS4",ENSG00000105229,6.338168,,,,,,1.36583596862,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-3.40993431812,,,,,,,,,,,,-2.99391212441
