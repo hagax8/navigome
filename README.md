@@ -10,6 +10,7 @@ python update_all.py {navigome_directory}
 The input directory on GitHub contains a minimal structure to create visualizations for a new phenotype (e.g. phenotype code SCHI01) and update all gene profile visualizations. At the moment, the directory only contains scripts to generate visualizations, not input files.
 
 ## Requirements
+Python>=3.6.6 and following packages:
 - altair>=2.2.2
 - scikit-learn>=0.20.0
 - numpy>=1.15.4
