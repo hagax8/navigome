@@ -2,7 +2,7 @@
 Scripts for visualizations used in Navigome (navigome.com). Most visualizations in Navigome are powered by [vega-lite](https://vega.github.io/vega-lite/) and [altair](https://altair-viz.github.io/).
 
 ## Usage
-The update_all.py python script in the scripts directory calls all visualization scripts used in Navigome. It takes as argument the Navigome directory, which should contain (1) an "input" directory, that would be regularly updated (minimal structure provided in the GitHub directory) (2) an empty "output" directory (3) the "scripts" directory (provided in the GitHub directory as well):
+The "update_all.py" python script in the scripts directory calls all visualization scripts used in Navigome. It takes as argument the Navigome directory, which should contain (1) an "input" directory, that would be regularly updated (minimal structure provided in the GitHub directory) (2) an empty "output" directory (3) the "scripts" directory (provided in the GitHub directory as well):
 ```
 python update_all.py {navigome_directory}
 ```
